@@ -1,8 +1,9 @@
+import os
 import requests
 
 def main():
     url = 'https://api.propublica.org/congress/v1/116/senate/members.json'
-    key = {"X-API-Key": "m03mFErJB4xjqffIwI4zKLZgbKddPCK1vylJPH1m"}
+    key = {"X-API-Key": os.environ['pp_api']}
     response = requests.get(url, headers=key)
     members = response.json()
 

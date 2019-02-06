@@ -1,3 +1,4 @@
+import os
 import requests
 import smtplib
 
@@ -24,7 +25,7 @@ def main():
     smtpObj = smtplib.SMTP('smtp.gmail.com', 587)
     smtpObj.ehlo()
     smtpObj.starttls()
-    smtpObj.login('fabienne.rosina.nicole@gmail.com', 'pythoncode123')
+    smtpObj.login('fabienne.rosina.nicole@gmail.com', os.environ['dev_pass'])
     smtpObj.sendmail('fabienne.rosina.nicole@gmail.com', 'fmeijer@stanford.edu', 'Subject: Earthquakes in the last 24 hours\nHi Fabienne, {}'.format(email))
     smtpObj.quit()
 

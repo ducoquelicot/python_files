@@ -1,5 +1,4 @@
 from bs4 import BeautifulSoup
-from itertools import count
 import csv, fnmatch, os, requests, time, urllib.request
 
 def main():

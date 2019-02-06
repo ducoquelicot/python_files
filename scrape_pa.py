@@ -26,15 +26,15 @@ def get_links(links, years):
         if links[row].getText()== 'Agenda and Packet':
             if fnmatch.fnmatch(links[row]['href'], '*://www.cityofpaloalto.org/*'):
                 agendas.append([links[row]['href']])
-                time.sleep(1)
-                urllib.request.urlretrieve(links[row]['href'], os.path.expanduser('~/Desktop/Python/Files/pdfs_' +str(years) + '_' +str(row) + '.pdf'))
                 time.sleep(2)
+                urllib.request.urlretrieve(links[row]['href'], os.path.expanduser('~/Desktop/Python/Files/pdfs_' +str(years) + '_' +str(row) + '.pdf'))
+                time.sleep(5)
             else:
                 links[row]['href'] = 'https://www.cityofpaloalto.org' + links[row]['href']
                 agendas.append([links[row]['href']])
-                time.sleep(1)
-                urllib.request.urlretrieve(links[row]['href'], os.path.expanduser('~/Desktop/Python/Files/pdfs_' +str(years) + '_' +str(row) + '.pdf'))
                 time.sleep(2)
+                urllib.request.urlretrieve(links[row]['href'], os.path.expanduser('~/Desktop/Python/Files/pdfs_' +str(years) + '_' +str(row) + '.pdf'))
+                time.sleep(5)
 
     # Write list into .csv file
     with open(os.path.expanduser('~/Desktop/Python/Files/agendas_' +str(years) + '.csv'), 'w') as agenda:

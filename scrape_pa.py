@@ -5,7 +5,7 @@ import csv, fnmatch, os, requests, time, urllib.request
 def main():
     pa_agenda = {2019: 'https://www.cityofpaloalto.org/gov/depts/cou/council_agendas.asp'}
 
-    for year in range(2015,2019):
+    for year in range(2002,2019):
         pa_agenda[year] = 'https://www.cityofpaloalto.org/gov/agendas/council/' + str(year) +'.asp'
     
     for year in pa_agenda.keys():

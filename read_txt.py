@@ -2,7 +2,7 @@ import glob, os, smtplib
 key_files = []
 
 def main():
-    text_list = glob.glob('/home/fabienne/Desktop/Python/Letters/*.txt')
+    text_list = glob.glob('/home/fabienne/Desktop/Python/Letters/letters_pdfs_2019*.txt')
 
     for text in text_list:
         keyword_search(text)

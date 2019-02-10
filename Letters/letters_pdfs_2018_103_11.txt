@@ -1,0 +1,887 @@
+                    City of Palo Alto                                         (ID # 9529)
+                    City Council Staff Report
+
+Report Type: Informational Report              Meeting Date: 9/10/2018
+
+Summary Title: PAFD Biannual Performance Report FY18
+
+Title: Palo Alto Fire Department Biannual Performance Report for the Second
+Half of Fiscal Year 2018
+
+From: City Manager
+
+Lead Department: Fire
+
+Recommendation
+Staff recommends the City Council review the Second Palo Alto Fire Department
+Biannual Performance Report for Fiscal Year 2018.
+
+Background and Discussion
+In Fiscal Year 2015 the Palo Alto Fire Department (PAFD) identified performance
+reporting as a key initiative, and began reporting on key performance measures
+quarterly. Beginning Fiscal Year 2018, the Department will be submitting reports twice
+each year.
+
+The report provides overall calls for service information, as well as more detailed
+information on the key service areas, including Emergency Medical Services, Fire
+Suppression, Rescue and Hazardous Materials Response, and Fire Prevention. The
+report also provides information on mutual and automatic aid with our regional public
+safety partners and internal workforce planning efforts.
+
+Performance measures include the following:
+
+        Calls for Service: This data provides information on the final outcome of all
+         emergency response calls. The data is tracked in the Fire Department’s Record
+         Management System, and uses standardized call type codes, which are defined
+         by the National Fire Incident Reporting System (NFIRS). The report includes
+         overall call volume by primary category, and a detailed listing of call type in the
+         service type sections.
+
+         In Fiscal Year 2018 the Department will be structuring and reporting on calls for
+         service based on the NFIRS category groups in order to maintain consistency
+
+
+City of Palo Alto                                                                     Page 1
+         amongst various City performance reports and statistics sent to State and
+         National reporting centers.
+
+        Response Times: This aspect measures the time it takes from an emergency call
+         or request for response being created in the dispatch center to the arrival of
+         resources to the scene of the emergency. This information is tracked in the
+         Computer Aided Dispatch (CAD) System, and the performance goals, or service
+         levels, are set by Council in accordance with county and national standards.
+
+        Ambulance Transports: The report provides the number of ambulatory transports
+         to hospitals or other medical care facilities, and the proportion of Emergency
+         Medical Calls that included transports. This information is tracked in the Fire
+         Department’s Emergency Medical Record Management System.
+
+        Fire Containment: This measures the proportion of building and structure fires
+         that are contained to the area or room of origin within Palo Alto and Stanford
+         Campus.
+
+        Mutual and Automatic Aid: This includes the number and proportion of all
+         incidents in which the PAFD provided aid to neighboring communities, as well as
+         the aid received from neighboring Fire Departments. This information is tracked
+         in the CAD System.
+
+        Permits: This provides the count of facility, electric vehicle, and solar permits
+         issued by the Fire Prevention Bureau. This information is currently tracked in the
+         Development Center’s Records Management System.
+
+        Inspections: A count of the total number of Hazardous Materials and State
+         Mandated inspections is provided. In addition, an estimated number of
+         inspections to be completed for the year is also provided to assess overall
+         workload performance to date.
+
+        Fire and Life Safety Plans Reviewed: This provides a total count of all plans
+         reviewed, as well as the proportion of plans that were reviewed within the time
+         guidelines.
+
+        Vacancies and Off-Line Employees: This section provides the total number of
+         budgeted full-time equivalent line personnel, current vacancies, and employees
+         that are off line from workers compensation or light duty. This information is
+         obtained from the Fire Department’s Staffing and Scheduling System (TeleStaff),
+         as well as the City’s Personnel Management System.
+
+        Succession Planning Metrics: This provides the number and proportion of line
+         personnel that are eligible to retire, or will be eligible within the next five years.
+
+City of Palo Alto                                                                        Page 2
+         This information is tracked in the City’s Personnel Management System. This
+         report also provides the total number of hours line personnel have spent in an
+         acting capacity. Personnel serving in an acting capacity are a key component of
+         the Department’s overall succession planning efforts. Acting capacity allows
+         junior officers to learn the responsibilities of higher ranks with guidance from
+         senior officers. This information is tracked in TeleStaff.
+
+     Training hours: The total number of training hours completed by all line
+      personnel is provided, as well as the average number of hours per each line
+      personnel on staff. This information is tracked in the Fire Department’s Record
+      Management System. Local, State and Federal mandates require fire personnel
+      to train a minimum of 20 hours per month.
+Attachments:
+    ATTACHMENT A_Coverletter
+    ATTACHMENT B_BiAnnual Performance Report FY18.2
+    Attachment C_EMS Survey
+    Attachment D_Thank You Notes
+
+
+
+
+City of Palo Alto                                                                  Page 3
+                                                                    City of Palo Alto
+                                                                    Fire Department
+
+
+
+
+Honorable Councilmembers,
+
+I am pleased to provide the enclosed performance report for the second half of Fiscal Year 2018. This
+period marks a significant change in our deployment, as the changes and staffing reductions approved
+by City Council in October 2017 took effect at the beginning of this period in January 2018.
+
+These changes were the result of a lengthy meet and confer process with the IAFF Union, Local 1319.
+The deployment changes shifted resources in order to better meet the needs of the community,
+increase ambulance availability, and spread the workload of the system more equitably amongst crews.
+
+The Department has been closely monitoring the performance of the new deployment internally, and
+the enclosed performance report shows that the system is continuing to perform well. Response times
+remain consistent with those from the same period of the prior fiscal year.
+
+We have also seen that with cross staffing and dispatch changes that the workload generated by the
+system is much more equitable across all units. This has allowed are busiest units to have time for fire
+inspections, training and other daily required tasks, which was previously a challenge with their call
+volume.
+
+I am also happy to report to you that the Department is nearing completion of the Accreditation
+Process. The Palo Alto Fire Department embarked on the process in 2013, beginning with the
+development of the Strategic Plan. Accreditation allows us to take a close assessment of the
+Department’s policies, procedures and programs and identify areas of strength and where we can
+continue to improve. I am grateful to our staff for the hard work and countless hours put into this
+intensive process. On August 9, 2018, the Commission on Fire Accreditation International awarded the
+Fire Department accreditation. The Palo Alto Fire Department becomes the tenth municipal fire
+department in California to achieve accreditation.
+
+Sincerely,
+
+
+
+
+Eric Nickel, EFO, CFC, CFO
+Fire Chief
+
+
+
+
+                                                                      P.O Box 10250
+                                                                      Palo Alto, CA 94303
+                                                                      650.329.2184
+                                                                      650.327.6951 fax
+                 Palo Alto Fire Department
+                 Bi-Annual Performance Report
+                 Fiscal Year 2018, Second Period
+Calls for Service
+The Palo Alto Fire Department (PAFD) responded to a total of 4,344 calls for service in the
+second period of Fiscal Year 2018. This includes responses within Palo Alto, Stanford, and
+neighboring cities to provide Auto and Mutual Aid. Approximately eighty-three percent (83%)
+of calls are generated from Palo Alto, fifteen percent (15%) from Stanford, and the remainder
+from neighboring cities or requests for regional fire deployment.
+The majority of calls were for Rescue and Emergency Medical Services, making up sixty-three
+percent (63%) of the responses. Table 1 below shows the main categories of the calls to which
+PAFD responded. Calls are classified based on the actual event occurred, rather than the initial
+call request.
+                          Call Type                     FY17 JAN-JUN FY18 JAN-JUN
+     Rescue and Emergency Medical Services Incidents       2,908        2,729
+     Good Intent                                             708          671
+     False Alarm and False Call                              615          553
+     Service Call                                            267          228
+     Fire                                                     70           84
+     Hazardous Condition, No Fire                            133           78
+     Overpressure Rupture, Explosion, Overheat, No Fire       2            1
+     Grand Total                                           4,703        4,344
+Good Intent and False Alarm calls make up the second largest types of responses. Most calls for
+service that may be a true threat of fire, gas or other emergency hazard are actually found to be
+something else after Firefighters investigate the situation. These calls are coded as Good Intent
+calls. As well, many fire alarm activations are from causes other than fire or emergency hazard.
+These situations are categorized as False Alarm calls.
+
+Emergency Medical Services
+Emergency Medical Service (EMS) is the primary service that the Palo Alto Fire Department
+provides to Palo Alto and Stanford. While this shift toward EMS is being seen across the region,
+the Palo Alto Fire Department is the only Fire Department in the County that provides
+ambulance and transport services.
+This is especially valuable to our community. The most recent Report from the Council on Aging
+Silicon Valley from 2012 indicates that Palo Alto has the highest percentage of the oldest
+PAFD FY18 Bi-Annual Performance Report
+
+seniors (75 and over) in the County. This population relies most on our services, with a service
+utilization rate more than six times greater than the rest of the population.
+Of the 2,729 Emergency Medical Service calls the PAFD responded to in the second period of
+Fiscal Year 2018, the overwhelming majority were for medical, trauma and cardiac calls that did
+not involve a vehicle accident.
+          Rescue and EMS Performance Measures                   FY17 JAN-JUN      FY18 JAN-JUN
+Emergency Medical Service Incident                                 2,849             2,687
+Extrication, Rescue                                                  39                23
+Lock-In                                                              17                10
+Rescue or EMS Standby                                                 3                 9
+                                                        Total      2,908             2,729
+Transports
+Number of Transports                                                 1,870            1,887
+Percent of EMS Calls resulting in transport                           64%              69%
+Response Times
+Percent of first responder arriving on scene to EMS calls
+within 8 minutes                                                     94%               92%
+Percent of paramedic responder arriving on scene to EMS
+calls within 12 minutes                                              99%               99%
+Average response time for first responder arriving on scene
+to EMS calls                                                         4:42              5:11
+This period reflects a slight dip in the number of Rescue and EMS Incident calls. The number of
+EMS calls that resulted in an ambulance transport to a local hospital or care facility, accounted
+for sixty nine percent (69%) of all EMS calls.
+The most common rescue calls involved the removal of victims from a stalled elevator totaling
+twenty-three (23) which is also a decrease in comparison to the same period of the previous
+fiscal year. Lock-Ins also depict a decrease this period accounting.
+
+     Response Time Goal Met: At least 90% of first responder arriving on scene to EMS calls
+      within 8 minutes.
+      This period the PAFD first responder arrived on scene to EMS calls within 8 minutes
+      ninety-two percent (92%) of the time.
+
+     Response Time Goal Met: At least 99% of paramedic responder arriving on scene
+      to EMS calls within 12 minutes.
+      This quarter the PAFD paramedic responder arrived on scene to EMS calls within
+      12 minutes ninety-nine percent (99%) of the time.
+
+
+
+
+                                                                                       2|Page
+PAFD FY18 Bi-Annual Performance Report
+
+
+Fire Suppression
+Very few of the potential fire calls coming into dispatch turn out to be a real fire once PAFD
+investigates the scene and cause of the concerning elements. This period PAFD responded to
+eighty-four (84) calls where fire was present, with seventy-five (75) in Palo Alto or Stanford.
+There were seven building fires that the Department responded to, five of which were
+contained to the area of origin.
+
+Here are the descriptions of the building fires that we had between Jan 01 and June 30:
+    January 15, 2018
+    This fire was at the Three Seasons Restaurant. When the first due engine arrived, they
+    reported heavy fire on the roof of a 2 story commercial building. There was also fire in the
+    kitchen of the restaurant, which was also determined to be where the fire originated. Based
+    on the investigation, the kitchen exhaust flue caught on fire and ran through the vent and
+    eventually, the roof. Unfortunately, the restaurant has closed and has gone under extensive
+    remodeling to repair fire damage.
+    March 6, 2018
+    This was a fire in a single family residence. The source of this fire was discovered in the
+    corner of the garage before it was extinguished. Smoke from the fire had charged the home
+    as well as the attic. Based on the investigation, the cause may have been faulty wiring.
+    March 25, 2018
+    This fire was reported as a duplex with flames seen from the front porch and spreading
+    laterally to the attached unit and along the eves. The fire was knocked down from the
+    exterior with no extension into the structure. Based on the first-in captain’s investigation,
+    the fire seemed to be caused by faulty wiring.
+    May 7, 2018
+    This fire was reported as a fire in a laboratory. It was reported that it was a small fire in a
+    battery test room and was extinguished with a C02 extinguisher.
+    June 12, 2018
+    This fire took place at a 2 story single family residence. The first-in engine was able to make
+    access and quickly knock down the fire. It appeared that the fire was possibly caused by a
+    malfunctioning power supply unit.
+    June 16, 2018
+    Engine 65 responded to a private fire alarm at an apartment complex. Upon arrival, they
+    heard an audible alarm. When the crews made access to the involved room, they found that
+    the fire was extinguished by the activated sprinkler head. The cause was determined to be a
+    faulty light fixture.
+
+
+
+
+                                                                                                      3|Page
+PAFD FY18 Bi-Annual Performance Report
+
+                 Fire Suppression Measures                     FY17 JAN-JUN     FY18 JAN-JUN
+ Structure Fire                                                     36               42
+ Mobile property (vehicle) fire                                      6               13
+ Natural vegetation on fire                                          7                6
+ Outside rubbish fire                                                5               22
+ Special outside fire                                                1                1
+                                                         Total      70               84
+ Response Times
+ Percent of first responder arriving on scene to Fire calls
+ within 8 minutes                                                   86%                88%
+ Average response time for first responder arriving on
+ scene to Fire calls                                                5:22               5:43
+ Fire Containment
+ Percent of building and structure fires contained to the
+ room or area of origin                                             90%                71%
+
+     Response Time Goal Not Met: At least 90% of first responder arriving on scene to
+      Fire calls within 8 minutes.
+
+      This period the PAFD first responder arrived on scene to Fire calls within 8
+      minutes eighty-eight percent (88%) of the time. This goal is consistently near
+      eight-five percent, and we are seeing consistent small increases as the
+      department continues to explore ways to improve on this measure.
+
+     Fire Containment Goal Not Met: At least 90% of building and structure fires
+      contained to the room or area of origin.
+
+      This period there were seven (7) building or structure fires within Palo Alto or
+      Stanford, of which five were contained to the room or area of origin. The two
+      fires that spread beyond the area of origin had grown beyond the original area
+      before crews arrived on scene. In both bases first responders arrived under six
+      minutes.
+
+
+
+
+                                                                                         4|Page
+PAFD FY18 Bi-Annual Performance Report
+
+
+Hazardous Materials
+The Fire Department responded to a total of 77 calls related to hazardous material (HazMat)
+incidents. The most common HazMat call is spills and leaks of either natural or liquid petroleum
+gas (LPG) which totaled 42. This number accounted for fifty-five (55%) percent of HazMat calls.
+The second highest HazMat calls were related to electrical wiring or equipment problems.
+Twenty-six (26) of these calls account for thirty-four (34%) percent of all HazMat calls.
+
+
+           Hazardous Materials Response Measures                FY17 JAN-JUN      FY18 JAN-JUN
+Combustible/Flammable spills and leaks                                32                35
+Electrical wiring/Equipment problem                                   26                26
+Accident, potential accident                                          10                6
+Chemical release, reaction, or toxic condition                        6                 6
+Biological hazard                                                     2                 5
+                                                        Total         76                78
+Response Times
+Average response time for first responder arriving on scene
+                                                                      6:17             7:00
+to Rescue & Hazardous Materials calls
+
+
+
+
+                                                                                      5|Page
+PAFD FY18 Bi-Annual Performance Report
+
+
+Mutual and Automatic Aid
+The Fire Department previously held automatic aid agreements with five regional Fire
+Departments, including Mountain View, Menlo Park, San Mateo County, and Santa Clara
+County Fire. At the request of the City of Mountain View, the automatic aid agreement was
+modified at the beginning of January this year resulting in a significant decrease in the number
+of calls compared to the prior fiscal year. The Palo Alto Fire Department continues to advocate
+for the closest unit response and collects objective data to support improved services to all of
+our communities under the previous automatic aid agreement. Of the other jurisdictions where
+mutual aid was provided Santa Clara County received the next highest aid from the department
+yet in comparison to the previous period, the data shows aid provided decreased about 42%.
+Three other agencies provided mutual or automatic aid for calls within Palo Alto or Stanford on
+a total of 66 incidents.
+
+
+                   Mutual Aid Performances                    FY17 JAN-JUN FY18 JAN-JUN
+Mutual and Auto Aid Provided
+Agency
+Mountain View Fire                                                 189          30
+Santa Clara County Fire                                             53          31
+Menlo Park Fire                                                     5            4
+San Mateo County                                                    0            1
+                             All Mutual and Auto Aid Provided      247          66
+Mutual and Auto Aid Received
+Agency
+Mountain View Fire                                                 193          44
+Menlo Park Fire                                                     30          13
+Santa Clara County Fire                                             16           4
+Woodside Fire                                                       7            5
+Moffett Fire                                                        3            0
+Santa Clara City Fire                                               2            0
+                             All Mutual and Auto Aid Received      251          66
+
+
+
+
+                                                                                      6|Page
+PAFD FY18 Bi-Annual Performance Report
+
+
+Fire Prevention
+The Fire Prevention Bureau ensures compliance with the Fire Code for the safety of occupants
+and protection of property. Fire Inspectors perform fire sprinkler and fire alarm inspections,
+plan checks, permitting, and field fire safety inspections with the goal of ensuring all
+construction complies with local and national codes.
+The number of plans to review slightly decreased by 1% compared to reviews in FY17 during the
+same period. The Bureau has kept up with reviewing the majority of plans on time despite the
+sizeable workload increase, with ninety-six percent (96%) of plans reviewed on time.
+The percentage of facilities inspected at sixteen percent (16%) is below the goal of twenty-five
+percent (25%). This is due to a staffing shortage, as one of the hazardous materials inspectors
+was out on disability for the duration of the reporting period. This was in addition to a vacancy
+created by a retirement at the beginning of the fiscal year. In the coming Fiscal Year, the Bureau
+expects to be fully staffed by September, as those on disability are expected to return and
+hiring processes will be finalized to fill vacancies.
+
+
+         Prevention Bureau Performance Measures                   FY17 JAN-JUN     FY18 JAN-JUN
+Permits
+Fire Permits Issued                                                    324              232
+Sprinkler Permits Issued                                               131              140
+Electric Vehicle Permits Issued                                         21               1
+Solar Permits Issued                                                   154               69
+Inspections
+Fire Inspections                                                      4,205            4,964
+Hazardous Material Inspections Completed                               170               87
+Number of Hazardous Material Inspections for the year                  584              563
+Percent of Hazardous Material Facilities Inspections Complete          29%              16%
+State Mandated Inspections Completed                                   169              397
+Number of State Mandated Inspections for the year                      397              397
+Percent of State Mandated Facilities Inspections Complete              43%             100%
+Fire and Life Safety Plan Review
+Plans Reviewed                                                         998              985
+Percent of Reviews Completed On-Time                                   97%              96%
+
+
+
+
+                                                                                       7|Page
+PAFD FY18 Bi-Annual Performance Report
+
+
+Workforce Planning
+This period marks the beginning of Deployment changes and staffing reductions approved by
+City Council in October 2017. The Department operates daily emergency response operations
+with a revised total of 86.00 FTE line personnel. This includes three battalions of crews that
+staff six stations in the City and Stanford 24 hours each day. Over the last period, the
+department has operated with 8.0 positions vacant and 7.0 employees off-line creating a total
+of 15.00 FTE positions that require backfilling with overtime.
+The permanent vacancies are mostly within the Firefighter and Apparatus Operator
+Classifications; one vacancy in the Captain rank due to a retirement, and one vacancy in the
+Battalion Chief rank due to a promotion. The Department is currently conducting an entry level
+hiring process for a fall academy.
+The Battalion Chief position is a critical middle management role, and in order to build on the
+Department’s succession planning efforts is in the process of updating the Acting Battalion
+Chief policies, with the goal of selecting Acting Battalion Chiefs through a process by winter
+2018.
+Training hours reported for this period reflect a drop which is significantly caused by a change
+of training and reporting software now used by the department. The Department is in the
+process of change management with regard to utilizing a new system for tracking training hours
+on duty. The reduced number reflects the transitional period, as the majority of training has not
+been accurately captured in the system. The Training Battalion Chief is working with crews and
+management staff to increase accountability with proper reporting. We should see an
+improvement and data that more accurately reflects training hours in the coming fiscal year.
+
+
+                          Vacancies and Off-Line Employees FY18 JAN-JUN
+
+                                                   Off-Line Employees                  Percent of
+                          Budgeted                                        Personnel
+     Classification                   Vacancies   (Workers Comp/Light                  Personnel
+                            FTE                                            On Line
+                                                          Duty)                         On Line
+Battalion Chief               4           1                 0                 3           75%
+Fire Captain                 22           1                 1                20           91%
+Fire Apparatus Operator
+                             60           6                 6                48           80%
+& Fire Fighters
+         TOTAL               86           8                 7                71           82%
+
+
+
+
+                                                                                       8|Page
+PAFD FY18 Bi-Annual Performance Report
+
+
+                             Succession Planning                                            FY17 JUL-DEC           FY18 JUL-DEC
+Personnel
+    Number of Line Personnel Currently Eligible to Retire                                          26                     21
+    Number of Line Personnel Eligible to Retire in Five Years                                      19                     22
+    Percent of all Line Personnel Eligible to Retire within Five Years                            48%                   51.2%
+    Number of Acting Battalion Chief Hours*                                                        84                      -
+    Number of Acting Captain Hours                                                               5,453                  5,201
+    Number of Acting Apparatus Operator Hours                                                    13,362                 12,437
+Training
+    Hours of Training Completed                                                                  14,587                 8,018
+    Average Hours Per Line Personnel                                                               95                    113
+*In the most recent Memorandum of Agreement with the Fire Chief’s Association, Battalion Chief’s cover each other’s
+vacancies with straight time. Rarely, a Fire Captain will work overtime to temporarily fill the shift vacancy for a Battalion Chief,
+but this is not captured in our systems as working out of class.
+
+
+
+
+                                                                                                                       9|Page
+PAFD
+VITAL SIGNS REPORT
+
+SURVEYS RECEIVED 1-1-2018 THROUGH 6-30-2018
+
+FILTERS: SURVEY: 1
+
+
+
+
+                                                          P.O. Box 100,
+                                                    Andover MA 01810
+                                                        (844) 340-6060
+                                              Feedback-Innovations.com
+                                 VITAL SIGNS PATIENT SATISFACTION REPORT
+
+
+
+
+1.0 EXECUTIVE SUMMARY
+PAFD received a total of 142 responses for this period. The highest rated section was
+Communication, with a total score of 96.5. The lowest rated section was Billing, with a total
+score of 88.93.
+   • The Communication section had a 97.6% increase in Degree ambulance staﬀ took your
+     condition seriously Grado en que el personal del ambulancia se tomó en serio su
+     condición.
+   • The Billing section had a 88.2% increase in Helpfulness of billing personnel Amabilidad
+     del personal de facturación. This may be a focus for further improvement.
+   • Percentile ranking this period is lower 31.25%.
+
+
+                                 Cumulative Score: 94.19
+
+
+
+
+        The benchmark is the mean average of all responses for all services in the Feedback Innovations database.
+
+
+
+
+                                                                                                                    1
+VITAL SIGNS PATIENT SATISFACTION REPORT
+
+
+
+
+                                          2
+                                   VITAL SIGNS PATIENT SATISFACTION REPORT
+
+
+
+
+2.0 IMPROVEMENT PRIORITY RANKING
+Rank      Question
+
+  1       Professionalism of person on the phone
+          Profesionalidad de la persona al teléfono
+  2       Ability of person on phone to meet your needs
+          Capacidad de la persona al teléfono para satisfacer sus necesidades
+  3       Speed in which person on the phone dispatched help
+          Velocidad en que la persona al teléfono envió la ayuda
+  4       Information given prior to ambulance arrival
+          Información ofrecida antes de la llegada de la ambulancia
+  5       Helpfulness of billing personnel
+          Amabilidad del personal de facturación
+  6       Ability of billing personnel to meet your needs
+          Capacidad del personal de facturación para satisfacer sus necesidades
+  7       Responsiveness of billing personnel to billing issues
+          Capacidad de respuesta a los problemas de facturación
+  8       Cleanliness of ambulance
+          Limpieza de la ambulancia
+  9       Wait time to get an ambulance
+          Tiempo de espera para conseguir una ambulancia
+ 10       Degree to which service was worth the fees
+          Grado en que el servicio es digno de los honorarios
+ 11       Likelihood of recommending ambulance service
+          Probabilidad de recomendar el servicio
+ 12       Ambulance staﬀ's concern for your privacy
+          La preocupación del personal del ambulancia en cuanto a su privacidad
+ 13       Degree ambulance staﬀ took your condition seriously
+          Grado en que el personal del ambulancia se tomó en serio su condición
+ 14       Ambulance staﬀ's eﬀorts to inform you about treatment
+          Los esfuerzos del personal del ambulancia para informarle sobre el procedimiento
+ 15       Degree to which the ambulance staﬀ worked together to care for you
+          Grado en que el personal del ambulancia trabajó en equipo para cuidar de usted
+ 16       Comfort of ambulance ride
+          Confort durante el viaje en ambulancia
+ 17       Your conﬁdence in skill of ambulance staﬀ
+          Su conﬁanza en la experiencia del personal del ambulancia
+ 18       Ambulance staﬀ cared for you as a person
+          Cuidados recibidos por personal del ambulancia
+ 19       How well your pain was controlled
+          ¿En qué grado se ha controlado su dolor?
+ 20       Your comfort when moved by ambulance staﬀ
+          Su comodidad cuando fue trasladado por el personal del ambulancia
+
+ The Improvement Priority Ranking uses a combination of score and correlation to overall satisfaction to determine the most
+important areas for improvement. The closer to 1 the more important it is to your patients that this aspect of your service be
+                                                     improved upon.
+
+
+
+
+                                                                                                                             3
+                                                     VITAL SIGNS PATIENT SATISFACTION REPORT
+
+
+
+TABLE OF CONTENTS
+.1.0
+  . . . EXECUTIVE
+        . . . . . . . . . . . SUMMARY
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1. . . . . .
+.2.0. . . IMPROVEMENT
+           . . . . . . . . . . . . . . .PRIORITY
+                                         . . . . . . . . .RANKING
+                                                           . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3. . . . . .
+ .TABLE
+    . . . . . .OF. . . CONTENTS
+                       . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4. . . . . .
+  .4.0
+    . . . SECTIONS
+           . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5. . . . . .
+.   .   . 4.1
+          . . .Dispatch
+                ...........          .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . .5.   .   .   .   .   .
+.   .   . 4.2
+          . . .Communication
+                ...........          .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . .6.   .   .   .   .   .
+.   .   . 4.3
+          . . .Medical
+                . . . . . .Care
+                            .....    .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . .7.   .   .   .   .   .
+.   .   . 4.4
+          . . .Billing
+                ...........          .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . .8.   .   .   .   .   .
+.   .   . 4.5
+          . . .Service
+                . . . . . .Quality
+                            .....    .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . .9.   .   .   .   .   .
+.   .   . 4.6
+          . . .Overall
+                ...........          .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 10
+                                                                                                                                                                                                                                                               ..    .   .   .   .   .
+
+
+
+3.0 DEMOGRAPHIC INFORMATION
+
+
+
+
+                                                                                                                                                                                                                                                             4
+                           VITAL SIGNS PATIENT SATISFACTION REPORT
+
+
+
+
+4.0 SECTIONS
+4.1 Dispatch
+Percentile ranking this period is lower 36.17%.
+
+The Dispatch section showed a 95.4% increase overall from Previous Period to Current
+Period, with a total score of 95.4. Drilling down by question for the Dispatch section:
+   • There was a 94.6% increase for
+     Professionalism of person on the phone Profesionalidad de la persona al teléfono , with
+     a score of 94.6.
+   • There was a 95.2% increase for Ability of person on phone to meet your needs
+     Capacidad de la persona al teléfono para satisfacer sus necesidades , with a score of
+     95.2.
+   • There was a 97.0% increase for Speed in which person on the phone dispatched help
+     Velocidad en que la persona al teléfono envió la ayuda , with a score of 97.0.
+   • There was a 94.8% increase for Information given prior to ambulance arrival
+     Información ofrecida antes de la llegada de la ambulancia , with a score of 94.8.
+
+
+
+
+                                                                                          5
+                           VITAL SIGNS PATIENT SATISFACTION REPORT
+
+
+
+
+4.2 Communication
+Percentile ranking this period is lower 41.67%.
+
+The Communication section showed a 96.5% increase overall from Previous Period to
+Current Period, with a total score of 96.5. Drilling down by question for the Communication
+section:
+   • There was a 95.6% increase for Ambulance staﬀ's concern for your privacy La
+     preocupación del personal del ambulancia en cuanto a su privacidad , with a score of
+     95.6.
+   • There was a 97.6% increase for Degree ambulance staﬀ took your condition seriously
+     Grado en que el personal del ambulancia se tomó en serio su condición
+     , with a score of 97.6.
+   • There was a 95.4% increase for Ambulance staﬀ's eﬀorts to inform you about
+     treatment Los esfuerzos del personal del ambulancia para informarle sobre el
+     procedimiento, with a score of 95.4.
+   • There was a 97.4% increase for Degree to which the ambulance staﬀ worked together
+     to care for you Grado en que el personal del ambulancia trabajó en equipo para cuidar
+     de usted, with a score of 97.4.
+
+
+
+
+                                                                                         6
+                          VITAL SIGNS PATIENT SATISFACTION REPORT
+
+
+
+
+4.3 Medical Care
+Percentile ranking this period is upper 47.92%.
+
+The Medical Care section showed a 95.48% increase overall from Previous Period to Current
+Period, with a total score of 95.48. Drilling down by question for the Medical Care section:
+   • There was a 97.0% increase for
+     Your conﬁdence in skill of ambulance staﬀ Su conﬁanza en la experiencia del personal
+     del ambulancia, with a score of 97.0.
+   • There was a 96.8% increase for Ambulance staﬀ cared for you as a person Cuidados
+     recibidos por personal del ambulancia, with a score of 96.8.
+   • There was a 94.4% increase for How well your pain was controlled ¿En qué grado se ha
+     controlado su dolor?, with a score of 94.4.
+   • There was a 95.6% increase for Your comfort when moved by ambulance staﬀ Su
+     comodidad cuando fue trasladado por el personal del ambulancia , with a score of 95.6.
+   • There was a 93.6% increase for Comfort of ambulance ride Confort durante el viaje en
+     ambulancia, with a score of 93.6.
+
+
+
+
+                                                                                          7
+                           VITAL SIGNS PATIENT SATISFACTION REPORT
+
+
+
+
+4.4 Billing
+Percentile ranking this period is lower 27.08%.
+
+The Billing section showed a 88.93% increase overall from Previous Period to Current Period,
+with a total score of 88.93. Drilling down by question for the Billing section:
+   • There was a 88.2% increase for Helpfulness of billing personnel Amabilidad del
+     personal de facturación, with a score of 88.2.
+   • There was a 89.8% increase for Ability of billing personnel to meet your needs
+     Capacidad del personal de facturación para satisfacer sus necesidades , with a score of
+     89.8.
+   • There was a 88.8% increase for Responsiveness of billing personnel to billing issues
+     Capacidad de respuesta a los problemas de facturación , with a score of 88.8.
+
+
+
+
+                                                                                          8
+                           VITAL SIGNS PATIENT SATISFACTION REPORT
+
+
+
+
+4.5 Service Quality
+Percentile ranking this period is lower 29.79%.
+
+The Service Quality section showed a 94.05% increase overall from Previous Period to
+Current Period, with a total score of 94.05. Drilling down by question for the Service Quality
+section:
+   • There was a 96.0% increase for Cleanliness of ambulance Limpieza de la ambulancia ,
+     with a score of 96.0.
+   • There was a 95.6% increase for Wait time to get an ambulance Tiempo de espera para
+     conseguir una ambulancia, with a score of 95.6.
+   • There was a 90.8% increase for Degree to which service was worth the fees Grado en
+     que el servicio es digno de los honorarios , with a score of 90.8.
+   • There was a 93.8% increase for Likelihood of recommending ambulance service
+     Probabilidad de recomendar el servicio , with a score of 93.8.
+
+
+
+
+                                                                                            9
+                           VITAL SIGNS PATIENT SATISFACTION REPORT
+
+
+
+
+4.6 Overall
+Percentile ranking this period is lower 22.92%.
+
+The Overall section showed a 94.8% increase overall from Previous Period to Current Period,
+with a total score of 94.8. Drilling down by question for the Overall section:
+   • There was a 94.8% increase for Overall rating of experience Valoración general de la
+     experiencia, with a score of 94.8.
+
+
+
+
+                                                                                        10
+Jesus,
+
+
+
+Thanks for making this little girl’s day! It looks like her fender is bent, and she couldn’t ride her bike
+unless you removed it. Add bike repair to our list of things we do for the community.
+
+
+
+If you don’t mind, I’d like to share this with the City Manager’s Office and Council as another example of
+PAFD members fulfilling our mission. I will make sure we get this note in your personnel file.
+
+
+
+Best,
+Eric
+
+From: Matt Elgin [mailto:mattelgin@gmail.com]
+Sent: Thursday, May 10, 2018 6:12 PM
+To: Fire
+Subject: Thank you
+
+
+
+
+Your kind fireman saved the day for my daughter, thanks! (Picture Included)
+Sent: Friday, June 15, 2018 1:59 AM
+To: Fire; Police
+Cc: Keene, James; Hoyt, George
+Subject: Appreciation Re: June 11, 2018 - Monday Evening Fire on Palo Alto Ave
+
+
+Hello City of Palo Alto, Fire Department and Police Department;
+
+I just want to put down in words, my appreciation for how the Fire and Police Department folks
+responded in our hour of need. You folks were unbelievably speedy getting to us within minutes,
+amazing in your teamwork and utterly awesome in your courtesy throughout the emergency. And it was
+noticed, the great care you took with precious computer equipment.
+
+I am a resident of 426 Palo Alto Ave. I woke from a nap around 10 pm to hear my upstair's neighbor say
+he saw smoke in his stairwell and was calling 911. In the two minutes it took me to grab the kitty and
+laptop, a policeman was already walking up to the door to guide us off the property. Just then, my next
+door neighbor rushed past into his apartment with the fire and I heard him say “Hurry, it's still a small
+fire, you can put it out!” Looking around we saw the firemen had arrived and were approaching. You
+contained it and prevented a disaster. Within the hour you were back out to us, answering our anxious
+questions and helping us to retrieve our car keys and bare essentials as we figured out how to cope with
+housing for the night. The National Disaster coordinator as well as the Red Cross and our neighborhood
+residents present were all wonderful, offering help and a place to stay as we digested our situation.
+
+Wednesday, on my way to clean up I met the building inspector on the street and he was most helpful in
+his efforts to make it possible for power to be re-established, so that we could get back into our living
+spaces. That day I also ran into the doctor two houses down. He stopped to ask how we were and then
+spoke of his admiration for the impressive teamwork shown by the fire fighters who responded, three
+fire engines worth! I don’t know what stations they came from but - Thank You ! You made a tough time
+easier.
+
+Today Thursday, I saw a team of police officers gathered at our place. I asked what they were up to - and
+they said “To learn from the situation”. The shock of the last few days is unravelling and with time to
+take a breath, I thought, its time to let you know what your efforts mean at this end. I cannot think of a
+better group of people for a community to rely on, you are much appreciated.
+
+With admiration and gratitude,
+
+Viviane Chen
+From: Lanie Wheeler [mailto:hswdw14@gmail.com]
+Sent: Tuesday, June 19, 2018 3:43 PM
+To: Nickel, Eric; Jonsen, Robert; Keene, James
+Subject: Many thanks
+
+
+
+
+Last Friday morning our family had the experience of needing to place a call to 911, resulting in a visit
+from the Palo Alto Fire Department paramedics and the Palo Alto Police Department and subsequent
+transport to the Stanford Hospital Emergency Room.
+
+
+
+I just felt compelled to let you all know how professionally and caringly each of the responders from the
+initial 911 operator to the paramedics to the police officer who remained with me after the ambulance
+left our house treated both my husband and me.
+
+
+
+I was too rattled to get any of their names except for Yolanda Clausen who left her card with me. The
+case number was 18-3189. If you can tie that back to specific responders, please let them know how
+grateful I am to them. I just know their work played a huge part in the prognosis for my husband's
+eventual recovery.
+
+
+
+Lanie Wheeler
+

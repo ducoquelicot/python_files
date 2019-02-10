@@ -4,8 +4,8 @@ import csv, fnmatch, os, requests, time, urllib.request
 def main():
     pa_agenda = {2019: 'https://www.cityofpaloalto.org/gov/depts/cou/council_agendas.asp'}
 
-    for year in range(2018,2019):
-        pa_agenda[year] = 'https://www.cityofpaloalto.org/gov/agendas/council/' + str(year) +'.asp'
+    # for year in range(2018,2019):
+    #     pa_agenda[year] = 'https://www.cityofpaloalto.org/gov/agendas/council/' + str(year) +'.asp'
     
     for year in pa_agenda.keys():
         output = scrape(pa_agenda[year])
@@ -26,13 +26,13 @@ def get_links(links, years):
             if fnmatch.fnmatch(links[row]['href'], '*://www.cityofpaloalto.org/*'):
                 agendas.append([links[row]['href']])
                 time.sleep(2)
-                urllib.request.urlretrieve(links[row]['href'], os.path.expanduser('~/Desktop/Python/Files/pdfs_' +str(years) + '_' +str(row) + '.pdf'))
+                urllib.request.urlretrieve(links[row]['href'], os.path.expanduser('~/Desktop/Python/PDF/pdfs_' +str(years) + '_' +str(row) + '.pdf'))
                 time.sleep(5)
             else:
                 links[row]['href'] = 'https://www.cityofpaloalto.org' + links[row]['href']
                 agendas.append([links[row]['href']])
                 time.sleep(2)
-                urllib.request.urlretrieve(links[row]['href'], os.path.expanduser('~/Desktop/Python/Files/pdfs_' +str(years) + '_' +str(row) + '.pdf'))
+                urllib.request.urlretrieve(links[row]['href'], os.path.expanduser('~/Desktop/Python/PDF/pdfs_' +str(years) + '_' +str(row) + '.pdf'))
                 time.sleep(5)
 
     # Write list into .csv file

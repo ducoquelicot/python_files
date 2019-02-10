@@ -1,0 +1,339 @@
+                    City of Palo Alto                                             (ID # 9277)
+                    City Council Staff Report
+
+Report Type: Informational Report                 Meeting Date: 6/11/2018
+
+Summary Title: Energy Risk Management Report
+
+Title: City of Palo Alto's Energy Risk Management Report for the First Half of
+Fiscal Year 2018
+
+From: City Manager
+
+Lead Department: Administrative Services
+
+Recommendation
+This is an informational report and no City Council action is required.
+
+Executive Summary
+Staff continues to purchase electricity and gas in compliance with the City’s Energy Risk
+Management Policies, Guidelines, and Procedures. This report is based on market prices and
+load and supply data as of December 31, 2017, the end of the first half of Fiscal Year (FY) 2018.
+
+The projected cost of the City’s fixed-price electricity purchases is $0.09 million lower than the
+market value of that electricity as of December 31, 2017 for the 12-month period beginning
+January 1, 2018. In the first half of FY 2018 (July 1, 2017 through December 31, 2017) the City’s
+credit exposure to fixed price contracts is minimal. The projected Electric Supply Operations
+Reserve is above the FY 2018 minimum guideline reserve level and the projected gas reserve is
+also above the FY 2018 guideline reserve level range.
+
+There were no exceptions to the Energy Risk Management Policies, Guidelines, or Procedures
+to report during the first half of FY 2018.
+
+Background
+The purpose of this report is to inform the Council about the status of the City’s energy
+portfolio and transactions executed with energy suppliers as of the end of the first half of FY
+2018. The City’s Energy Risk Management Policy requires that staff report on a quarterly basis
+but due to lower trading activity levels the Utility Risk Oversight Coordinating Committee
+(UROCC) has approved providing this report on a semi-annual basis to Council on: 1) the City’s
+energy portfolio; 2) the City’s credit and market risk profile; 3) portfolio performance; and 4)
+other key market and risk information.
+
+
+
+City of Palo Alto                                                                           Page 1
+The City’s Energy Risk Management Policy describes the management organization, authority,
+and processes to monitor, measure, and control market risks. “Market risks” include price and
+counterparty credit risk. These are risks that the City is exposed to on a regular basis in
+procuring electric supplies, and to a lesser extent for gas supplies which are purchased at
+market rates via a monthly index price. The energy risk management section is located in the
+Treasury Division of the Administrative Services Department. Its role is to monitor and mitigate
+these risks.
+
+This first half of FY 2018 energy risk management report contains information on the following:
+
+        Electric Supplies
+        Hydroelectricity
+        Fixed-Price Forward Electricity Purchases
+        Gas Supplies
+        Credit Risk
+        Electric Forward Mark-to-Market Values
+        Electric and Gas Supply Operations Reserves Adequacy
+        Exceptions to Energy Risk Management Policies, Guidelines, or Procedures
+
+Discussion
+Electric Supplies
+In order to serve the City’s electric supply demands, the City obtains electricity from:
+hydroelectric resources (from Western and Calaveras Hydroelectric Projects); long-term
+renewable energy contracts (from landfill gas converted to electricity, wind, and solar projects);
+wholesale purchases which are carried out via fixed-priced forward market purchase contracts;
+and the electric spot market.
+
+Figure 1 below illustrates the projected sources and expected purchases of electricity supplies
+by month for the 36 months from January 1, 2018 to December 31, 2020, in megawatt-hours
+(MWh). Sales of surplus energy in the summer months are typical due to the seasonal profile of
+the City’s generating portfolio as a result of renewable energy power from hydroelectricity,
+solar, and wind.
+
+
+
+
+City of Palo Alto                                                                           Page 2
+                              Figure 1 - Electric Balance
+                    160,000
+
+                    140,000
+
+                    120,000
+
+                    100,000                                                             Wind
+   Megawatt Hours
+
+
+
+
+                                                                                        Wholesale
+                     80,000
+                                                                                        Western
+                     60,000
+                                                                                        Solar
+
+                     40,000                                                             Landfill
+
+                                                                                        Calaveras
+                     20,000
+                                                                                        Total Load
+                          0
+
+                    -20,000
+
+                    -40,000
+
+
+Hydroelectricity
+The cost of hydroelectricity received from Western over the 12-month period ending December
+31, 2017 is lower than the market value of electricity by $5.1 million. Hydroelectric power from
+Calaveras was expected to cost $6.7 million (as of December 31, 2017) more than the market
+value of electricity. Note that Calaveras provides benefits not reflected in the mark-to-market
+(MTM) calculation, including, for example, ancillary services (e.g., the ability to regulate energy
+output when the electric grid needs change), and that much of the above-market costs are
+related to debt service on the cost of constructing the dam. This debt is due to be retired in
+2032, and retirement will substantially improve the value of the project relative to the market
+price of electricity.
+
+Fixed-Price Forward Electricity Purchases
+The City as of December 31, 2017 has purchased and/or sold fixed-priced supplies of electricity
+totaling 103,370 MWh for delivery in FY 2018 with an average price of $35.06 per MWh. The
+City contracted for these purchases with three of its approved counterparties: Powerex, Exelon,
+and NextEra Energy Resources. The 12-month MTM value of the City’s forward transactions for
+wholesale power was $0.09 million at the end of the first half of FY 2018. In other words, the
+purchase cost (contract price) for these transactions was lower than the market value as of
+December 31, 2017. The City tracks the mark to market value of its forward contracts to
+measure the value that would be lost due to a counterparty failing to deliver on its contractual
+commitments, forcing the City to purchase replacement electricity in the market. The exposure
+
+
+City of Palo Alto                                                                               Page 3
+listed above is well within risk management guidelines and presents little risk to the City’s
+financial outlook.
+
+The figures below represent the electric forward volumes (Figure 2) and MTM positions (Figure
+3) for each electric supplier by month of delivery for all forward fixed-price electricity contracts
+over the 12-month period ending December 31, 2018.
+
+
+                                Figure 2 - Electric Forward Volumes as of 12/31/17
+                      30,000
+
+                      20,000
+                                                                                       Powerex
+                      10,000
+     Megawatt Hours
+
+
+
+
+                           0                                                           Exelon
+
+                      -10,000
+                                                                                       NextEra Energy
+                                                                                       Resources
+                      -20,000
+
+                      -30,000
+
+                      -40,000
+
+
+
+
+City of Palo Alto                                                                                Page 4
+                                    Figure 3 - Electric Mark-to-Market Values as of 12/31/2017
+                         60,000
+
+
+
+                         40,000
+
+
+
+                                                                                                                                                   Powerex
+     MTM Dollar Amount
+
+
+
+
+                         20,000
+
+
+                                                                                                                                                   Exelon
+                              -
+
+
+
+
+                                                                                                                                 Nov-18
+                                                Feb-18
+
+
+
+
+                                                                                                               Sep-18
+                                                                           May-18
+
+
+
+
+                                                                                                                        Oct-18
+                                                                                                      Aug-18
+                                                                                    Jun-18
+                                                                  Apr-18
+
+
+
+
+                                                                                             Jul-18
+                                                         Mar-18
+
+
+
+
+                                                                                                                                          Dec-18
+                                       Jan-18
+
+
+
+
+                                                                                                                                                   NextEra
+                                                                                                                                                   Energy
+                         (20,000)                                                                                                                  Resources
+
+
+
+                         (40,000)
+
+
+
+                         (60,000)
+
+
+Gas Supplies
+In order to serve the City’s natural gas needs, the City purchases gas on the monthly and daily
+spot markets. The City purchases all of its forecasted gas needs for the month ahead at a price
+based on the published monthly spot market index price for that month. Within the month, the
+City’s gas operator buys and sells gas to match the City’s daily needs if the actual daily usage is
+different from the forecasted daily usage. Those daily transactions are made at an average price
+based on the published daily spot market index. These costs are passed through directly to
+customers using a monthly rate adjustment mechanism, leaving the City with little or no price
+risk or counterparty risk exposure for the gas utility.
+
+Credit Risk
+Staff monitors and reports on counterparty credit risk based on the major credit rating agencies
+(S&P and Moody’s) scores, Ameresco has a 0.68 percent Expected Default Frequency (EDF)
+which is higher than the recommended EDF level. As May 2018, this has declined to 0.45
+percent so there has been an improvement. Staff is continuing to monitor Ameresco’s EDF and
+will continue to report back to City Council. Table 1 below shows the EDF values for the City’s
+renewable energy counterparties. Table 2 below shows the EDF values and credit exposure for
+the City’s electric suppliers. There is virtually no credit exposure to the City’s gas suppliers since
+the supplies are purchased on a short-term basis.
+
+
+
+
+City of Palo Alto                                                                                                                                      Page 5
+Table 1 - Renewable Counterparties Credit Ratings and EDFs as of 12/31/17
+                                                                       Current  Moody's
+                                                                      Expected   (EDF)
+                                                     S&P Credit         Default Implied
+                      Renewable Counterparty           Rating         Frequency Rating
+
+                     Ameresco                             n/a               0.68%       B2
+
+                     Avangrid (fomerly Iberdrola)        BBB+               0.24%       Aa2
+                     Source: CreditEdge website
+
+
+Table 2 - Credit Exposure and Expected Default Frequency of Electric Suppliers as of 12/31/17
+                                                                                                  Expected Loss
+                                                                              Current   Moody's      (MTM x
+                             Market                                 S&P      Expected    (EDF)      Expected
+   Electric      Cost of    Value of         Cost vs. Market to    Credit     Default   Implied      Default
+ Counterparty Transaction Transaction       Market (MTM) Value     Rating   Frequency    Rating    Frequency)
+
+Exelon              $ 1,831,232 $ 1,755,823 $           (75,409)    BBB       0.06%      Baa3     $         -
+Powerex                 272,240     258,136             (14,104)    AAA         n/a       n/a             n/a
+NextEra               1,520,573   1,598,127              77,554      A-       0.03%      Aa1                 23
+ Totals             $ 3,624,045 $ 3,612,086 $           (11,959)                                  $         23
+
+
+Electric Forward Mark-to-Market Values
+It is important to note that, for renewable energy companies, Council waived the investment
+grade credit rating requirement of Section 2.30.340(d) of the Palo Alto Municipal Code, which
+applies to energy companies that do business with the City. In addition, the City does not pay
+for renewable energy until it is received, thereby reducing risk.
+
+An EDF of 0.08% or below indicates supplier’s current expected default frequency falls within
+the investment grade range. An EDF above 0.08% indicates the supplier may have financial
+issues that require monitoring.
+
+Electric and Gas Supply Operations Reserves Adequacy
+As shown in Table 3 below, the Electric Supply Operations reserve’s unaudited balance as of
+December 31, 2017 is $13.9 million, which is $2.3 million below the minimum reserve guideline
+level. By year end, transfers from the rate stabilization and other reserves are expected to bring
+this to the middle of the reserve guideline. This balance is above the immediate 12-month
+credit, hydro, and other risks that have been identified, and are estimated at $3.2 million. The
+unaudited Gas Operations reserve balance as of December 31, 2017 is $12.1 million, which is
+$5.9 million above the minimum reserve guideline level.
+
+
+
+
+City of Palo Alto                                                                                        Page 6
+Table 3 - Electric Supply Operations and Gas Operations Reserve Levels for FY 2018
+            (Preliminary unaudited figures from City’s Financial System)
+                                                                           FY 2018
+                                 Changes
+                 Reserve for       to the     Unaudited Projected Minimum Maximum
+                 Operations      Reserves         Reserve for      Guideline Guideline
+                 Balance as          for     Operations Balance as Reserve       Reserve
+                of 07/01/2017   Operations       of 12/31/17 *       Level        Level
+    Fund         ($ Millions)   ($ Millions)      ($ Millions)    ($ Millions) ($ Millions)
+
+
+Electric            $12.9          $1.0             $13.9             $16.2        $32.3
+Gas                 $13.5         ($1.4)            $12.1              $6.2        $12.4
+
+*   The accounting activity to date reflects what has been booked into the City’s financial system. These
+    figures are preliminary until outside auditors have completed their review and the Comprehensive
+    Annual Financial Report is produced. There could be significant changes to the supply operation
+    reserve balances based on year-end adjustments that have not been booked yet.
+
+Exceptions to Energy Risk Management Policies, Guidelines, or Procedures
+There were no exceptions to the Energy Risk Management Policies, Guidelines, or Procedures
+to report during the first half of FY 2018.
+
+
+
+
+City of Palo Alto                                                                                 Page 7
+

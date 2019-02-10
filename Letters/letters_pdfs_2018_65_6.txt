@@ -1,0 +1,943 @@
+                    City of Palo Alto                                          (ID # 9463)
+                    City Council Staff Report
+
+Report Type: Informational Report                 Meeting Date: 11/5/2018
+
+Summary Title: CAPER for the CDBG Program for FY 2017
+
+Title: Consolidated Annual Performance and Evaluation Report (CAPER) for
+the Community Development Block Grant (CDBG) Program for Fiscal Year
+2017
+
+From: City Manager
+
+Lead Department: Planning and Community Environment
+
+
+Recommendation
+This is an informational report and no Council action is required.
+
+Background
+The preparation and submittal of a Consolidated Annual Performance and Evaluation Report
+(CAPER) is a requirement of the U.S. Department of Housing and Urban Development (HUD) for
+the receipt of Federal Community Development Block Grant (CDBG) funds. The attached
+document, Attachment A, was submitted to HUD on September 28, 2018, following the
+required 15-day public review period. It is being provided to the Council for informational
+purposes only.
+
+Discussion
+This CAPER represents the third year of the City’s Five-Year Consolidated plan covering the
+period 2015-2020 and summarizes the accomplishments under the CDBG program for the
+period July 1, 2017 to June 30, 2018. As required, the CAPER consists of specific program
+narratives, an assessment of annual performance, and an assessment of progress toward
+meeting goals and objectives contained in the Consolidated Plan.
+
+Finally, this CAPER summary report is intended to inform the public on how the CDBG funds
+administered by the City of Palo Alto during the 2017-18 Fiscal Year have been expended and
+describes the extent to which the purposes of the grant program have been carried out. The
+amount funded to specific activities is reported the year they are funded. However, due to the
+
+
+
+City of Palo Alto                                                                       Page 1
+nature of certain projects, it is common for projects to overlap program years and
+accomplishments are reported when the project has been completed and in some cases when
+the units become occupied.
+
+Summary of Accomplishments
+CDBG funds were used for public services and economic development activities. Palo Alto has
+five primary CDBG program activity areas in which to allocate funds: Public Services, Planning
+and Administration, Economic Development, Housing, and Public Facilities. Funds were
+allocated in accordance with the goals and objectives set forth in the 2015-2020 Consolidated
+Plan. The major accomplishments include the following:
+
+    •    Continued implementation of the Workforce Development Program which led to 32
+         previously unemployed individuals reentering the workforce;
+    •    Assisted 20 individuals in investigating their fair housing complaints
+    •    Services received by 614 homeless individuals at the Opportunity Services Center
+    •    Assisted 369 seniors in Long-Term Care
+    •    Services were provided to 142 persons through the SRO Resident Support Program by
+         Palo Alto Housing
+    •    Assisted 6 people with domestic violence services; and
+    •    Improved access to 130 persons to decent affordable housing.
+
+Attachment A, provides a detailed description of the various programs and project
+accomplishments within the fiscal year.
+
+
+Resource Impact
+The total investment of CDBG funds in Palo Alto approved for Fiscal Year 2017-18 was
+$901,415. Of this amount, $85,014 was directed to public service activities, $336,400 for
+Economic Development, $365,529 for housing and public facilities rehabilitation, $32,012 for
+Fair Housing Services, and $82,460 was allocated for administration activities.
+
+Environmental Review
+For purposes of the National Environmental Policy Act (NEPA) and the California Environmental
+Quality Act (CEQA), this action itself is not a project; therefore, no environmental impact
+assessment is necessary.
+
+Attachment A:
+2017 Consolidated Annual Performance and Evaluation Report (CAPER)
+Attachments:
+2017 Consolidated Annual Performance and Evaluation Report (CAPER) (PDF)
+
+
+
+City of Palo Alto                                                                       Page 2
+                    FY 2017
+       CONSOLIDATED ANNUAL PERFORMANCE
+            AND EVALUATION REPORT
+
+                    July 1, 2017 through June 30, 2018
+Public Review and Comment Period: August 31, 2018 – September 24, 2018
+
+                  Erum Maqbool, CDBG Staff Specialist
+          Department of Planning and Community Environment
+                250 Hamilton Avenue, Palo Alto, CA 94301
+          T: 650‐329‐2660 E: erum.maqbool@cityofpaloalto.org
+                                                                                                                                                                 |
+
+
+
+                                                                 Table of Contents
+
+CR-05 - Goals and Outcomes ..............................................................................................................1
+    Progress made in carrying out strategic plan and action plan. 91.520(a) ........................................... 1
+    Comparison of the proposed versus actual outcomes for each outcome measure submitted with
+         the consolidated plan 91.520(g)................................................................................................... 1
+    Assess how the jurisdiction’s use of funds addresses the priorities and specific objectives identified
+         in the plan...................................................................................................................................... 2
+CR-10 - Racial and Ethnic composition of families assisted...................................................................4
+    Describe the families assisted (including the racial and ethnic status of families assisted). 91.520(a) 4
+CR-15 - Resources and Investments 91.520(a) .....................................................................................5
+    Identify the resources made available .................................................................................................. 5
+    Identify the geographic distribution and location of investments ....................................................... 5
+    Leveraging ............................................................................................................................................. 6
+CR-20 - Affordable Housing 91.520(b) ............................................................................................... 8
+    Evaluation of the jurisdiction's progress in providing affordable housing. ........................................ 8
+    Discuss the difference between goals and outcomes and problems encountered in meeting these
+         goals. ........................................................................................................................................... 8
+    Discuss how these outcomes will impact future annual action plans. ............................................... 9
+    Include the number of extremely low-income, low-income, and moderate-income persons served
+         by each activity............................................................................................................................ 9
+CR-25 - Homeless and Other Special Needs 91.220(d, e); 91.320(d, e); 91.520(c) ................................ 10
+    Reaching out to homeless persons (especially unsheltered persons) and assessing needs .............. 10
+    Addressing the emergency shelter and transitional housing needs of homeless persons................. 10
+    Helping low-income individuals and families avoid becoming homeless ........................................... 11
+    Helping homeless persons .................................................................................................................. 11
+CR-30 - Public Housing 91.220(h); 91.320(j) ....................................................................................... 13
+    Actions taken to address the needs of public housing ....................................................................... 13
+    Actions taken to encourage public housing residents to become more involved in .......................... 13
+    Actions taken to provide assistance to troubled PHAs ....................................................................... 13
+CR-35 - Other Actions 91.220(j)-(k); 91.320(i)-(j) ................................................................................ 14
+    Actions taken to remove or ameliorate the negative effects of public policies that serve as barriers
+         to affordable housing such as land use controls, tax policies affecting land, zoning ordinances,
+         building codes, fees and charges, growth limitations, and policies affecting the return on
+         residential investment. 91.220 (j); 91.320 (i) .............................................................................. 14
+    Actions taken to address obstacles to meeting underserved needs. 91.220(k); 91.320(j)................ 15
+    Actions taken to reduce lead-based paint hazards. 91.220(k); 91.320(j) ........................................... 16
+    Actions taken to reduce the number of poverty-level families. 91.220(k); 91.320(j) ........................ 16
+    Actions taken to develop institutional structure. 91.220(k); 91.320(j)............................................... 17
+    Actions taken to enhance coordination between public and private housing and social service
+         agencies. 91.220(k); 91.320(j) ..................................................................................................... 17
+                                                                                                                                                      |
+
+
+
+    Identify actions taken to overcome the effects of any impediments identified in the jurisdictions
+         analysis of impediments to fair housing choice. 91.520(a) ........................................................ 17
+CR-40 - Monitoring 91.220 and 91.230 .............................................................................................. 19
+    Describe the standards and procedures used to monitor activities carried out in furtherance of the
+         plan and used to ensure long-term compliance with requirements of the programs involved,
+         including minority business outreach and the comprehensive planning requirements ............ 19
+    Citizen Participation Plan 91.105(d); 91.115(d) .................................................................................. 19
+    Describe the efforts to provide citizens with reasonable notice and an opportunity to comment on
+         performance reports. .................................................................................................................. 19
+CR-45 - CDBG 91.520(c) .................................................................................................................... 19
+    Specify the nature of, and reasons for, any changes in the jurisdiction’s program objectives and
+         indications of how the jurisdiction would change its programs as a result of its experiences... 19
+    Brownfields Economic Development Initiative grants ........................................................................ 19
+    [BEDI grantees] Describe accomplishments and program outcomes during the last year. .............. 20
+
+
+                                                              Table of Figures
+
+Table 1 – Accomplishments – Program Year & Strategic Plan to Date ...................................................... 1-2
+Table 2 – Table of assistance to racial and ethnic populations by source of funds ......................................4
+Table 3 – Resources Made Available ............................................................................................................ 5
+Table 4 – Identify the geographic distribution and location of investments................................................ 5
+Table 6 – Number of Households ............................................................................................................... 8
+Table 7 – Number of Households Supported.............................................................................................. 8
+Table 8 – Number of Persons Served .......................................................................................................... 9
+
+
+
+APPENDICES
+
+A - Public Hearing Notice
+B - IDIS Reports
+C - Section 3 Report
+D - Notes on IDIS Reports
+E - Public Comments
+CR-05 - Goals and Outcomes
+Progress the jurisdiction has made in carrying out its strategic plan and its action plan. 91.520(a)
+
+Below is a description of the progress the City of Palo Alto has made in achieving the goals outlined in its strategic plan and annual action. In
+fiscal year 2017-18, the City achieved the majority of its annual goals & is on track to meet most of the five year goals outlined in the
+Consolidated Plan.
+
+Unforunately, due to factors outside of the City’s control, the City did not meet the Affordable Housing goal to rehabilitated 103 housing units.
+The reasons are described later in this report & the City is working with its subrecipient to ensure that work on the programs moves forward.
+
+Comparison of the proposed versus actual outcomes for each outcome measure submitted with the consolidated plan and
+explain, if applicable, why progress was not made toward meeting goals and objectives. 91.520(g)
+
+Categories, priority levels, funding sources and amounts, outcomes/objectives, goal outcome indicators, units of measure, targets, actual
+outcomes/outputs, and percentage completed for each of the grantee’s program year goals.
+
+
+ Goal                    Category             Indicator               Unit of        Expected    Actual –    Percent    Expected   Actual –   Percent
+                                                                      Measure        –           Strategic   Complete   –          Program    Complete
+                                                                                     Strategic   Plan                   Program    Year
+                                                                                     Plan                               Year
+                                                                      Household
+ Affordable              Affordable           Rental units
+                                                                      Housing        103         0                      103        0
+ Housing                 Housing              rehabilitated                                                  0.00%                            0.00%
+                                                                      Unit
+                         Non-Housing
+ Economic
+                         Community            Jobs created/retained   Jobs           125         32                     30         32
+ Development                                                                                                 25.60%                           106.67%
+                         Development
+
+
+
+
+                                                                             CAPER                                                     1
+OMB Control No: 2506-0117 (exp. 06/30/2018)
+                                              Public service
+                         Non-Housing          activities other than
+                                                                       Persons
+ Fair Housing            Community            Low/Moderate                             100        20                  15    20
+                                                                       Assisted                              20.00%                   133.33%
+                         Development          Income Housing
+                                              Benefit
+                                              Public service
+                                              activities for
+                                                                       Households
+ Homelessness            Homeless             Low/Moderate                             2500       756                 531   756
+                                                                       Assisted                              30.24%                   142.37%
+                                              Income Housing
+                                              Benefit
+                         Non-Homeless         Public service
+                         Special Needs        activities other than
+ Strengthen                                                            Persons
+                         Non-Housing          Low/Moderate                             2500       508                 298   508
+ Neighborhoods                                                         Assisted                              20.32%                   170.47%
+                         Community            Income Housing
+                         Development          Benefit
+                                                 Table 1 - Accomplishments – Program Year & Strategic Plan to Date
+
+
+
+
+Assess how the jurisdiction’s use of funds, particularly CDBG, addresses the priorities and specific objectives identified in the plan,
+giving special attention to the highest priority activities identified.
+
+The City of Palo Alto was able to achieve many of its goals outlined in the 2017 Action Plan and 2015-2020 Consolidated Plan. In total, the City’s
+CDBG program assisted 1316 persons access needed services. Of these persons, 925 were extremely low-income, 70 were very low-income, 169
+were low-income & 152 were moderate income.
+
+The City’s subrecipient (Community Working Group/Opportunity Center Housing Development Corporation) received $220,000 in FY 17-18 to
+rehabilitate 88 affordable rental units at Opportunity Center for individuals and families who are homeless or at risk of becoming homeless. The
+project encountered unexpected issues involving changes within the organization. As a result, the project was delayed and no work was
+completed in FY 17-18. However, the City worked diligently with the sub-receipent over the last year to ensure that the project moves forward.
+The Rehabilitation work phase began in September 2018 & is expected to be completed by the end of 2018. The City will work with the
+                                                                              CAPER                                          2
+OMB Control No: 2506-0117 (exp. 06/30/2018)
+subreceipient to ensure that accurate accomplishment data is secured & that the information is entered into IDIS and reported to HUD.
+
+In addition, the City of Palo allocated a total of $145,529 in CDBG funds for the Minor Home Repair Program in FY 17-18. After discussions with
+the City’s HUD representative, the program was developed under the Housing Rehabilitation category. Although a number of non-profits
+expressed interest when the City solicited proposals for a program administrator for the Minor Home Repair Program through its CDBG NOFA
+processs in November, 2017, no applications were received.
+
+After the initial NOFA was closed, the City staff reached out to local nonprofits regarding the program & decided to reissued a Notice of CDBG
+funding availability on February 9, 2018 with completed applications due February 22, 2018. The City received one application.
+
+Upon review of the application, the CDBG staff awarded the Minor Home Repair Program contract to Habitat for Humanity of the East Bay
+(Habitat) in May 2018. Habitat has many years of experience administrating similar programs throughout the Bay Area.
+
+Given that the Minor Home Repair Program is new, Habitat is focusing on conducting marketing and outreach to engage the community and
+increase awareness of the program. Thus far, about 10 residents have contacted Habitat, of which 4 are in dialogue to complete applications and
+4 have completed applications & are in the process of being verified for program approval.
+
+Due to the factors described, the City did not meet its annual goal of providing repair assistance to 15 households in FY 17-18. The City and
+Habitat will work diligently to serve as many income qualified households as possible in FY 18-19 in hopes of achieving the annual goal.
+
+
+
+
+                                                                      CAPER                                                  3
+OMB Control No: 2506-0117 (exp. 06/30/2018)
+CR-10 - Racial and Ethnic composition of families assisted
+Describe the families assisted (including the racial and ethnic status of families assisted).
+91.520(a)
+
+                                                              CDBG
+ White                                                         840
+ Black or African American                                     239
+ Asian                                                         103
+ American Indian or American Native                            45
+ Native Hawaiian or Other Pacific Islander                     11
+ American Indian and Black                                      3
+ Black and White                                                7
+ American Indian and White                                     22
+ Asian and White                                                7
+ Other, multi-racial                                           39
+ Total                                                        1316
+ Hispanic                                                      275
+ Not Hispanic                                                 1,041
+
+
+       Table 2 – Table of assistance to racial and ethnic populations by source of funds
+
+Narrative
+
+The City of Palo Alto’s CDBG funded programs and services served a diverse population and provided
+needed resources to those residents most in need. Sixty four percent (64%) were White, eighteen
+percent (18%) were African American, and eight percent (8%) were Asian. Twenty one percent (21%) of
+all the clients served were Hispanic.
+
+
+
+
+                                                                                                      4
+CR-15 - Resources and Investments 91.520(a)
+Identify the resources made available
+      Source of Funds                 Source                 Resources Made             Amount Expended
+                                                                Available              During Program Year
+  CDBG                       CDBG                                     1,069,416                     579,856
+  HOME                       HOME
+  HOPWA                      HOPWA
+  ESG                        ESG
+  Other                      Other
+                                     Table 3 - Resources Made Available
+
+Narrative
+
+See discussion below.
+
+
+
+Identify the geographic distribution and location of investments
+        Target Area          Planned Percentage of        Actual Percentage of         Narrative Description
+                                  Allocation                   Allocation
+            N/A                       N/A                         N/A                          N/A
+                  Table 4 – Identify the geographic distribution and location of investments
+
+
+Narrative
+
+The City considers the provisions of all types of housing assistance on a citywide basis consistent with
+the policies of the Comprehensive Plan. Palo Alto does not have specific target areas for housing
+activities; instead the City attempts to provide housing affordable to lower-income persons throughout
+the City.
+
+Minority concentration includes areas in the City where the concentration of racial and ethnic minority
+population is 10% or higher than their total citywide representation. There are only a few areas that are
+considered to have a concentration of minority populations or low-income residents in Palo Alto. The
+CDBG Program defines low-income concentration as any census block group where 51% or more
+residents earn 80% of MFI or less. An exception exists for a jurisdiction that does not have any areas
+meeting this definition, such as Palo Alto, which includes the highest quartile of all areas in the City in
+terms of degree of concentration, is used. However, Palo Alto does not qualify activities under the LMI
+area benefit category.
+
+
+
+
+                                                                                                           5
+Leveraging
+
+Explain how federal funds leveraged additional resources (private, state and local funds),
+including a description of how matching requirements were satisfied, as well as how any
+publicly owned land or property located within the jurisdiction that were used to address the
+needs identified in the plan.
+
+Palo Alto leverages federal & private housing funds to the greatest extent feasible consistent
+with the goals identified in the 2015-2020 Consolidated Plan. Moreover, the City continues to
+encourage non-profit organizations to seek other local, state, & federal funding for both
+housing & non-housing community development activities.
+
+HSRAP: The City of Palo Alto provided $ 1,464,146 General Funds during fiscal year 2017-2018
+to address primary human service needs in the community. These funds include multi-year
+agreements with others allocated by HSRAP and administered by the Office of Human Services
+in the Community Services Department. Funded projects addressed the Human Relations
+Commission’s priority needs in the following categories: early child care and education, youth
+programs, senior nutrition and social services, homelessness, and basic needs such as health
+care and mental health. Additionally, a total of $65,000 was allocated to Project Sentinel and
+$50,000 to Youth Community Services for Youth Connectiveness in addition to the $1464,146
+General Funds during fiscal year 2017-18.
+
+HOUSING IN-LIEU: The City of Palo Alto maintains a local housing fund consisting of two sub-
+funds: the “Commercial Housing Fund” and the “Residential Housing Fund.” Palo Alto, under
+Chapter 16.65 of the Municipal Code, requires commercial and industrial development projects
+to pay a housing mitigation fee. The fees are deposited in the “Commercial Housing Fund”, and
+the accumulated fees and interest earned on the fund are made available for the creation of
+new low and moderate-income housing units under the “Affordable Housing Fund Guidelines”
+adopted by the City Council. As of June 30, 2018, the Commercial Housing Fund had an
+available balance of approximately $6,485,545.
+
+Pursuant to Program H-3.1.2, the Below Market Rate Program of the City’s Housing Element,
+Palo Alto collects housing in-lieu fees from residential development when it is infeasible to
+provide below market rate units on-site. These fees, along with interest earnings of the Fund
+and other miscellaneous revenues related to housing, are placed in a special fund; “the
+Residential Housing Fund”. This fund is used to provide funding for acquisition or rehabilitation
+of low and moderate-income housing, but may also be used for assistance to new housing
+construction projects. As of June 30, 2018, the Residential Housing fund had an available
+balance of approximately $4,369,274.
+                                                                                                 6
+These are the only local sources of funding and subsidies available for affordable housing within
+the City. They are used to provide matching funds, pay for expenses which exceed HUD income
+and cost limits, to fund the cost of features and amenities classified as ineligible under federal
+housing programs, pre-development expenses, feasibility studies, site acquisition, and other
+similar purposes.
+
+
+
+
+                                                                                                 7
+CR-20 - Affordable Housing 91.520(b)
+Evaluation of the jurisdiction's progress in providing affordable housing, including the
+number and types of families served, the number of extremely low-income, low-income,
+moderate-income, and middle-income persons served.
+
+                                                       One-Year Goal                    Actual
+  Number of Homeless households to be
+  provided affordable housing units                                         0                           0
+  Number of Non-Homeless households to be
+  provided affordable housing units                                        15                           0
+  Number of Special-Needs households to be
+  provided affordable housing units                                      88                             0
+  Total                                                                 103                             0
+                                     Table 5 – Number of Households
+
+
+
+
+                                                       One-Year Goal                    Actual
+  Number of households supported through
+  Rental Assistance                                                         0                           0
+  Number of households supported through
+  The Production of New Units                                               0                           0
+  Number of households supported through
+  Rehab of Existing Units                                               103                             0
+  Number of households supported through
+  Acquisition of Existing Units                                           0                             0
+  Total                                                                 103                             0
+                                Table 6 – Number of Households Supported
+
+
+
+
+Discuss the difference between goals and outcomes and problems encountered in meeting
+these goals.
+
+As mentioned previously, the City’s subrecipient, Community Working Group/Opportunity Center
+Housing Development Corporation, received $220,000 in FY 2017-18 to rehabilitate 88 affordable rental
+units at Opportunity Center for individuals and families who are homeless or at risk of becoming
+homeless. The project encountered unexpected issues involving changes within the organization. As a
+result, the project was delayed. However, the City worked diligently with the sub-receipent over the last
+                                                                                                        8
+year to ensure that the project moves forward. The Rehabilitation work have began and is expected to
+be completed by the end of 2018.
+
+Discuss how these outcomes will impact future annual action plans.
+
+As discussed previously, the rehabilitation work at Opportunity Center and the Minor Home Repair
+Program has begun. The Opportunity Center rehabilitation work is expected to be completed by the end
+of 2018. The FY 2017/18 CAPER includes 88 units from the Opportunity Center rehabilitation project
+that were detailed in the 2018 Annual Action Plan. This goal will be meet but it was delayed. There is no
+future impact to the City’s annual plans.
+
+The FY 17/18 goals for the Minor Home Repair were also not meet due to factors outside the City’s
+control. The program is underway and the City and subreceipient, Habitat for Humanity, are hopeful
+that the program will be able to achieve the FY 17/18 and FY 18/19 goals in the near future.
+
+The City anticipates meeting all of its goal highlighted in the 2015-2020 Consolidated Plan despite not
+meeting last year’s annual goal.
+
+Include the number of extremely low-income, low-income, and moderate-income persons
+served by each activity where information on income by family size is required to determine
+the eligibility of the activity.
+        Number of Households Served                CDBG Actual            HOME Actual
+  Extremely Low-income                                       925                        0
+  Low-income                                                 239                        0
+  Moderate-income                                            152                        0
+  Total                                                    1,316                        0
+                                  Table 7 – Number of Households Served
+
+
+
+
+Narrative Information
+
+In total, the City’s CDBG program provided programs and services to 1316 persons. Nine hundred
+twenty five (70%) of these persons were extremely low-income, Two hundred and thirty nine (18%)
+were low-income, and one hundred and fifty two (12%) were moderate income.
+
+
+
+
+                                                                                                          9
+CR-25 - Homeless and Other Special Needs 91.220(d, e); 91.320(d, e); 91.520(c)
+Evaluate the jurisdiction’s progress in meeting its specific objectives for reducing and ending
+homelessness through:
+
+Reaching out to homeless persons (especially unsheltered persons) and assessing their
+individual needs
+
+The City’s entitlement amount for FY 2017-2018 was $436,309. The City had $136,049 in program
+income and $329,057 in uncommitted funds from previous years. In total, the City provided $901,415 in
+direct CDBG funding and $1,464,146 in HSRAP funding. The following details the accomplishments of the
+CDBG funded subrecipients targeted to benefit persons who are low income, homeless, or at risk of
+homelessness.
+
+Addressing the emergency shelter and transitional housing needs of homeless persons
+
+The following agencies received funding from the City of Palo Alto to provide emergency shelter and/or
+transitional housing for homeless persons.
+
+LIFEMOVES - OPPORTUNITY CENTER, CDBG $37,328: The Opportunity Services Center continued to
+provide services to homeless individuals and those at-risk of becoming homeless. Services include drop-
+in services, showers and laundry facilities, lockers, light snacks, information and referral, transportation
+assistance, a clothes closet, medical and psychiatric screening and referral, inter-faith chaplaincy, and
+fellowship. In addition, the Hotel de Zink program along with the Breaking Bread Program continued
+with the operation. During the program year, the Opportunity Center served 614 unduplicated
+individuals. 431 unduplicated individuals received case management, housing/job search, referral and
+mentoring services; and 6,648 shelter nights were provided.
+
+PALO ALTO HOUSING CORPORATION - DOWNTOWN SRO HOTEL COUNSELING, CDBG $23,327: Palo
+Alto Housing Corporation provided one-on-one counseling, case management, and educational activities
+at Alma Place and Barker Hotel. The one-on-one sessions provided by the Resident Service Coordinator
+affords a systematic manner of addressing a diversity of issues these residents face. During the program
+year there was an increase in demand for more in-depth support counseling services to address mental
+health and emotional health issues. The SRO Resident Services Coordinator works closely with residents
+with severe mental health issues to ensure compliance with treatment guidelines and to reduce the risk
+of relapse. PAHC continued to expand the health and wellness program by collaborating with other
+non-profit organizations to host a health and resource fair. The goal of the event was to provide
+information and resources on topics of the areas of health care, counseling, transportation programs,
+social services, and food programs. During the program year, nutrition and fitness coaching services
+were initiated to provide residents with information, guidance and support as to how to develop an
+exercise and plan programs in order to improve their health and quality of life.
+                                                                                                         10
+Helping low-income individuals and families avoid becoming homeless, especially extremely
+low-income individuals and families and those who are: likely to become homeless after
+being discharged from publicly funded institutions and systems of care (such as health care
+facilities, mental health facilities, foster care and other youth facilities, and corrections
+programs and institutions); and, receiving assistance from public or private agencies that
+address housing, health, social services, employment, education, or youth needs
+
+The following agencies received funding from the City of Palo Alto to help low income individuals and
+families avoid becoming homeless.
+
+CATHOLIC CHARITIES - LONG TERM CARE OMBUDSMAN, CDBG $9,327: During the program year 369
+unduplicated residents were contacted within the Palo Alto Long term care residences in Lytton Gardens
+Health Care Center, Lytton Gardens Residential Care for the Elderly and Palo Alto Nursing Center. A
+total of 82 complaints were received and investigated.
+
+DOWNTOWN STREETS INC. WORKFORCE DEVELOPMENT PROGRAM, CDBG $336,400: During the
+program year DST was able to continue their success rate and introduced a number of new programs
+into the existing Workforce Development Program. A total of 32 participants enrolled in the program
+and were placed in a variety of employment opportunities.
+
+Helping homeless persons (especially chronically homeless individuals and families, families
+with children, veterans and their families, and unaccompanied youth) make the transition to
+permanent housing and independent living, including shortening the period of time that
+individuals and families experience homelessness, facilitating access for homeless individuals
+and families to affordable housing units, and preventing individuals and families who were
+recently homeless from becoming homeless again
+
+The following agencies received funding from the City of Palo Alto to help homeless persons make the
+transition to permanent housing and independent living.
+
+YWCA SILICON VALLEY DOMESTIC VIOLENCE SERVICES, CDBG $10,000: The YWCA Support Network
+Program provides domestic violence support services including counseling, case management, crisis
+counseling, and legal assistance. During the program year the Support Network Program provided 6
+unduplicated clients with counseling, therapy and/or legal advocacy services. Crisis Counselors provided
+crisis line assistance to 40 individuals receiving crisis counseling services. Additionally, the Domestic
+Violence Program was able to provide 3 unduplicated Palo Alto resident with emergency shelter,
+including basic needs (food/clothing) and comprehensive case management services.
+
+SILICON VALLEY INDEPENDENT LEARNING CENTER - HOUSING & EMERGENCY SERVICES, CDBG
+$5,032: During the program year, Silicon Valley Independent Living Center (SVILC) conducted extensive
+
+                                                                                                        11
+outreach in Palo Alto which resulted in 130 persons having improved accessibility to decent affordable
+housing. In addition, SVILC provided 141 people with information and referral services and 148 people
+with disabilities were given Housing Search training through a housing workshop at the Palo Alto
+Opportunity Services Center. SVILC will continue to reach out to other organizations, businesses and
+non-profits in Palo Alto to ensure the word continues to spread that SVILC is a valuable resource for Palo
+Alto residents with disabilities.
+
+PROJECT SENTINEL - FAIR HOUSING SERVICES, CDBG $32,012: During the program year, Project
+Sentinel provided community education and outreach regarding fair housing law and practices,
+investigation, counseling and legal referral for victims of housing discrimination, and analyses for City
+staff and officials regarding fair housing practices. In total, 20 fair housing complaints were investigated
+by Project Sentinel. 12 residents were provided individual consultation relating to specific fair housing
+questions and 108 individuals were assisted through outreach and presentations.
+
+
+
+
+                                                                                                          12
+CR-30 - Public Housing 91.220(h); 91.320(j)
+Actions taken to address the needs of public housing
+
+The Housing Authority of the County of Santa Clara (HACSC) owns and manages four public housing
+units, which are all located in the City of Santa Clara.
+
+Actions taken to encourage public housing residents to become more involved in
+management and participate in homeownership
+
+While the majority of their units have been converted to affordable housing stock, HACSC is proactive in
+incorporating resident input into the agency’s policy-making process. An equitable and transparent
+policy-making process that includes the opinions of residents is achieved through the involvement of
+two tenant commissioners, one being a senior citizen, on the HACSC board.
+
+HACSC has been a MTW agency since 2008. In this time the agency has developed 31 MTW activities.
+The vast majority of its successful initiatives have been aimed at reducing administrative inefficiencies,
+which in turn opens up more resources for programs aimed at LMI families.
+
+As mentioned previously, there are no public housing facilities in the City of Palo Alto.
+
+Actions taken to provide assistance to troubled PHAs
+
+Not applicable.
+
+
+
+
+                                                                                                         13
+CR-35 - Other Actions 91.220(j)-(k); 91.320(i)-(j)
+Actions taken to remove or ameliorate the negative effects of public policies that serve as
+barriers to affordable housing such as land use controls, tax policies affecting land, zoning
+ordinances, building codes, fees and charges, growth limitations, and policies affecting the
+return on residential investment. 91.220 (j); 91.320 (i)
+
+The City of Palo Alto has undertaken a number of actions to eliminate barriers to the development of
+affordable housing including participation in a county-wide effort to provide additional affordable
+housing units; programs in the 2014-2023 Housing Element Update to increase the supply of affordable
+housing; and the development impact fees for housing.
+
+Housing Trust Silicon Valley (Housing Trust):The Housing Trust, formerly the Housing Trust Fund of
+Santa Clara County (HTSCC), was created to provide additional financial resources to address the
+County’s affordable housing deficit. The Housing Trust’s mission is to make Silicon Valley a more
+affordable place to live. Loans and grants are issued to increase the supply of affordable housing, assist
+first-time home buyers, prevent homelessness and stabilize neighborhoods. Palo Alto was among the
+contributors during its founding and has continued to allocate funding. A provision was added to ensure
+the City’s funds be used exclusively for qualifying affordable housing projects within the City of Palo
+Alto. The most recent included $200,000 from the City’s Residential Housing Fund for Fiscal Year
+2014/2015.
+
+Participation in the Housing Trust has increased the available housing funding for a number of Palo Alto
+Projects as summarized in the table below. In addition, the Housing Trust has invested over $100,000
+assisting 16 households to purchase homes in Palo Alto through its first-time homebuyer program.
+
+
+
+
+                                                                                                       14
+2015-2023 Housing Element Update: The Palo Alto Housing Element, which is part of the City’s
+Comprehensive Plan is the chief policy document describing the City’s housing needs and the policies
+and programs the City will use to meet those needs. The 2015-2023 Housing Element Update has been
+certified by the California State Department of Housing and Community Development.
+
+Development Impact Fees for Housing: The City’s impact fees are comprised of four categories:
+Housing, traffic, community facilities, and Parkland dedication. The City recently completed Nexus
+Studies for Residential and Commercial Development. The studies served as a basis for an update to
+both residential and non-residential housing fees and became effective on June 19, 2017. The housing
+fee for non-residential development is $20.37 per square foot for retail and hotel uses. The fee for
+commercial uses increased to $35 per square foot. The fee rate applies to all net new commercial
+square footage on a site. Full payment is required at building permit issuance with some exemptions
+including hospitals and convalescent facilities, private education facilities, public facilities and private
+clubs, lodges and fraternal organizations.
+
+Actions taken to address obstacles to meeting underserved needs. 91.220(k); 91.320(j)
+
+The City’s CDBG program diligently works with other purveyors of funding to provide the most value per
+dollar. This is actualized by partnering with other City resources such as HSRAP and leveraging dollars
+invested in site acquisition for low-income housing with a multitude of other funding sources. However,
+Palo Alto is at a disadvantage in removing or eliminating obstacles to meeting underserved needs due to
+the consistently shrinking amount of CDBG funds available in recent years. To address this, the City
+supplements its CDBG funding with other resources and funds, such as:
+
+· The City’s Human Service Resource Allocation Process (HSRAP) provides approximately $1,464,146
+from the General Fund in support of human services. The HSRAP funds, in conjunction with the CDBG
+public service funds, are distributed to local non-profit agencies.
+
+· The Palo Alto Commercial Housing Fund is used primarily to increase the number of new affordable
+housing units for Palo Alto’s work force. It is funded with mitigation fees required from developers of
+commercial and industrial projects.
+
+· The Palo Alto Residential Housing Fund is funded with mitigation fees provided under Palo Alto’s BMR
+housing program from residential developers and money from other miscellaneous sources, such as
+proceeds from the sale or lease of City property.
+
+· The City’s Below Market Rate Emergency Fund was authorized in 2002 to provide funding on an
+ongoing basis for loans to BMR owners for special assessment loans and for rehabilitation and
+preservation of the City’s stock of BMR ownership units.
+
+· HOME Program funds are available on an annual competitive basis through the State of California
+
+                                                                                                               15
+HOME program, and the County’s HOME Consortium.
+
+Actions taken to reduce lead-based paint hazards. 91.220(k); 91.320(j)
+
+Lead poisoning can cause permanent damage to the brain and many other organs, and can result in
+reduced intelligence and behavioral problems in young children. More than 80,000 children younger
+than 6 years old living in the United States have lead in their blood that is above the level of concern set
+by the Centers for Disease Control and Prevention (CDC). A significant number of these children are in
+families of low income and are living in old homes with heavy concentration of lead-based paint and
+lead-contaminated dust and soil in the environment.
+
+The City’s housing and CDBG staff provide information and referral to property owners, developers, and
+non-profit organizations rehabilitating older housing about lead-based paint hazards. There is no
+information that indicates lower income households are more likely to be exposed to lead paint hazards
+in Palo Alto than are families in the general population. The City’s 2015-2020 Consolidated Plan has a
+more detailed discussion of lead based paint in the City. Any house to be rehabilitated with City
+financial assistance is required to be inspected for the existence of lead paint and lead paint
+hazards. The City will provide financial assistance for the abatement of such hazards in units
+rehabilitated with City funding.
+
+Actions taken to reduce the number of poverty-level families. 91.220(k); 91.320(j)
+
+The City, in its continuing effort to reduce poverty, prioritized funding agencies that provide direct
+assistance to the homeless and those in danger of becoming homeless. In FY 2017-2018, these programs
+included the following:
+
+The Workforce Development Program provided a transition from unemployment and homelessness to
+regular employment and housing through case management, job training, mentoring, housing, and
+transportation assistance.
+
+-Downtown Streets Team is a nonprofit in the City that works to reduce homelessness through a “work
+first” model. Downtown Streets Team utilized their community connections to provide training and job
+opportunities to homeless people, specifically in the downtown area. The Downtown Streets Team has
+helped over 789 team members maintain employment for 90 days or more and housed 842 individuals,
+including 610 team members since its inception. The Downtown Streets Team has initiatives in Palo Alto,
+Sunnyvale, San Jose, and San Rafael.
+
+As mentioned previously, the City provided LIFEMOVES OPPORTUNITY CENTER with $37,328 in CDBG
+funds in FY 17/18. The Opportunity Services Center provided services to homeless individuals and those
+at-risk of becoming homeless. Services include drop-in services, showers and laundry facilities, lockers,
+light snacks, information and referral, transportation assistance, a clothes closet, medical and psychiatric
+
+                                                                                                          16
+screening and referral, inter-faith chaplaincy, and fellowship. During the program year, the Opportunity
+Center served 614 unduplicated individuals. 431 unduplicated individuals received case management,
+housing/job search, referral and mentoring services; and 6,648 shelter nights were provided.
+
+Actions taken to develop institutional structure. 91.220(k); 91.320(j)
+
+The City is striving to improve intergovernmental and private sector cooperation to synergize efforts and
+resources and develop new revenues for community service needs and the production of affordable
+housing. Collaborative efforts include:
+
+·    Regular quarterly meetings between entitlement jurisdictions at the CDBG Coordinators Meeting
+and Regional Housing Working Group
+
+·    Joint jurisdiction Request for Proposals and project review committees
+
+·    Coordination on project management for projects funded by multiple jurisdictions
+
+·    HOME Consortium between member jurisdictions for affordable housing projects
+
+Recent examples include the effort by the County to create a regional affordable housing fund, using
+former redevelopment funds that could be returned to the County to use for affordable housing.
+
+Another effort underway involves the possible use of former redevelopment funds to create a
+Countywide pool for homeless shelters and transitional housing. These interactions among agencies
+generate cohesive discussion and forums for bridging funding and service gaps on a regional scale.
+
+Actions taken to enhance coordination between public and private housing and social service
+agencies. 91.220(k); 91.320(j)
+
+The City benefits from a strong jurisdiction and region-wide network of housing and community
+development partners, such as the County and the CoC. To improve intergovernmental and private
+sector cooperation, the City will continue to participate with other local jurisdictions and developers in
+sharing information and resources.
+
+In addition to the actions listed above, the City will continue to coordinate with the City’s human
+services funding efforts to comprehensively address community needs.
+
+Identify actions taken to overcome the effects of any impediments identified in the
+jurisdictions analysis of impediments to fair housing choice. 91.520(a)
+
+The City makes every effort to affirmatively further fair housing in compliance with the adopted Analysis
+
+                                                                                                         17
+of Impediments. During Fiscal Year 2017/2018, the City continued to support actions to affirmatively
+further fair housing through a subrecipient agreement with Project Sentinel, a non-profit organization
+dedicated to assisting individuals with housing problems discussed in detail below. The following is a list
+of actions taken to affirmatively further fair housing:
+
+    •   HCD has certified the City’s 2015-2023 Housing Element update
+    •   The City targeted the majority of its CDBG and local housing funds to increasing and preserving
+        the supply of affordable housing
+    •   The Office of Human Services regularly met with the County of Santa Clara Housing Authority to
+        place homeless individuals with section 8 vouchers
+    •   Affordable housing information and referral services were provided by the Office of Human
+        Services
+
+During Fiscal Year 2017/2018, the City continued to support actions to affirmatively further fair housing
+choice through a subrecipient agreement with Project Sentinel, a non-profit organization dedicated to
+assisting individuals with housing problems. Project Sentinel responded to and investigated 20 cases of
+housing discrimination in Palo Alto during the fiscal year.
+
+
+
+
+                                                                                                        18
+CR-40 - Monitoring 91.220 and 91.230
+Describe the standards and procedures used to monitor activities carried out in furtherance
+of the plan and used to ensure long-term compliance with requirements of the programs
+involved, including minority business outreach and the comprehensive planning
+requirements
+
+Under the CDBG Program, the City conducts desk reviews and on-site monitoring of subrecipients. Last
+year the City completed on-site monitoring of three non-profit organizations. Since the City operates
+under a two-year funding cycle there are some subrecipients that receive funding for two years and are
+only required to have one on-site monitoring during this time. Typically, subrecipients who have had
+trouble implementing projects or have been identified as having compliance issues in a previous
+monitoring are selected for the annual monitoring. There were no major deficiencies identified during
+the previous monitoring. The City will be conducting on-site monitoring of four subrecipients in the next
+two to three months consistent with the Subrecipient Monitoring Plan.
+
+Citizen Participation Plan 91.105(d); 91.115(d)
+
+Describe the efforts to provide citizens with reasonable notice and an opportunity to
+comment on performance reports.
+
+A notice regarding the availability of the draft CAPER was emailed to interested organization and
+persons. In addition, a notice informing the public of the availability of the CAPER was published in the
+Palo Alto Weekly on August 31, 2018.
+
+ The draft CAPER was available for public review and comment for a 24-day period, beginning August 31,
+2018 and concluding on September 24, 2018. Copies of the draft report were available at the City’s
+Planning Department reception desk, the Development Center, and on the CDBG website. Finally, the
+Human Relations Commission held a public hearing on Thursday, September 13, 2018 to take public
+comment and discuss the CAPER. The City Council will receive a copy of the final CAPER along with any
+public comments received in early November.
+
+CR-45 - CDBG 91.520(c)
+Specify the nature of, and reasons for, any changes in the jurisdiction’s program objectives
+and indications of how the jurisdiction would change its programs as a result of its
+experiences.
+
+Not applicable.
+
+Does this Jurisdiction have any open Brownfields Economic Development Initiative (BEDI)
+
+                                                                                                        19
+grants?
+
+No
+
+[BEDI grantees] Describe accomplishments and program outcomes during the last year.
+
+
+
+
+                                                                                      20
+CR-45 - CDBG 91.520(c)
+Specify the nature of, and reasons for, any changes in the jurisdiction’s program objectives
+and indications of how the jurisdiction would change its programs as a result of its
+experiences.
+
+Not applicable.
+
+Does this Jurisdiction have any open Brownfields Economic Development Initiative (BEDI)
+grants?
+
+No
+
+[BEDI grantees] Describe accomplishments and program outcomes during the last year.
+
+
+
+
+                                                                                               21
+Attachment
+Cover Page
+
+
+
+
+             22
+23
+Appendices
+
+
+
+
+             24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+

@@ -1,0 +1,388 @@
+                    City of Palo Alto                                     (ID # 9020)
+                    City Council Staff Report
+
+Report Type: Informational Report           Meeting Date: 3/19/2018
+
+Council Priority: Land Use and Transportation Planning
+
+Summary Title: 2017 Airport Annual Noise Report
+
+Title: 2017 Annual Airport Noise Report, Identifying Noise Trends in the
+Surrounding Areas and Determining Compliance With Established Voluntary
+Noise Abatement Procedures
+
+From: City Manager
+
+Lead Department: Public Works
+
+Recommendation
+This is an informational report only and no Council action is required.
+
+Discussion
+The purpose of the Palo Alto Airport Annual Aircraft Noise Complaints Report is to
+identify noise trends in the surrounding areas and determine compliance with
+established voluntary noise abatement procedures. Attachment A is the annual
+report prepared by Public Works Department’s Airport Division staff on the
+aircraft noise complaints received during the 2017 calendar year.
+
+The Palo Alto Airport (PAO) receives noise complaints via e-mail at
+pao@cityofpaloalto.org and a designated hotline, 650-329-2405. Staff review and
+respond timely to all complaints ascertaining from complainants their contact
+information and the date, time and description of the offending occurrence. Staff
+review and compile the data to determine flying activity trends. Staff contact
+pilots when violations are observed or reported, advising them of established
+procedures, requesting compliance and reminding them about our neighborly
+commitment to the community.
+
+
+
+
+City of Palo Alto                                                               Page 1
+This report is generated on an annual basis and posted to the airport’s webpage:
+www.cityofpaloalto.org/PAO.
+
+Courtesy copies to: Palo Alto Airport Association
+Attachments:
+   • Attachment A: Palo Alto Airport - 2017 Annual Aircraft Noise Complaints Report
+
+
+
+
+City of Palo Alto                                                                     Page 2
+                                                          Attachment A
+
+
+
+
+                PALO ALTO
+                 AIRPORT
+                PUBLIC WORKS DEPARTMENT
+
+
+
+       2017
+   ANNUAL NOISE
+ COMPLAINTS REPORT
+
+       (January2017 to
+       December 2017)
+               AUG 2014 – SEPT 2015
+                (Q4 2014 – Q3 2015)*
+Vision: Palo Alto Airport strives to balance the
+rights of pilots to fly with the rights of neighbors to
+a peaceful living environment. This document is a
+report of the noise complaints received by the
+airport in 2017. Airport staff uses this information
+to identify trends in neighboring communities.
+These trends inform communications between
+airport staff and pilots on the issue of noise.
+Introduction:
+
+The following is a report of noise complaints received by Palo Alto Airport (PAO) in 2017. The Federal
+Aviation Administration (FAA) defines air travel routes and procedures, including defining separation
+distances between aircraft, determining hazards to aviation and all other safety criteria for aircraft, and
+is responsible for directing and enforcing the movement of aircraft in flight. Although organizations can
+petition the FAA regarding flight procedures, the FAA has the final say in what is safe and acceptable.
+The Airport Noise and Capacity Act (ANCA) of 1990 federally prohibits public-use airports from
+restricting airspace in anyway.
+
+The FAA measures noise based on the Yearly Day and Night Average Sound Level (DNL) and the
+Community Noise Equivalent Level (CNEL). While both are essentially the same, airports in California use
+the CNEL method to measure noise. CNEL is a method of averaging single event aircraft noise into a
+weighted 24-hour average. The system adds penalties to all events occurring during the evening (7pm –
+10pm) and the night (10pm – 7am). The Santa Clara County Airport Land Use Commission (SCC ALUC)
+performed a noise study for the Palo Alto Airport using the CNEL to determine the noise contours for 55,
+60, 65, and 70 decibels. The contour map is included as Attachment A.
+
+Regarding safety and altitude, the FAA has in place Federal Aviation Regulations (FARs) that establishes
+Minimum Safe Altitudes (MSAs) for aircraft. For fixed wing aircraft, the minimum is 1000 feet above
+ground when over congested areas and 500 feet when not over congested areas. These minimum
+altitudes apply to all fixed wing aircraft except when necessary for landing and takeoff operations.
+Helicopters are exempt from these altitude restrictions due to the nature of their flight. These minimum
+altitudes are enforced by the FAA Flight Standards District Office in San Jose and not Palo Alto Airport.
+Although, Palo Alto Airport cannot tell pilots when or where to fly; the airport, however, does have
+voluntary noise abatement procedures that Palo Alto Airport recommends that pilots follow. (See the
+Noise Abatement Procedures section below.)
+
+The airport receives noise complaints via email at pao@cityofpaloalto.org and a noise complaint hotline
+650-329-2405. Airport staff review and timely respond to all complaints ascertaining as much
+information from complainants, including contact information, date, time and description of the
+occurrence. Various flight trackers can be used in an attempt to help identify the aircraft involved and
+verify if FAA regulations or Palo Alto Airport procedures were violated. The airport staff reviews and
+compiles all data to determine trends with flying activities.
+
+Purpose:
+
+The purpose of the Palo Alto Airport Annual
+Noise Report is to identify noise trends in the
+surrounding areas and determine compliance
+with established voluntary noise abatement
+procedures.
+
+Airspace:
+
+The Palo Alto Airport airspace is unique. The
+congested Bay Area airspace is dominated by                                           Palo Alto Airport Sectional Map
+                                                                                            Palo Alto Airport in Green
+SFO Class Bravo airspace, which encompasses a                                         PAO Airspace highlighted in Red
+                                                       Source: http://vfrmap.com/?type=vfrc&lat=37.461&lon=-122.115&zoom=10
+30 nautical mile radius around SFO. Underneath the Class Bravo airspace lays the Class Charlie airspace
+of Oakland and San Jose international airports. Finally, Moffett Airfield lies approximately 4 nautical
+miles to the southeast of Palo Alto Airport.
+
+As a result, Palo Alto Airport airspace ends only 1.5 nautical miles southeast of Runway 31’s final
+approach. To land at Palo Alto Airport, aircraft must turn before entering Moffett’s airspace, resulting in
+aircraft having to space themselves in traffic patterns over the peninsula when take-off/landing volumes
+peak. The FAA’s Air Traffic Control Tower (ATCT) at Palo Alto Airport has a letter of agreement with
+Moffett’s ATCT providing Palo Alto Airport aircraft with extensions into Moffett airspace when Moffett
+airfield is not in use. The additional airspace is a useful mitigation tool during busy times.
+
+Further restrictions in Palo Alto Airport airspace come from San Jose Class C airspace, starting at 1500
+feet Mean Sea Level, just southeast of Palo Alto Airport and SFO Class B airspace, starting at 2500 feet
+Mean Sea Level, just northeast of the Palo Alto Airport. Both are identified on the Palo Alto Airport
+Sectional Map: San Jose Class C is shown with thick magenta lines and SFO Class B is shown with thick
+blue lines. These restrictions play a vital role in aircraft departures, in turn influencing noise abatement
+procedures for the Palo Alto Airport.
+
+Noise Abatement Procedures:
+
+Noise abatement procedures are voluntary procedures that the airport asks pilots to follow. The airport
+is prohibited from restricting airspace. Palo Alto Airport staff will speak with individual pilots and
+educate them about the voluntary noise abatement procedures. The Palo Alto Airport cannot levy fines
+on pilots that violate the voluntary noise procedures. For illustrated noise abatement procedures
+reference Palo Alto Airport Pilots Handout included as Attachment B.
+
+Pilots are asked to fly over the bay whenever possible. If pilots must fly over the peninsula, they are
+asked to reduce power and fly at or above 1500 feet above ground before crossing Highway 101. Staff
+also asks that aircraft not make a left crosswind departure, but instead make a “Left Dumbarton
+Departure” (fly to the Dumbarton Auto Bridge before making a left turn and flying over East Palo Alto) or
+a right 270 degree turn whenever departing to the south or west from Runway 31. When aircraft are
+using Runway 13, pilots are asked to make a left 270 departure before flying west over Palo Alto.
+
+For arrivals, it is standard practice and necessary for pilots to descend to pattern altitude before
+entering the traffic pattern around PAO, sometimes requiring aircraft to descend below the 1500 feet
+minimum over Palo Alto. As these aircraft are descending to land the engines are generally powered
+back and quieter than ascending aircraft.
+
+Airport staff continuously engages with tenants and pilots about the voluntary noise abatement
+procedures, always noting that safety always supersedes noise.
+
+
+Findings:
+
+The Palo Alto Airport remains the third busiest airport in the bay area with an average of 166,000
+operations per year since 2010, significantly less than the average of 198,000 operations per year
+between 1990 and 2009 (Table 1). An operation is defined as either a takeoff or a landing and a touch-
+and-go procedure will account for two operations.
+                                                                     Table 1. Airport Operations
+                    Air Taxi      Military      Total               Air Taxi Military     Total
+           1992             0            0     232789      2005        2397         28 184821
+           1993           243           38     212303      2006        1932         17 176570
+           1994           313            0     207404      2007        1440        318 181883
+           1995           261           16     187650      2008        1697        280 174332
+           1996            60            0     197582      2009        1650        301 155556
+           1997             1            0     205311      2010        2077          6 158217
+           1998             8           12     192093      2011        1572          8 170389
+           1999            13            8     205436      2012        1700         16 176564
+           2000             2            0     197283      2013        1628         14 172653
+           2001            29          370     216483      2014        1518         22 179900
+           2002            62            1     208755      2015        1082        118 172132
+           2003            17            1     212981      2016         708         52 153238
+           2004           619           12     199453      2017         872        146 148769
+
+
+
+During the 2017 Calendar year, the Airport logged 1098 total noise complaints from 62 households.
+Table 2 shows the number of complaints by quarter, and includes the total from 2016.
+
+                                                                  Table 2. Complaints Received
+
+                     Quarter 1 Quarter 2 Quarter 3 Quarter 4 Total 2017 Total 2016
+          Complaints   412       383       116       187       1098*       527
+          Households    21        26        16        19         62         96
+          *864 Compl a i nts ca me from 2 hous ehol ds
+
+
+
+Table 3 sorts the complaints logged into three sections. The first one is PAO which includes all
+complaints that involve aircraft that performed an operation at the airport. The next section is General
+which includes complaints that did not include a specific aircraft or incident of noise. These complaints
+may or may not involve aircraft from PAO. The last section is Non-PAO, which include aircraft that are
+not based or did not operate at the airport. These flights could include CHP, Coast Gard, Air Taxis, Survey
+and or banner towing operations. Also included in Table 3 is the total for 2016.
+
+                                                            Table 3. Aircraft Association
+                          Quarter 1 Quarter 2 Quarter 3 Quarter 4 Total 2017 Total 2016
+              PAO               390       359       110       174        1033          393
+            General                5         1        1          7          14          28
+            Non-PAO              17        23         5          6          51         106
+
+Table 4 provides a detailed breakdown of the 1033 PAO related complaints by city. Most complaints
+came from Sunnyvale, with 963 complaints logged from 21 households, but note that 840 complaints
+  came from 2 households accounting for 81% of all noise complaints. Palo Alto was the second most
+  impacted city, with 31 complaints from 4 households.
+                                                             Table 4. PAO Noise Complaints by City
+
+                   Quarter 1     Quarter 2     Quarter 3     Quarter 4     Total 2017     Total 2016
+  City           C      H      C      H      C     H       C      H      C       H      C       H
+  Atherton                          1      1                                  1       1
+  Cupertino                         1      1                                  1       1
+  East Palo Alto      5      1                   1       1     1       1      7       2     21       7
+  Fremont                           1      1     1       1     1       1      3       1
+  Hayward                                                      1       1      1       1
+  Los Altos                                                    3       1      3       1
+  Menlo Park          1      1     11      1                                 12       2      6       1
+  Millbrae                          1      1                                  1       1
+  Mountain View       1      1                                                1       1      2       2
+  Palo Alto          10      1      6      3     8       2     5       1     31       4     65       9
+  San Carlos                        3      2                   1       1      4       3
+  San Rafeal                                     1       1                    1       1
+  Sunnyvale         373     10 334        11    95       4 161         6 963*       21 270         30
+  Unknown                           1      1                                  1       1
+  West San Jose                                                1       1      1       1
+  Woodside                                       2       2                    2       2
+  Total             390     14 359        22 110        11 174        13 1033       44
+  * 840 Compl a i nts ca me from 2 hous ehol ds
+
+
+  Starting in August of 2016, weather patterns shifted and the prevailing winds were from the south. This
+  weather pattern, which is normally seen during stormy weather, persisted for several months into the
+  fourth quarter. This southern wind caused San Jose International jet arrivals to descend over Sunnyvale
+  before turning to the south over the bay to land. At the same time, Surf Air changed their approach to
+  the Bay Side Approach which flew over Sunnyvale. This coincides with the increase in noise complaints
+  from Sunnyvale during the fourth quarter of 2016 and continued into 2017. Note: there has been no
+  change to PAO activity or flight paths during this time.
+
+
+                                                                                        Table 5. Aircraft Type
+                                  Multi-        Multi-      Single-       Single-
+                     Helicopter   Reciprocating Turboprop   Reciprocating Turboprop   Unknown
+2017 Complaints                19            49          53           776         113        23
+2016 Complaints                40            32          16           289          41
+
+
+  Table 5 above shows the general type of aircraft identified as causing noise complaints at the airport.
+  There were 23 complaints where staff was unable to identify the type of aircraft involved in the flight.
+  There are 2 types of engines for aircraft utilizing PAO. The first is reciprocating which is similar to an
+  automobile engine, and the second is turboprop which is a turbine engine with a propeller that
+produces thrust. Aircraft are further differentiated by “multi” and “single” which denotes the number of
+engines for the aircraft. In the case of PAO all multi engine aircraft will be only have 2 engines. As Table
+5 shows single reciprocating aircraft produced the largest portion of noise complaints. This class of
+aircraft represents most of the fleet at PAO and usually consists of Cessna, Pipers and Cirrus aircraft.
+
+
+Table 6 below shows the number of violations of the established noise abatement procedures. Airport
+staff makes every effort to talk to all aircraft that violate these procedures, but it is difficult to talk to all
+transient pilots about noise abatement procedures. It is not the role of the FAA Air Traffic Control Tower
+to advise pilots of the noise abatement procedures, the City has develop a working relationship with the
+ATCT and Air Controllers do advise pilots of the noise abatement procedures when they have the ability.
+
+                  Table 6. Observed Violations Noise Abatement Procedures
+                                  Q1 2017 Q2 2017 Q3 2017 Q4 2017                      Total
+                  Tenant                 1          6        5          3                  15
+                  Transient              6         10        7          3                  26
+                  Unknown                                    1          1                    2
+                  Total                    7           16           3           7          43
+                  Complaints             412          383         116         187        1098
+                  Operations           30987        40033       42368       35381      148769
+                  % Compliance           99%          99%        99 %         99%         99%
+                                         Attachment A
+                                PAO Noise Contour Map
+
+Following is a noise contour map for PAO, adopted by the Santa Clara County Airport Land Use
+Commission (SCC ALUC) in their 2008 Comprehensive Land Use Plan, reflecting the forecasted noise
+contours for Palo Alto Airport in 2022.
+
+SCC ALUC used the Integrated Noise Model which considers airport altitude, mean temperature, runway
+configuration, aircraft flight track definition, aircraft departure and approach profiles, aircraft traffic
+volume and fleet mix, and flight track utilization by aircraft types. All data is entered into the CNEL
+formula to prepare the noise contours for Palo Alto Airport.
+
+Refer to https://www.sccgov.org/sites/dpd/DocsForms/Documents/ALUC_20081119_PAO_CLUP.pdf,
+for a more detailed description of how the SCC ALUC prepared this map.
+
+The 65 decibel (db) noise level of the airport extends beyond the airport boundaries, but is only over
+Palo Alto Golf Course, Palo Alto Baylands Nature Preserve, and the salt marshes in San Mateo County
+and is the threshold at which FAA requires noise mitigation programs.
+2022 Forecasted Palo Alto Airport Noise Contour Map
+                                       Attachment B
+                                   PAO Pilot Handout
+
+Santa Clara County created a Pilot Handout for Palo Alto Airport that described the noise abatement
+procedures. When the City of Palo Alto assumed control of the airport, the existing noise abatement
+procedures were adopted, with one exception, “pilots must maintain 1500 feet or above across Highway
+101” was replaced with “Aircraft are asked to climb to and maintain at least 1500 feet before crossing
+Highway 101.” The change is consistent with the voluntary nature of noise abatement procedures as
+airports are federally prohibited from instructing pilots how to fly.
+                                  PM.OALTO
+                                  MIJ<IOIW.                                                                                    • NOT TO SCAl.E •
+                                  GOOcru!SE                                                                                                                                       SAFETY FIRST
+                                                                                                                              NOT 10 BE USED
+                                                                                                                            FOR NAVIGATION
+
+
+
+
+                                                                                                                NOISE ABATEMENT INFORMATION
+                                                                                             lllERE ARENOISE SfllgTIVE All£AS WEST ANO SOUTH Of THE AmPORT. AIRCllAfT ARRllfoNG
+                                                                                              OVER THESE AREAS MUSTllAL~TAIN ATLEAST 1,SOOFIIT UllTIL CROSSING lllE BAYSHORE
+                                                                                             FREEWAY (US 101).WHEN THEATC TOWER ISCL<Jg;O, ALL AIRCRAFT AREREQUESTID TOUSE
+                                                                                                  ASTANDARD TRAffl: PATTERN ON THE BAY INORJH.{ASn SIDE Of THE AIJlroRT.
+                                                                                                     NO DOWNWIND DEPARTURES ON 1llESOUTll-WEST go£ Of lllE ,\;IPOl!l.
+
+                                                                                                                                CAUTION
+                                                                                        THEPALO ALTO BAYIAtDS Pll!SBM ISLOCATED IMMED!AffiYTO THE OOR1ll-EAST Of THEAIRPORT.
+                                                                                                               WATCH FOR BIRDS ON OR N£AR THE AIRPORT.
+
+
+
+
+                                                                                                                                                                           CAUTION
+
+
+
+                                                                                                                                  --
+                                                                                                                                                          BE ALERTFOll ~KES &PEDESTl!ANS OIOSSING A
+                                                                                                                                  PH.OALTO               LMI ROAD1111 FRO~ APPROACH END TO llJNWAY 1l
+                                                                                                                                 GOLi CXIUI&
+
+
+
+
+                                                                                                         2,44Ht x 65 Fl · LIGllTED
+IWlllOil ROAD
+
+
+
+ AIRPORT SURFACE MAP                          MOBILE FUR SEmCES                                         FBO's & SERVICES· KEY                                           PHONE DIRECTORY
+
+PALO ALTO         ~---1
+                            Palo Aho Fuel Senii"' IOOLL Exxon lll.95 650-856-7640
+                            RosslAlrcralt          JOOLL Chevron Ill.BS 650-493-3316
+                                                                                       1.
+                                                                                       l.
+                                                                                            Aviation Supplies
+                                                                                            Palo Alto Flying Club
+                                                                                                                        8.
+                                                                                                                        9.
+                                                                                                                              Lawrence Aircraft Sales
+                                                                                                                              Penln.sula Avlonks
+                                                                                                                                                            Airport Operations
+                                                                                                                                                            Palo Alto AWOS
+                                                                                                                                                                                       650-856-7833
+                                                                                                                                                                                         · Future·
+                                                  Jet-A Chevron 1ll.BS 650-493-3326    3.   Sha<eline Flying Club       JO.   Sundance Flying Club          Airport Noise Abatement    866-638-2344
+AIRPORT IPAO                                                                           4.   Rossi Aircraft              11.   Victor Aviation               Palo Alto (PAO) ATIS       650-858-0606
+  1925 Embarcadero Road                                                                S.   WestValleyFlyingClub        12.   Civil Air Patrol              FAA Control Tower          650-49:!-064 I
+                                               SELF SERVICEFUE.J:
+ PaloAlto,Califomia 94lOJ                                                              6.   Abundant Air Cafe           13.   Enterprise Rent·A·Car         FSSM'eather/NOTAMS         800-272-1180
+  www.countyJirport.S.otg   Palo Aho Fuel Seniice IOOLL Exxon          650-856-7640    7. Advan~geAviation                                                  San Jooe FSDO              408-191-7681
+                                              Attachment C
+                                  Map of Palo Alto Households
+
+
+
+
+This map shows the approximate location and number of complaints from households within Palo Alto. This map was
+generated using GISt by airport staff.
+

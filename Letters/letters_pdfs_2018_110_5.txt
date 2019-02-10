@@ -1,0 +1,3080 @@
+    CITY OF         City of Palo Alto                                 (ID # 9484)
+    PALO
+    ALTO            City Council Staff Report
+
+Report Type: Informational Report           Meeting Date: 8/27/2018
+
+Summary Title: Mechanical Parking Studies For Downtown Surface Parking
+Lots
+
+Title: Informational Report on Mechanical Parking Studies for Lot D and
+Other Surface Parking Lots in Downtown Business District
+
+From: City Manager
+
+Lead Department: Public Works
+
+Recommendation
+This is an informational report and no Council action is required.
+
+Background
+In December 2016, Council authorized a contract with Watry Design, Inc.
+(“Watry”) to provide design and environmental review services for the Downtown
+Parking Garage Capital Improvement Program (CIP) project (PE-15007).
+
+Following the award of a contract to Watry, several conceptual options were
+developed for the downtown garage. In April 2017, conceptual designs were
+presented to Council which included a base option with five above-ground levels,
+a retail option with five above-ground levels with retail space, and a basement
+option with five above-ground levels and one basement level (no retail space)
+(CMR 7942). Council directed staff to proceed with the full preliminary design of a
+new parking garage with five levels of above-ground parking, one level of
+basement parking, and retail space on the Waverley Street frontage. Council also
+directed staff to analyze additional mechanical parking options without causing a
+delay in this project.
+
+Discussion
+In May 2017, a mechanical parking study was completed by Watry that analyzed
+mechanical parking options in the Downtown Parking Garage, adding additional
+
+City of Palo Alto                                                             Page 1
+parking spaces, using a puzzle lift system and a stacker system. Options 1 through
+5 below were defined and, for feasible options, compared to the self-park option:
+
+Self-Park Option: Five levels of above-ground parking with retail and one
+                  basement level (331 spaces);
+Option 1:         Five levels of above-ground parking with retail and one
+                  basement level with a two-level puzzle system (basement level
+                  and pit) (388 spaces);
+Option 2:         Five levels of above-ground parking with retail and one
+                  basement level with a two-level stacker system (415 spaces);
+Option 3:         Five levels of above-ground parking with retail and a three-
+                  level puzzle system (ground level and pit) (364 spaces);
+Option 4:         Puzzle system tower with more than a three-level puzzle
+                  system;
+Option 5:         Mechanical system under the basement ramp.
+
+Options 4 and 5 were deemed nonviable due to the structural impact of an
+extended story height and lack of available head room under the basement ramp
+area, respectively.
+
+The project cost-per-stall includes the mechanical parking equipment, and soft
+and hard costs. The costs do not account for the annual operating maintenance
+($40,000 to $50,000), mechanical parking equipment replacement at end of life,
+and annual attendant costs ($102,000). The operating maintenance cost is a $30
+per stall monthly cost for maintenance by the vendor. In staff’s discussions with
+vendors, they stated that they are not aware of any instances in which mechanical
+parking is being used for public parking without attendant operation of the
+equipment, and they recommended that one or more attendants be on site
+depending on the number of mechanical parking spaces. Including these
+additional operating and maintenance costs over the lifetime of the garage raises
+the cost per stall for mechanical parking options higher than the cost of a
+traditional parking space.
+
+                    Self-Park       Option 1         Option 2         Option 3
+Total project       $84,942         $82,231          $76,546          $87,746
+cost per stall*
+
+
+City of Palo Alto                                                            Page 2
+*does not include ongoing annual operating maintenance, equipment replacement and annual
+attendant costs
+
+Following the analysis of mechanical parking options for the Downtown Parking
+Garage project, staff believed that costs might be lower in a dedicated mechanical
+parking garage that did not have the inefficiencies of the proposed Downtown
+Parking Garage layout. In April 2018, a Request for Information (RFI) for qualified
+partners interested in developing mechanical parking projects on City-owned
+parking lots in the University Avenue – Downtown Business District was posted on
+the City’s eProcurement system. One response to the RFI was received from
+Griffin| Swinerton Team in association with CityLift (“Griffin Swinerton”).
+
+In the conceptual design included as part of the RFI response (Attachment A),
+Griffin Swinerton chose Lot A at the corner of Lytton Avenue and Emerson Street
+to illustrate the design philosophy, space count, cost, project delivery, and
+operation of a public mechanical parking lift system. The conceptual designs in
+the RFI included three separate parking structures and drive aisles, parking
+platform widths of 9’-6” to accommodate nearly all vehicles, and building heights
+that vary from three to five levels (20 feet for the 3-level, 26 feet for the 4-level,
+and 32 feet for the 5-level). Each parking structure is 96-feet wide and fits 10
+parking platforms. CityLift’s Puzzle Lift System (PLS) was chosen by Griffin
+Swinerton for this approach.
+
+Design Alternative                Number of Spaces                    Height
+3-Level Parking Structure            124 - 140                        20 feet
+4-Level Parking Structure            148 - 170                        26 feet
+5-Level Parking Structure            180 - 210                        32 feet
+
+Griffin Swinerton developed a preliminary cost model for a prevailing wage,
+public-private-partnership (P3) project delivery which reflects current figures as of
+April 2018 from both CityLift and Swinerton Builders. The project cost per stall
+includes the mechanical parking equipment, foundation, an allowance for building
+skin per square foot, roofing, electrical, plumbing, fire sprinklers, site work, and
+signage. It also factors in general contractor’s costs. The costs do not account for
+contingency, cost escalation, operating maintenance, equipment replacement or
+attendant costs.
+
+
+
+City of Palo Alto                                                                 Page 3
+                       3 Level Puzzle Lift    4 Level Puzzle Lift    5 Level Puzzle Lift
+Total Project Costs    $52,576 - $54,950      $54,585 - $57,126      $55,968 - $58,499
+
+Similar to the mechanical parking options reviewed for the Downtown Parking
+Garage project, Griffin Swinerton recommended attendants to operate the
+parking equipment, and specified the number of attendants at different hours of
+the day based on the number of garage spaces. Assuming the number of
+recommended attendants for 200 stalls and using the pricing in the City’s current
+valet contract, the attendant annual cost would be approximately $360,000.
+
+Overall, staff determined that while the initial installation cost of mechanical
+parking may be equal to or less than traditional parking garages per stall, on-going
+maintenance costs and the requirement of attendants make the overall cost more
+expensive. Mechanical parking also lends itself to residential and commercial
+applications where users are familiar with the systems and use them frequently,
+which could include future projects providing parking for City staff.
+Attachments:
+    Attachment A: Griffin Swinerton Palo Alto Mechanical Parking RFI Response
+
+
+
+
+City of Palo Alto                                                                  Page 4
+                                                                                                                   Attachment A
+
+
+
+1.      Statement of Interest
+
+April 25, 2018
+
+Cecilia Magana
+Contract Administrator
+City of Palo Alto
+250 Hamilton Avenue
+Palo Alto, CA 94301
+
+Dear Ms. Magana:
+
+Griffin|Swinerton in association with CityLift (the Griffin|Swinerton Team) is pleased to submit to the City of Palo Alto
+its response to the Request for Information (RFI) for Mechanical Parking (“Project”).
+
+This response is an expression of interest in participating in a resulting procurement process and to provide relevant
+information to be used in developing governmental policy and structuring a formal Request for Proposals as well as
+Project-related agreements.
+
+With several decades of collective public-sector project experience, the Team has proven experience in the delivery of
+innovative projects of this significance.
+
+Experience in Public, Private Partnership (P3) Project Delivery: Griffin|Swinerton, established in 2009, is a fully integrated,
+highly experienced organization that combines the best of the development and construction industries. Griffin
+Structures and Swinerton Builders have a long and successful track record working with counties and cities utilizing
+multiple alternative forms of project delivery.
+
+Excellence in Automated, Mechanical Lift Parking: CityLift Parking designs, installs, and services semi-automated to fully
+automated parking lift systems that reduce the footprint needed for parking and can typically be done at a lower cost
+per space than conventional parking. CityLift is the exclusive U.S. partner of a 26-year old automated parking system
+manufacturer whose technology has been proven with 60,000 spaces installed in over 13 countries. Domestically, in a
+few short years CityLift has assembled a pipeline of installed and in-progress projects totaling over 50 projects and 2,200
+parking spaces in eight States, with its largest number of projects in California.
+
+We would welcome the opportunity to engage in further dialogue as desired. Please find attached to this letter our
+response to the RFI.
+
+Sincerely,
+GRIFFIN|SWINERTON
+
+
+ ftr< .                             ' ' \§-)
+ Roger Torriero                                         Dave Callis
+ Principal                                              Principal
+ rtorriero@griffinswinerton.com                         dcallis@swinerton.com
+
+                                                              1
+2.       Statement of Experience
+
+The City of Palo Alto is seeking information from qualified development partners to explore ways to increase the supply
+of off-street parking for downtown employees and visitors in the most cost-effective manner possible. In our response
+to this RFI, Griffin|Swinerton has assembled a team that represents the best in their respective fields, with a particularly
+deep expertise and successful track record in public-private partnerships and construction/delivery of parking
+structures – both conventional parking and the installation and maintenance of mechanical automated parking lift
+systems.
+
+The Griffin|Swinerton Team possesses industry leading expertise in the three most crucial aspects of delivering best-
+in-class mechanical parking solutions to the City of Palo Alto:
+•    Expertise in public-private partnerships (P3) – leveraging decades of experience as a trusted partner government
+     clients, since 2009 Griffin|Swinerton has been successfully delivering P3 projects for public assets throughout
+     California
+•    Mechanical Parking Lift Systems – CityLift is the domestic leader in mechanical parking lift system and the exclusive
+     U.S. partner of a 26-year old automated parking system manufacturer whose technology has been proven with
+     60,000 spaces installed in over 13 countries.
+•    California Construction Leadership & Parking Structure Expertise – with a 130-year history, over 3,000 employees
+     in 17 U.S. offices and headquartered in San Francisco, Swinerton Builders has an unmatched track record in the
+     construction industry for buildings and renewable energy facilities of all kinds. Swinerton’s dedicated Parking
+     Structure team has a vast array of expertise from building over 45 parking structures.
+
+Each Team member’s expertise is more fully described below:
+
+           GRIFFI:\   Griffin|Swinerton, A Joint Venture (Project Developer). The Griffin|Swinerton joint-venture
+       S\\ 1'1/ERTO:\ team was established in 2009. It is a fully integrated, highly experienced organization that
+combines the best of the development and construction industries. Griffin Structures and Swinerton Builders both have
+a long and successful track record working with cities in an open book, fully transparent process utilizing multiple
+alternative forms of project delivery, including Public Private Partnerships (P3). Griffin|Swinerton has internally
+established the protocols necessary to mitigate price and performance risk, thus ensuring success within the P3 delivery
+method. We have formulated a P3 delivery process so that financial risk is mitigated in a clear and open manner.
+Furthermore, with the guarantees for price and schedule, assurance of user engagement, and a clear program for
+community input and dialogue, we will be able to meet the requirements and expectations of all project stakeholders.
+
+Griffin|Swinerton projects delivered as P3s in California are more fully described in this proposal and range from the
+P3 delivery of Orange County's $188 million Building 16 within its civic administration center to the $12 million turn-
+key P3 delivery of the Quartz Hill Library for Los Angeles County.
+
+
+cityl!ft               CityLift Parking designs, installs, and services semi-automated to fully automated parking lift
+                       systems that reduce the footprint needed for parking and can typically be done at a lower cost per
+space than conventional parking. CityLift is headquartered in Oakland, CA and has offices in Los Angeles, Chicago,
+Miami, and Boston. CityLift is the exclusive U.S. partner of a 26-year old automated parking system manufacturer whose
+technology has been proven with 60,000 spaces installed in over 13 countries. Domestically, in a few short years CityLift
+has assembled a pipeline of installed and in-progress projects totaling over 50 projects and 2,200 parking spaces in
+eight States, with its largest number of projects in California.
+
+                                                             2
+CityLift’s expert engineering and design team works with both preferred and local architects and project managers
+from conception to design and delivery of the best car parking solution for a given situation. Stacked parking maximizes
+the space and value of a given site by allocating land to better uses.
+
+
+~      GRIFFIN           Griffin Structures, Inc. Established in 1981 as a California corporation, Griffin Structures
+(~     ST R.UC T UR.ES   (Griffin) is a diversified program and construction management Corporation serving the public
+and private sectors for 36 years. Griffin offers a wide portfolio of services for projects of all sizes and complexities—
+both new construction and renovations. Griffin’s in-house construction management services specialize in oversight of
+multiple forms of project delivery, including service both as an extension of staff, and as Owner’s Representatives.
+
+More than 90 percent of Griffin’s last five years’ construction value was for public sector entities. The scope of these
+projects range from $1.5 million to almost $200 million. Griffin’s mission has been to manage clients’ risk and
+streamline project delivery. During its long history, Griffin has never missed a completion deadline or exceeded a
+Project budget.
+
+                               Swinerton Builders (Design-Builder) Headquartered in San Francisco since 1888, the
+                               Swinerton Family of Companies has provided commercial construction and construction
+management services throughout the Western United States for over 130 years. Today, with over 3,000 employees
+and over $4 billion in annual revenue, Swinerton is achieving remarkable success in the industry across a wide range of
+markets including: Renewable Energy, Healthcare, Federal, Education, Corporate Interior Services, Retail, Multi-family
+Residential, and Hospitality. In addition to these markets, Swinerton also has a robust self-perform parking structure
+group that specializes in parking structures of varying sizes, types, configurations, and delivery methods. Swinerton’s
+self-perform operations also encompass self-perform concrete, drywall, and demolition.
+
+Since Swinerton’s inception in 1888, it has been a forward- thinking company that strategically seizes opportunities
+and executes every project with passion and relentless accountability. As a 100% employee-owned company with
+construction excellence spanning three centuries, we are recognized as one of the top general contractors in the nation
+and have built a reputation for delivering added value to our clients. Swinerton’s General Contracting License #92 is
+the longest-held license number in California history. Throughout the 129 years of construction excellence, Swinerton
+has held several former names—but the reputation has always remained the same. These names include: Swinerton
+and Walberg (1942-2000); Lindgren and Swinerton (1923-1942); The Lindgren Company (1908-1942); Lindgren Hicks
+(1900-1908); and Boyd, Shaples, and Lindgren (1888-1900). From our chairman to our frontline project teams, we work
+diligently and passionately every day to be the best builders, and partners for our clients.
+
+Swinerton Parking Structures
+Swinerton Builders has extensive Design-Build and Parking Structure project experience and is ranked as the #1
+Construction Service Provider in California by the Engineering News Record for the last three years consecutively.
+Swinerton’s experience includes over 45 parking structures of varying size and complexity for private and public clients.
+
+Swinerton team members are well respected in the industry for their design-build and parking structure experience.
+Through past Design-Build projects, team members have learned how to work collaboratively with clients to align
+project goals and values with the client’s mission.
+
+Swinerton is currently the Design-Builder on San Diego County’s largest two parking structures; UCSD Osler Parking
+Structure and the San Diego Airport Parking Plaza. Additionally, this team is working on or has recently completed
+parking structures for, Community Memorial Hospital, Children’s Hospital of Orange County, St. Jude Medical Office
+Building, Jet Propulsion Laboratory, and Sunroad Centrum.
+                                                           3
+Swinerton combines its industry-leading design-build construction services with self-perform capabilities. By utilizing
+the know-how of a specialty subcontractor with the resources and knowledge of a full-service general contractor, this
+approach helps Swinerton efficiently control the project’s schedule, quality, and costs. From in-house BIM detailing to
+self-fabrication all the way to forming and placing concrete, we can efficiently design and build parking structures that
+can scale to the needs of any project.
+
+
+
+
+                                                           4
+3.      Approach
+
+Grifin|Swinerton in association with CityLift is prepared to design, permit, finance, and construct the mechanical
+parking project in close collaboration with the City of Palo Alto. The Project would be delivered using a public-private
+partnership (P3) model and structured as a turnkey, build-to-suit transaction. The following describes the integrated
+approach of the Griffin|Swinerton Team in association with CityLift in designing a project that meets the City of Palo
+Alto’s requirements; processing project approvals at the State and local level; and project financing and delivery using
+Griffin|Swinerton’s open book, customizable, and fully transparent guaranteed maximum price (GMP) P3 structure.
+
+3.1. Proof of Concept Design Approach
+
+In the conceptual design included as part of this response, the Griffin|Swinerton Team led by CityLift chose Lot A at the
+corner of Lytton Avenue and Emerson Street to illustrate the design philosophy, space count, cost, project delivery,
+and operation of a public mechanical parking lift system. Lot A is in a busy node of activity for downtown employees
+and retail patrons, so offers a good case study to analyze a high-density parking solution that would serve a variety of
+users. Also, to directly address the City’s need for more public parking in the downtown core, the design concept
+provides a parking-only solution as opposed to incorporating a mix of uses such as ground floor retail or other
+commercial space, a design choice that is aligned with comments made by City staff during the Pre-RFI Teleconference
+on April 11, 2018.
+
+
+
+
+                                                        Conceptual design plan – Lot A, corner of Lytton Avenue and Emerson Street
+
+
+
+
+                                                            5
+City of Palo Alto Planning and Zoning Guidelines
+In preparing the response to this RFI, a member of the Griffin|Swinerton Team met in person with the Planning
+Manager of the Development Services Center within the City of Palo Alto to discuss the Project concept, the
+architectural review process, planning fees, the zoning designation, and the process overall. The following is a brief
+discussion of the planning and zoning guidelines that materially impact architectural site planning and layout for
+mechanical parking within Palo Alto.
+
+Lot A is in a Public Facilities District (PF) zone and is adjacent to the Downtown Commercial District (CD) zone. The
+conceptual site plan provided as part of this RFI response is consistent with the height, floor area ratio, setbacks, and
+site coverage requirements under this zone. The PF zone restricts height to 50 feet and in the case of parking facilities
+in a PF zone, sets floor area ratio, setbacks, site coverage requirements by the most restrict adjacent zone, in this case
+the CD zone which permits buildings conforming to a more urban, dense design paradigm.
+
+The recent March 2017 amendment to the Palo Alto Planning Code (Section 18.54.020) includes provisions for
+mechanical lift parking. Section 18.54.020 permits the use of mechanical lift parking for off-street parking, and among
+the planning code requirements are provisions for:
+    • parking serving permitting building types (multifamily, hotel, industrial, institutional, etc.) or other uses
+        approved by the Planning Director
+    • required enclosures that screen parking from public view and shall be architecturally compatible with site
+        conditions
+    • parking spaces that shall accommodate mid-size sport utility vehicles and full-size cars (without going so far as
+        to accommodate large sport utility vehicles)
+    • submission requirements for analysis and reports of the mechanical parking solution (e.g. effectiveness,
+        operational details, drawings, maintenance schedules, and potential impacts, etc.)
+    • a requirement that 10% of parking spaces should be standard, non-mechanical spaces for all non-residential
+        uses, which would apply to public parking solution.
+
+The Planning staff representative that our Team consulted with also verbally indicated that City Planners will require
+that ground floor exterior cladding be permeable and pleasing to pedestrians, rather than a solid, opaque exterior. All
+of the aforementioned was taken into account in devising the conceptual site plans as part of this RFI response, in
+addition to assumptions on site coverage of improvements, and the various quality levels of building skin/exterior
+cladding that were input into the cost estimate within this response.
+
+Parking Dimensions and Space Counts
+The conceptual designs shown below included three separate parking structures and drive aisles, parking platform
+widths of 9’6” to accommodate nearly all vehicles, and building heights that vary from three to five levels (20 feet for
+the 3-level, 26 feet for the 4-level, and 32 feet for the 5-level). Each parking structure is 96-feet wide and fits 10 parking
+platforms.
+
+        Design Alternative                           Number of Spaces                           Height
+        3-Level Parking Structure                       124 - 140                               20 feet
+        4-Level Parking Structure                       148 - 170                               26 feet
+        5-Level Parking Structure                       180 – 210                               32 feet
+
+
+
+
+                                                              6
+                  Scenario A – Mix of Mechanical and Non-Mechanical Parking
+
+
+
+
+                                                                                                                        I            LYTTON AVE.                                          I
+                                                                                                                                       LOT 'A'                                                I
+
+      .~ xi-- ---                                                             - - - - - ½ --
+                                                                                                                    I            9'.S' PLATFORMS
+                                                                                                                                          ~        -    -         ~           -           --L-,-------                                             -- ---
+
+
+
+
+      I
+          ~:
+
+      , / ____r,
+      I
+                                 \
+                                                                                     11"- SUHi AU.. :;..-ALl.....,                I     3LP
+                                                                                                                                        SU RFAC E; 12 CARS
+                                                                                                                                        TOTA L     124 CARS
+                                                                                                                                                                  : 1, 2cARS
+                                                                                                                                                                                                                                                                                             T
+                                                                                                                                        4 LP                      : 136 CARS
+      1   ·< ------j_.,.>                                                                                                               SU RFAC E; 12 CARS
+                                                                                                                                        TOT A L                   ; 148 CARS
+                                                                                                                                        5LP                       : 1G8 CARS
+                                                                                                                                        SURFAC E;                     12 CARS
+                                                                                                                                        TOTAL                      180 CARS                                            41.P
+                                                                                                                                                                                                                    17CARS
+
+
+                       ,--·-·--------·-                                    21 CARS - · - - - - - - · - · · -                            I2a~X~ -·------·--·                                                         21 ~AAS - - - - - - - - · - · · - · - - ,
+
+
+
+
+                             11:i
+                            ,1
+
+              , / t \ / f ,l1 t\ l
+                                     ~   1,
+                                                      .~llf1:1 ~f1:1 ~l 1l1:i7~~
+                                                      f        t-> 11 1 ,'          ~ ~       •             ~   1           I         !:.:_~ I l
+
+                                                                                                            e\ i t \ l/ f \ / f \ l; n l:f1i t,l
+                                                                                                                                                       l;.: '                         I           ~,: '     '(             ~      -, • ,       ._':, ,       ,'         t;; ' '
+
+
+
+           -\,-~--t-_:-1 -~-t''-~-----_:-t',-~--t-_:-t', -~-+•',___:_~-~- ' ~-
+                       •         ~                        f?         ~        ~           ,           g             ..           ~"';l"                                           .           ~                 .      ~                   g,'{?'                            ,       \
+
+
+           00 1,
+                  '     ,        .:           l   t       _.          1'      _,.             I I      J                '         _,.          I            .:-           l                   J           I I           _,.        l I I   J             l        ...                    '
+
+                        I\ / I\ / \ ! I\ -;; ! \ / I\ ' I\ : ' .~ /
+                      ·, \ ~
+                       ,•, ~
+                                                  \ 1 /
+                                                      '~           ,',', f::
+                                                                              ~
+                                                                                      1'1
+                                                                                                      ~
+                                                                                                    ~'.=:       /           •,
+                                                                                                                                 ~
+                                                                                                                                 ~         /1\          ~             I
+                                                                                                                                                                                              1
+                                                                                                                                                                                              ~
+                                                                                                                                                                                                             ~
+                                                                                                                                                                                                      ; , , r-::                  ; , •!'?,
+                                                                                                                                                                                                                                           ~
+                                                                                                                                                                                                                                                    ,'       ~ ,¾                I
+
+
+                        l,1~ ! I,\~ ,,= 1.
+                             1 ",                      1.
+                                                  / , ~ ,'    1-1~ ,,. ",. I                                                              I            1~          ! , 1,=                           j               1~        I
+
+
+
+                                 tJ~J:~J&J~~~J:Qfu:fILJ&
+m
+,=                                                                                                                                                                                                                                                                               1
+
+
+
+                       ~1
+m
+:<>
+Cf)
+0
+z
+;l                                                                                                                                        7fl C.A•<S                                                                17f'....n S
+                                                                                                                                                                                                                      OLP
+m                                                                                                                                                                                                                   21 CAAS
+m
+--<
+
+
+
+
+           00 '
+                  '
+
+
+
+
+                                                                                                                                         BUILDING
+
+
+
+
+                                                                                                                                                   7
+                                   Scenario B1 – High Density Mechanical Parking (3-Level)
+
+                                                                                                              LOT'A'
+                                                                                                        9'-6" PLATFORMS
+
+
+
+
+                                                                                                           LYTTON AVE.
+
+
+
+     I
+     ~---.-_
+     1 < ~
+                --_ --,----~---.-_
+           ,1;_ ~       ~
+                                    --_ -..---
+                                f ,. ?;  ,'I, ~
+                                               _ _Fr___
+                                                  ; • :;::
+                                                      J   I
+                                                           -"". --_ --------,-_
+                                                             ,-, !;:°, .:1:. ~
+                                                                             ;
+                                                                               . ---~
+                                                                                 '=. _i~\
+                                                                                        :~                                                                                                            Jl
+
+
+
+
+     I\~ /j\~ :\~ / \i /j\j ij\~ /\i
+     I•,;:!?,                          :1·,:'::;               ~~;                   ',~         .'1',~               ,'1 '.~                 ,'     \ ~          _'
+                                                                                                                                                                       /\ j
+                                                                                                                                                                            \~
+                                                                                                                                                                                        /i\ 1 \\='2:~ ;Let\
+                                                                                                                                                                                       ; , ·,~
+     '1   ~-;,   \    ~            /     1~_a \   ~       'i \       i /         -_a\~      / 1~_a \     ~        / 1-_a \        ~       /        -_,. \ ~ ' /         ~ \, :;_: _    / ,:.:
+                                                                                                                                                                                         1-_a \   ~    'i \     i /
+                                                                                                                              r::~ t t. 't----/.--i-
+                                         ,.w                                                                                      ~
+
+                                                          ·t. \-J ; ·r. r ; rt ·t / r:.
+                                                                                                                                                                                                                        1
+          :.t        '-        ,              I -         ,W     '   -           .!a! • - '       Ila   1-        I    ,:.:   •           •        .!a! ' -             -                      I -     !a     ' -
+
+     ,'Jt ·tl .'/ r:&t                                                                          ·t ; ·i t / '7ti \-' :                                                                                 _• /j '. !
+     , .• 11
+     1:1 '.,
+     1t..'                V
+                                         1••
+                                         ,.":)I \
+
+                                          ,:
+                                                           ,-;_• ·•, • i['7 ! •.;V 1~•
+                                                              ... ,      I       .K l
+                                                                                       ',; I"~
+                                                                                    ,: V
+                                                                                        I    1
+
+
+                                                                                            " I
+                                                                                                  ,; «'e; •.;, "., "V
+                                                                                           ,.•:l '·
+                                                                                                  ,_• :.:,e \ :
+                                                                                                                              1;• ·.,
+                                                                                                                             ,i' V
+                                                                                                                                      1
+
+
+                                                                                                                                       "
+                                                                                                                                                   -· ~   \   1                l_ .'      ,.":ll l
+                                                                                                                                                                                                       e;"
+                                                                                                                                                                                                                    V
+"[~~,                                                                                            ~ ~ ~ 1.::..1··~··~··~ ·~··~··~··~··~ ~ ~
+
+
+     I
+     '
+
+
+
+
+     l ,.
+'·' · - -            __, ,)'
+
+
+
+
+                                                                                                                  BUILDING
+
+
+
+
+                                                                                                                                  8
+     Scenario B2 - High Density Mechanical Parking (4- and 5-Level)
+
+
+                                   LOT 'A'
+                             9'-6" PLATFORMS
+
+
+
+
+                              LYTTON AVE.
+
+
+
+
+_l,-i.I>                                         ~p
+                                               ?1 r..llRS
+
+
+
+
+ I
+
+
+
+
+                                BUILDING
+
+
+
+
+                                      9
+Puzzle Lift System
+CityLift’s Puzzle Lift System (PLS) was chosen for this approach as it is the most versatile mechanical parking offering
+and is ideal for new construction. These systems are widely used in residential, mixed-use, and public parking structures
+in both garages and free-standing parking towers. The PLS is a semi-automated parking solution, where mechanical
+systems move a car to its parking space, however putting the car into the systems as well as operating the system
+requires a key fob and some action by an attendant (or a trained driver) which is well suited for a public parking solution
+where individual safety and liability protection are of critical concerns. The PLS comes in 2, 3, 4, 5, 6, and 7-level
+configurations, the steel frame doubles as the building structure, and Electric Vehicle (EV) charging can be
+accommodated in the parking stalls.
+
+Other key features of the PSL include:
+ Project Type                   New construction or retrofit
+ Building Application           Free-standing or garage
+ Independent Access             Yes
+ EV Charging                    Yes
+ Security Gates                 Yes
+ Remote Monitoring              Yes
+ Maximum # Levels               7
+ Retrieval Speed                Avg 36 seconds
+
+ Benefits                       Price and operating costs
+                                                                                                 5-level Puzzle Lift System
+
+
+
+
+                                                                                       Middleton Center, 2-level puzzle
+
+
+
+
+                                                                              Customized for exterior, free-standing use
+
+                                                            10
+Seismic Considerations
+When introducing the mechanical parking system to the U.S. market, CityLift’s structural engineering team designed
+the steel members specifically to be free-standing structures that would withstand a 200-year California seismic event.
+
+A Resilient Parking Solution
+Understanding that with the rapid advancement of transportation technologies and service offerings underway,
+particularly with ride-sharing networks and autonomous vehicle (AV) technologies, we are entering a period of great
+uncertainty with respect to parking demand levels over the next several decades. Therefore, all new parking solutions
+which require significant upfront investment that would be repaid over a 20- to 30-year timeframe should be able to
+address how the system will avoid potential obsolescence.
+
+Rather than thinking about how CityLift’s PLS can be retrofitted to an alternate building use type should parking
+demand be dramatically reduced in the coming years, the structural frame of the PLS can be deconstructed and recycled
+in a manner that is far cheaper and easier than retrofitting the structure to a commercial building, for example. After
+the bolts are removed from the steel members of the parking structure and materials are reused elsewhere or recycled,
+a slab will remain which can be repurposed in any manner that the City prefers.
+
+3.2     Entitlements and Permits
+
+As the Griffin|Swinerton Team progresses through Schematic Design (SD), Design Development (DD), and Construction
+Documents (CD) during Predevelopment, we will also need to secure a variety of project approvals as described in this
+subsection.
+
+Planning Approvals
+In terms of the City’s planning approvals process, it is anticipated that the Project will go through an Architectural
+Review Board process including community meetings, be reviewed by the Planning & Transportation Commission and
+City Council review due to the newness of this mechanical parking as a public facility. It does not appear that the Project
+will require a zoning change as the proposed use fits within current PF zoning regulations and planning code
+requirements for mechanical parking.
+
+Customary planning fees are anticipated, but it is still an open question as to whether or not the City will require
+payment of development impact fees for the Project. Given that the Project contemplated is a public facility delivered
+through a public private partnership (P3), the City would be effectively “charging itself” by levying impact fees.
+
+CEQA Clearance
+The City will be the lead Agency on processing the required CEQA documents with Griffin|Swinerton being the primary
+responsible party to provide the necessary documentation for approvals. The scope, expense, and duration of the CEQA
+process will be determined by whether the proposed mechanical parking project will be governed by a Mitigated
+Negative Declaration (MND) or full Environmental Impact Report (EIR) to comply with the CEQA requirements for the
+project. In embarking on this Project, Griffin|Swinerton would retain an Environmental Consultant experienced in the
+CEQA guidelines and mandatory items to be included in an MND or EIR.
+
+Technical studies that would be key in determining the scope of CEQA process include Traffic Study, Air Quality Study,
+and Noise Impact Study, among others. Based on the technical reports and other data assembled, our Team would
+collaborate with the City to expeditiously prepare an Initial Study for the project using the most recent version of
+Appendix G of the State CEQA Guidelines. Once the Initial Study has been prepared, the CEQA documentation team
+will have a better understanding of the type of CEQA document necessary to analyze fully project impacts in compliance
+
+                                                            11
+with City and State CEQA guidelines. An MND or EIR would be prepared in accordance with the requirements of CEQA
+Guidelines in the State Public Resource Code.
+
+In consultation with the City, our Team can assist the process by compiling of list of agencies and organizations who
+will receive copies of all notices and environmental documents. This list will include the local jurisdictions, the State
+Clearinghouse, agencies with known permitting responsibilities, and public agencies which may be affected by the
+proposed project. Once the controlling CEQA report has been reviewed and accepted by the City, the appropriate
+processing steps for approval will be initiated including the public review comment period.
+
+Community Outreach
+The main goals of effective community and stakeholder outreach address improving public awareness; minimizing
+impacts to residents, businesses, and commuters; and ensuring a safe construction work zone. Griffin|Swinerton has
+found that early and frequent involvement and input creates community connections to a project, provides a greater
+understanding of project realities, and identifies potential issues before they become problems. Griffin|Swinerton
+outreach activities occur pre-, during, and post-construction, including Outreach Plans, holding community meetings,
+regular email updates to stakeholders and subscribers, and a dedicated project website/hotline/information channel
+to solicit feedback.
+
+Building and Other Permits
+This Project will require extensive review by the various departments and divisions involved in both public and private
+development projects throughout the City. After the Planning Division has approved the Project and the Project
+proceeds through Design Development and Construction Documents, at least the following City review requirements
+will apply:
+     • Building Division – with overarching responsibility, review of complete building plans
+     • Public Works Department – as the project involves site work in the public right-of-way
+     • Fire Department – life safety and fire protection/sprinkler system are critical project components
+     • Water Quality Control Division – sand oil interceptors will be required for this parking use
+     • Water/Wastewater Utilities Division – primarily for fire protection/sprinkler service added
+     • Electrical Utilities Division – for bringing electrical disconnects and service meters to the parking lifts
+
+3.3. Public-Private Partnership (P3): Project Financing and Delivery
+
+Griffin|Swinerton is pleased to provide a description of our approach to public-private partnerships (P3) that is
+perfectly aligned with the City’s preferred transaction structure that was discussed with the City during the Pre-RFI
+Teleconference on April 11. Our P3 structure enables the design, permitting, and construction of the Project as a
+turnkey, built-to-suit transaction utilizing privately-financed tax-exempt bonds for 100% of project costs to match the
+lowest cost financing available to municipalities.
+
+The Project would be delivered using a public-private partnership (P3) model and structured as a turnkey, build-to-suit
+transaction. The P3 legal structure involves a “lease/leaseback” arrangement with the City, where execution of a
+Ground Lease (i.e. site lease) and Facility Lease Agreement (i.e. parking facility leaseback) occur simultaneously. As is
+typical in our collaborative P3 projects, the Agreements will be jointly produced by the Griffin|Swinerton Team and the
+City. The Griffin|Swinerton Team will undertake the financing and development of the parking facilities via a project-
+specific not-for-profit company, or Single Purpose Entity (SPE), where City representatives may be designated as board
+members of the SPE, should the City so desire, so that the City retains control and oversight of the Project at all times.
+When the Project reaches substantial completion of construction and commissioning, Griffin|Swinerton’s role would
+end. The City could elect to refinance the outstanding debt or keep the SPE structure in place to avoid additional
+
+                                                           12
+transaction costs. When the parking facilities are placed in service, the City would enter into separate contracts with
+CityLift for servicing and maintenance of the mechanical lift system and a parking operator.
+
+The diagram below illustrates the relationship of the Griffin|Swinerton Team with the City and the mechanics of our
+project-specific financing structure.
+
+
+
+
+                                             ~               CITY OF
+                                             ¥PALO ALTO
+                                                                  IGround
+                                                                    lease
+                                                                                   I Facility Lease w
+                                                                                     Take-out Option
+
+                                                    Loan
+                                                 Agreement        Non-Profit Special
+              Financing Authority
+                                                                 Purpose Entity (SPE)
+                                                             I
+
+
+          !                                  l                                                               lcityl!ft -
+                                                                            I
+            Indenture                Bond
+                                  Proceeds                                  Development
+                                                                             Agreement
+
+
+
+
+                                                                                                             I                 -
+                                                                                                        E
+                        Trustee                                                                         ~
+                                                                                                        E          ~
+          1 Debt
+            Service
+                                      Bond
+                                  Proceeds
+                                             l      ..
+                                                    l1__:1_··J_H -                                      i
+                                                                                                        ,;
+                                                                                                        it
+                                                                                                        C
+                                                                                                                 SWINERTON
+                                                                                                                               •   I   •   t •
+
+
+
+
+                      Investors
+                                                                                                             I      @
+                                                                                                                  ARCHIT ECT
+
+
+
+
+                                                                                                                               -
+                                                                                                                               .tM¾
+
+
+By design, the onus of the financing is on the Griffin|Swinerton team to efficiently shift the risk of project execution to
+the development team and accelerate project completion. The security for the private financing will be a leasehold
+deed of trust (by way of the Ground Lease) supported by the Project’s lease revenue in the Parking Lease with the City,
+where lease payments are equal to the debt service payments. Provisions in the Ground Lease and Parking Lease allow
+the City, at any time, to take-out the financing, enabling the City’s preferred turn-key project delivery approach.
+
+3.4. Operations and Maintenance
+
+Following the organization in the RFI document, the approach to operations and maintenance is included in the
+following Section 4.2.
+
+
+
+
+                                                                                13
+4.       Cost
+
+4.1      Total Project Costs
+
+The Griffin|Swinerton Team developed a preliminary cost model for a prevailing wage, P3 project delivery which reflect
+current figures as of April 2018 from both CityLift and Swinerton Builders. Costs are preliminary, based on conceptual
+designs and will be subject to change over time due to inflation and design refinements. The cost model estimates total
+project costs, including the mechanical parking equipment, foundation, a range for building skin ($65 to $80 per square
+foot), roofing, electrical, plumbing, fire sprinklers, sitework, and signage. It also factors in general contractor’s costs
+and project soft costs.
+                                                   Cost Range Per Space
+                                     3 Level Puzzle Lift            4 Level Puzzle Lift            5 Level Puzzle Lift
+ Mechanical Parking System                 $17,544                       $19,475                        $22,424
+ Direct Construction Costs           $42,702 - $44,655              $44,453 - $46,544              $45,678 - $47,762
+ Total Project Costs                 $52,576 - $54,950              $54,585 - $57,126              $55,968 -$58,499
+
+
+CITY OF PALO ALTO - REQUEST FOR INFORMATION
+CONCEPTUAL COST ESTIMATE - LOT A
+MECHANICAL PARKING - 3 LEVELS
+PALO ALTO, CA
+                                                         3-LEVELS                           cityl!ft                           --GRIFFIN
+                                                                                                                                  -
+                                                                                                                                    SWINERTON
+
+
+  Direct Costs                                   I    Unit Qty    I    Cost/Unit    I      Total       I       $/Space     I     $/GSF     I       $/Site SF
+  Foundation - Slab-on-grade                          20,265 SF         $30 /SF         $   607,950        $       4,343       $ 60.41         $         30.00
+  Mechanical Parking System & Superstructure         140 Spaces       $17,544 /Sp       $ 2,456,160        $      17,544       $ 244.08        $       121.20
+  Exterior Enclosure                                  15,713 SF         $65 /SF         $ 1,021,340        $       7,295       $ 101.49        $         50.40
+  Roofing                                             10,063 SF         $15 /SF         $   150,945        $       1,078       $ 15.00         $          7.45
+  Electrical                                          10,063 SF         $40 /SF         $   400,000        $       2,857       $ 39.75         $         19.74
+  Plumbing                                            10,063 SF         $23 /SF         $   230,000        $       1,643       $ 22.86         $         11.35
+  Fire Protection                                     10,063 SF         $22 /SF         $   225,000        $       1,607       $ 22.36         $         11.10
+  Sitework                                            20,265 SF          $2 /SF         $    42,300        $         302       $    4.20       $          2.09
+  Signage                                            Allowance         Allowance        $    20,000        $         143       $    1.99       $          0.99
+  Subtotal - Direct Costs                                                               $ 5,153,695        $      36,812       $ 512.14        $       254.32
+
+                                                                                                                                                                 I
+  Indirect Costs                                      Unit Qty                              Total            $/Space            $/GSF            $/Site SF
+  Contractor Gen Conditions, Insurance, OH/Fee         16%                              $    824,591       $     5,890         $ 81.94         $       40.69
+
+  TOTAL - Direct & Indirect Costs                                                       $ 5,978,286        $      42,702       $ 594.09        $       295.01
+
+  Soft Costs                                          Unit Qty                             Total               $/Space           $/GSF             $/Site SF
+  Architecture & Engineering                            6.0%                            $   358,697        $       2,562       $ 35.65         $         17.70
+  Planning Fees & Building Permits                      4.5%                            $   269,023        $       1,922       $ 26.73         $         13.28
+  Utility Connection Fees                               1.0%                            $    59,783        $         427       $    5.94       $          2.95
+  Legal                                              Allowance                          $    35,000        $         250       $    3.48       $          1.73
+  Insurance                                          Allowance                          $    60,000        $         429       $    5.96       $          2.96
+  Property Taxes                                         NIC                            $        -         $         -         $       -       $           -
+  Developer Overhead/Fee                                4.5%                            $   299,960        $       2,143       $ 29.81         $         14.80
+  Project Contingency                                   4.5%                            $   299,960        $       2,143       $ 29.81         $         14.80
+  Subtotal - Soft Costs                                                                 $ 1,382,424        $       9,874       $ 137.38        $        68.22
+
+  Total Project Costs                                                                   $ 7,360,710        $      52,576       $ 731.46        $       363.22
+
+
+
+                                                                        14
+4.2     Operations and Maintenance
+
+cityl!ft              CityLift’s Service Program – below is a summary of the term, cost, and services included in
+                      CityLift’s Service Program. The following should not be construed as a full, detailed description of
+services, an offer, or a proposed agreement. These items are subject to change and reflect the maintenance package
+offered by CityLift as of the time of this RFI response.
+1. Term – the Service Program is offered for a period of up to sixty months following installation of mechanical parking
+   equipment.
+2. Cost – For the first 12 months following the completion of installation, the CityLift Service Program will be provided
+   to the City without additional cost. Thereafter, the annual cost for the Service Program would be priced at $25 per
+   space per month.
+3. Training – on-site operational training for designated City staff and/or their hired daily parking operator/property
+   manager, operational training materials are provided, and property manager training for key fob programming and
+   ongoing fob set up or replacement, which is the responsibility of the property manager.
+4. Response to Service Calls – CityLift will respond to calls for on-site service/repairs within 1 hour with notification
+   at CityLift’s designated customer service number.
+5. Remote Monitoring – CityLift performs 24x7 remote monitoring of operating system.
+6. Equipment Maintenance – a detailed repair and maintenance check is performed monthly with additional checks
+   performed quarterly and annually.
+7. Substitute Transportation – If a malfunction in the equipment, for which CityLift is responsible for, prevents access
+   to a user’s car, CityLift will reimburse the user for the cost of using alternative transportation (e.g. taxi, Lyft, or
+   Uber) up to a maximum of $50 per occurrence.
+8. Parts Replacement – CityLift provides a 1 year product warranty. During the warranty period, CityLift will replace
+   all worn or defective parts that are not damaged by a third party.
+9. City Lift Quarterly Maintenance – includes verification that the following are in proper working order: cycling all
+   spaces through rotation, perimeter fence, safety signage, platform cleanliness and integrity, tire guides, ground
+   surface tracks, lift chains, control box, all columns and beams, and frame tolerances.
+
+Property Management/Operations
+
+Ace Parking was consulted for property management, operations, and staffing details. Ace Parking has worked with
+CityLift to manage select installations of its mechanical parking systems and is well versed in providing property
+management services to public parking lots and garages for municipal clients.
+
+•   Varied Levels of Parking Service – The increased density of parking spaces offers the City a variety of options for
+    differentiated levels of parking service and parking space designations.
+         o For Downtown Employees: Some parking aisles or space blocks could be dedicated to downtown
+            employees on a first come, first service basis whose access is permissible via a special permit from the City
+            (for a fee or free, depending). There could be assigned monthly spaces for an additional specialized permit.
+         o For Downtown Patrons & Visitors: All or the non-employee remainder of the spaces could be first come,
+            first serve for the general public (assuming a 2 to 4 hour time restriction). There is also an option for daily
+            parking spaces for a fee.
+
+
+                                                            15
+•   Hours of Operation and Attendant Staffing – operations of parking facilities in downtowns like that of Palo Alto
+    generally have peak hours in the morning commute, lunch rush, and evening commute hours. These hours would
+    require greater staffing than in non-peak hours in the early morning and late night. The following is based on Ace
+    Parking’s general guidelines for staffing peak and non-peak hours for parking facilities in busy suburban
+    downtowns. The following theoretical attendant staffing plan assumes a lot has 150 to 200 cars.
+
+     Hours of Operation                   Peak        Non-Peak            Attendants          Comments
+                                                                                              Gates are closed; after hours auto
+     12am to 5am*
+                                                           x                    0             access can be provided by an on-call
+     After Hours-Closed
+                                                                                              employee for a fee
+                                                                                              Parking operation for early morning
+     5am to 7am                                            x           1 (entire facility)
+                                                                                              employees
+     7am to 10am                            x                             1 per 50 cars       Morning commuters
+                                                                                              Lunch rush for employees, patrons,
+     11am to 1pm                            x                             1 per 50 cars
+                                                                                              and other visitors
+     1pm to 4pm                                            x           2 (entire facility)
+
+     5pm to 8pm                             x                             1 per 50 cars       Evening commuters
+                                                                                              Primarily to service evening patrons
+     8pm to 12am*                                          x          1-2 (entire facility)
+                                                                                              of nightlife (restaurants, cafes, bars)
+     * Weekdays – the parking facility may close earlier at 10pm or 11pm;
+       Weekends or special events – the parking facility may close later than 12am
+
+
+
+
+                                                                     16
+5.     Development Team
+
+                  Griffin|Swinerton, A Joint Venture
+                  Northern California Office                     Southern California Office
+                  1850 Warburton Avenue, Suite 120               2 Technology Drive, Suite 150
+                  Santa Clara, CA 95050                          Irvine, CA 92618
+Description       The Griffin|Swinerton joint-venture team was established in 2009. It is a fully integrated,
+                  highly experienced organization that combines the best of the development and
+                  construction industries. Griffin Structures and Swinerton Builders both have a long and
+                  successful track record working with cities in an open book, fully transparent process
+                  utilizing multiple alternative forms of project delivery, including Public Private
+                  Partnerships (P3). Griffin|Swinerton projects delivered as P3s in California are more fully
+                  described in this proposal and range from the P3 delivery of Orange County's $188
+                  million Building 16 within its civic administration center to the $12 million turn-key P3
+                  delivery of the Quartz Hill Library for Los Angeles County.
+
+                                            Griffin Structures, Inc. Established in 1981 as a California
+                                            corporation, Griffin Structures (Griffin) is a diversified program
+                                            and construction management Corporation serving the public
+                  and private sectors for 36 years. Griffin offers a wide portfolio of services for projects of
+                  all sizes and complexities—both new construction and renovations. Griffin’s in-house
+                  construction management services specialize in oversight of multiple forms of project
+                  delivery, including service both as an extension of staff, and as Owner’s Representatives.
+
+                                                 Swinerton Builders (Design-Builder) Headquartered in
+                                                 San Francisco since 1888, the Swinerton Family of
+                  Companies has provided commercial construction and construction management
+                  services throughout the Western United States for over 130 years. Today, with over
+                  3,000 employees and over $4 billion in annual revenue, Swinerton is achieving
+                  remarkable success in the industry across a wide range of markets including: Renewable
+                  Energy, Healthcare, Federal, Education, Corporate Interior Services, Retail, Multi-family
+                  Residential, and Hospitality. In addition to these markets, Swinerton also has a robust
+                  self-perform parking structure group that specializes in parking structures of varying
+                  sizes, types, configurations, and delivery methods. Swinerton’s self-perform operations
+                  also encompass self-perform concrete, drywall, and demolition.
+Primary Contact   Roger Torriero                          Dave Callis
+                  Principal, Griffin|Swinerton            Principal, Griffin|Swinerton
+                  CEO, Griffin Structures, Inc.           Senior Vice President, Swinerton Builders
+                  (408) 955-0431                          (415) 421-2980
+                  rtorriero@griffinswinerton.com          dcallis@swinerton.com
+Website           www.griffinstructures.com / www.swinerton.com
+
+Size of Firm      Griffin Structures, Inc. (25) / Swinerton Builders (over 3,000)
+
+Role              Project Developer, Construction Management, Construction
+
+
+
+
+                                                17
+                  CityLift
+                  2335 Broadway Suite 100
+                  Oakland CA 94612
+
+Description       CityLift Parking designs, installs, and services semi-automated to fully automated
+                  parking lift systems that reduce the footprint needed for parking and can typically be
+                  done at a lower cost per space than conventional parking. CityLift is headquartered in
+                  Oakland, CA and has offices in Los Angeles, Chicago, Miami, and Boston. CityLift is the
+                  exclusive U.S. partner of a 26-year old automated parking system manufacturer whose
+                  technology has been proven with 60,000 spaces installed in over 13 countries.
+                  Domestically, in a few short years CityLift has assembled a pipeline of installed and in-
+                  progress projects totaling over 50 projects and 2,200 parking spaces in eight States, with
+                  its largest number of projects in California.
+
+Primary Contact   Scott Gable
+                  CEO
+                  (844) 388-0424
+                  sgable@cityliftparking.com
+
+Website           www.cityliftparking.com
+
+Size of Firm      32
+
+Role              Mechanical Lift Parking Provider – Installer and Service Provider
+
+
+
+
+                                               18
+                                       QUALIFICATIONS
+
+                                       Roger Torriero is a nationally-recognized leader in the
+                                       implementation of Public / Private Partnership (P3) projects.
+                                       He has successfully led the team efforts for five public sector P3
+                                       projects in California, two of which are library projects.
+
+             Roger Torriero            Roger’s extensive involvement in virtually all aspects of both
+              Principal-in-Charge      public and private sector real estate development, finance,
+                                       design, and construction provides Griffin|Swinerton with
+                       EDUCATION       specialized expertise in the conceptualization and realization
+          Master of Architecture,      of challenging projects. He is an expert in forward planning,
+  Accademia di Belli Arti a Firenze    finance, entitlements, project delivery methodologies, and
+                              Italia   community-based participatory planning.
+
+          Bachelor of Architecture,    REPRESENTATIVE EXPERIENCE
+     Syracuse University, New York
+                                          County of Los Angeles, Quartz Hill Library (P3),
+                    REGISTRATION            Quartz Hill, CA
+      California Contractor License       El Gabilan Branch Library (P3), Salinas, CA
+            #793600, Classes A & B        County of Orange, Building 16 Administration Building
+                                            (P3), Santa Ana, CA
+                     AFFILIATIONS         Salinas Police Service Headquarters (P3), Salinas, CA
+      U.S. Green Building Council,        West Hollywood City Hall (P3), West Hollywood, CA
+                          Member          Yorba Linda Library and Arts Center, Yorba Linda, CA
+                                          Tustin Library, Tustin, CA
+    Urban Land Institute, Member          Half Moon Bay Library, Half Moon Bay, CA Visalia
+                                          Fullerton Library, Fullerton, CA
+American Public Works Association         El Centro Library, El Centro, CA
+National Association of Industrial &      Hesperia Library, Hesperia, CA
+             Office Parks, Member         Mariners Library, Newport Beach, CA
+                                          Bloomington Library, Bloomington, CA
+ Associated General Contractors of        Willowbrook Library, Los Angeles, CA
+                America, Member           Watsonville Main Library, Watsonville, CA
+                                          Hermosa Beach Library Needs Assessment, Hermosa
+        Construction Management             Beach, CA
+   Association of America, Member         Lawndale Community Center, Lawndale, CA
+                                          County of Riverside Family Law Court, Riverside, CA
+    Design-Build Institute, Member        Huntington Beach Senior Center, Huntington Beach, CA
+                                          Buena Park Community Center, Buena Park, CA
+                                          Quail Hill Community Center, Irvine, CA
+           YEARS OF EXPERIENCE            Laguna Beach Community Center/Senior Center, Laguna
+                                 40         Beach, CA
+                                          San Dimas Community Center Expansion, San Dimas, CA
+                                          Pine Avenue Community Center and Gardens, Carlsbad,
+                                            CA
+                                          Delhi Community Center, Santa Ana, CA
+                                          Lake Forest Community Center, Lake Forest, CA
+
+
+                                              22
+                                    QUALIFICATIONS
+
+                                    Dave has 25 years of experience in construction, ranging from
+                                    managing all aspects of preconstruction and construction. Dave
+                                    is particularly skilled in his thorough knowledge of construction
+                                    practices, codes, scheduling, estimating, budget preparation,
+                                    value engineering and constructability reviews. Other
+               Dave Callis          responsibilities include: business development and maintaining
+            Principal-in-Charge     client relationships, interviews, presentations and final contract
+                                    negotiations. Dave has experience in managing all aspects
+                     EDUCATION      of division personnel, including hiring, project assignment,
+Bachelor of Science, Construction   training and development.
+    Management California State
+          University, Long Beach    REPRESENTATIVE EXPERIENCE
+
+                  AFFILIATIONS         County of Los Angeles, Quartz Hill Library (P3),
+                NAIOP, Member            Quartz Hill, CA
+                                       El Gabilan Branch Library (P3), Salinas, CA
+              ACRE-IE, Member          County of Orange, Building 16 Administration Building
+                                         (P3), Santa Ana, CA
+        YEARS OF EXPERIENCE            Salinas Police Service Headquarters (P3), Salinas, CA
+                              28       Fullerton Library Renovation &Expansion, Fullerton, CA
+                                       Turner Riverwalk, Riverside, CA
+                                       Fullerton Community Center, Fullerton, CA
+                                       Laguna Beach Community Center, Laguna Beach, CA
+                                       Laguna Hills Community Center, Laguna Hills, CA
+                                       San Bernardino Valley College Gymnasium, San
+                                         Bernardino, CA
+                                       John Wayne Airport Tenant Improvement, Santa Ana, CA
+                                       San Dimas City Hall &Community Center, San Dimas, CA
+                                       Burbank Community Services Center, Burbank, CA
+                                       Cypress Community Center, Cypress, CA
+                                       Kaiser Permanente Foothill Ranch Medical Office
+                                         Building (MOB), Foothill Ranch, CA
+                                       John Wayne Airport Parking Structure, Santa Ana, CA
+                                       Broadcom Corporate Complex, Irvine, CA
+                                       CHOC Parking Structure, Orange, CA
+                                       Scholle Office Complex, Irvine, CA’
+                                       Ontario Airport Towers, Ontario, CA
+                                       Ladera Ranch Corporate Terrace Medical Office Building,
+                                         Ladera Ranch, CA
+
+
+
+
+                                           23
+                                         QUALIFICATIONS
+
+                                         Korin Crawford is responsible for originating, evaluating,
+                                         structuring, and closing public-private partnerships (P3s) for
+                                         the Griffin|Swinerton business unit. Korin leverages 18 years of
+                                         experience in infrastructure, real estate, and M&A of property-
+                                         backed operating businesses with an emphasis on P3s and real
+             Korin Crawford              estate transactions in complex regulatory environments.
+                   Project Principal
+                                         Prior to joining Griffin Structures, Korin was an Executive
+                         EDUCATION       Advisor to the Los Angeles City Administrative Officer (CAO)
+   Master of Science in Management,      as a subject matter expert on infrastructure delivered through
+Stanford Graduate School of Business     a variety of alternative financing methods including P3s.
+                                         In this role, Korin spearheaded $3.5 billion of investment
+        Master of Science, Electrical    opportunities spanning municipal facilities, transit, renewable
+    Engineering, Stanford University     energy, and habitat restoration projects.
+
+       Bachelor of Science, Electrical   From 2006 to 2015, Korin led his own consulting and
+       Engineering, Duke University      investment practice, offering advisory services to for-profit
+                                         and non-profit real estate investors, developers, and public
+     PROFESSIONAL AFFILIATIONS           agencies (including utilities, ports, city/county, redevelopment,
+         National Renewable Energy       and school districts) to finance and develop land, real estate,
+          Laboratory, Energy Execs       renewable energy, and energy efficiency.
+
+               Urban Land Institute,     REPRESENTATIVE EXPERIENCE
+                           Member
+                                            Los Angeles Convention Center Expansion and
+        Cleantech Institute, Certified        Modernization (P3), Los Angeles, CA
+              Cleantech Professional        Los Angeles Civic Center Master Plan (P3), Los Angeles,
+                                              CA
+            YEARS OF EXPERIENCE             Downtown Los Angeles Streetcar (P3), Los Angeles, CA
+                                   18       Mission Rock / SWL 337 - Port of San Francisco (P3), San
+                                              Francisco, CA
+                                            Pier 70 Redevelopment - Port of San Francisco (P3), San
+                                              Francisco, CA
+                                            Mission Bay Redevelopment - Port of San Francisco (P3),
+                                              San Francisco, CA
+                                            Bayview Hunters Point Shipyard Redevelopment (P3),
+                                              San Francisco, CA
+                                            Oakland Army Base Disposition and Reuse (P3) - Port of
+                                              Oakland, Oakland, CA
+                                            Fillmore Renaissance and Jazz Heritage Museum (P3), San
+                                              Francisco, CA
+                                            Oakland Uptown Redevelopment (P3), Oakland, CA
+                                            Pinole Vista and Pinole Valley Shopping Center Ground
+                                              Lease and DDA Audit (P3), Pinole, CA
+
+
+
+
+                                                24
+                                    2335 BROADWAY, SUITE 100, OAKLAND, CA 94612
+
+
+DEVELOPMENT TEAM
+
+SCOTT GABLE – CEO
+Over 28 years of real estate and business operations experience, Scott serves as CityLift’s CEO. Prior to creating CityLift,
+Scott served as CFO for Starwood Waypoint residential and Trust where he played a key role in establishing the single
+family rental industry as an institutional asset class-eventually taking the company public in 2014. Previous to this, Mr.
+Gable was with Wells Fargo Bank where he helped create the home equity lending business and ultimately served as its
+EVP of Operations across the US. Scott began his career with Booz Allen Hamilton where he consulted on operations and
+strategy for consumer products, entertainment, and retail companies-eventually becoming a principal. He holds an MBA
+from Harvard Business School and an AB in International Relations from Stanford University.
+
+TERENCE CHEN – CHIEF ENGINEER
+Terence comes to CityLift with 17 years of engineering expertise. He is an expert in manufacturing and field installation
+and currently serves as Chief Engineer for CityLift Parking. Prior to CityLift, Terence was Technical and Quality Director of
+Snap-on’s Asia Pacific Region where he created robust quality and warranty systems to support fast growth in the vehicle
+lift, tire changer, wheel balancer, and aligner verticals. Terence began his career with FCI as a process engineer leader
+setting up a new automotive harness manufacturing facility. Terrence holds a Master Degree in Engineering from Suzhou
+University and a Bachelor Degree in Mechanical and Lift Engineering from Shanghai Maritime University.
+
+BRANDON RICHARDSON – CIO/CTO
+Brandon oversees all technical aspects of the company from product integration to supply chain digitization. Prior to
+CityLift, Brandon served as the Alaska Regional IT Manager for ConocoPhillips where he played a key role in
+technologically transforming the region through advanced analytics and modernization initiatives. Prior to
+ConocoPhillips, Brandon served in numerous leadership roles within Chevron developing enterprise strategies, driving
+control system integration and overseeing global ERP deployments. Brandon begin his career 21 years ago, as an officer
+in the US Army implementing innovative solutions in some of the most hazardous environments in the world. He holds an
+MBA from Norwich University and a BA in Political Science from Texas State University, San Marcos.
+
+MIKE BRINCK – VP OF SALES
+Mike has a 25-year proven record in direct sales, channel sales, and executive management and joined CityLift full time in
+June as the Vice President of Sales. Previous to joining CityLift, Mike spent 16 months consulting for Digital Realty Trust
+(DLR) - a world leader in the data center space, and prior to that co-founded a data center infrastructure monitoring
+business focused on UPS and battery backup power systems where he helped build a profitable global business over 6
+years and then successfully sold it to a private equity firm in June of 2012. Prior to Canara, Mike was responsible for
+growing several successful enterprise software/hardware startups such as Data Power Monitoring Corporation, Alternative
+Systems, Vastera (successful IPO in 2000), and Qiva by building direct and channel sales efforts.
+.
+
+
+                             © CITYLIFT PARKING 2018. ALL RIGHTS RESERVED. WWW.CITYLIFTPARKING.COM
+6.      Recent Projects
+
+The attached project profiles and case studies include the following:
+
+Griffin|Swinerton – Recent public facilities delivered using a public-private partnership (P3) structure
+
+CityLift – Case studies of mechanical lift parking projects.
+
+Swinerton Builders – Project history of conventional parking structures.
+
+
+
+
+                                                               19
+County of Los Angeles Quartz Hill Library
+County of Los Angeles, CA
+
+
+
+
+                                         Griffin Structures partnered      outlining parameters for the
+Awards                                   with Swinerton Builders to        location—a one- to two-acre
+• American Public Works Association
+                                         deliver a turn-key library for    site with sole ingress/egress
+    (APWA), Southern California
+    Chapter                              the County of Los Angeles.        rights, zoning and entitlements
+• Construction Management                The Griffin|Swinerton             allowing for public uses, and
+    Association of America, Southern     comprehensive proposal            access to utilities that met its
+    California Chapter Award
+                                         to replace the County’s           public library specifications.
+Cost:                                    existing branch library in the    The team secured a 1.7 acre
+$12MM                                    unincorporated Antelope Valley    site and developed conceptual
+Size:                                    community of Quartz Hill,         designs before submitting its
+12,000 SF                                was structured around a lease     proposal. The team designed
+                                         with an option to purchase the    the LEED Gold facility, secured
+Start / Completion Date
+2015 / 2016                              project during the lease term.    entitlements and all development
+                                         The lease structure gives the     approvals, and financed
+Client:
+                                         County flexibility, while the     the entire project. In 2016,
+County of Los Angeles
+                                         design-finance-build P3 model     Griffin|Swinerton delivered a
+Contact:                                 guarantees an occupancy cost to   move-in ready library, outfitted
+Bradley Bolger, Sr. Manager, Office of
+                                         the County.                       with County-specified furniture,
+CEO
+(213) 974-1360 |                                                           fixtures and equipment.
+bbolger@CEO.lacounty.gov                 The Quartz Hill Library began
+                                         with a County-issued RFP
+
+
+
+
+                                                      12
+El Gablian Branch Library
+Salinas, California
+
+
+
+
+                                  Griffin|Swinerton is serving as the Development Team for the new
+Relevancy                         El Gabilan Branch Library in the City of Salinas. This facility will be
+• P3 Library
+                                  delivered utilizing a Public-Private Partnership (P3) which will provide
+Start Date / Completion Date      for the design, financing, construction, and delivery of the new library.
+2018 / TBD                        The building will be delivered completely finished and furnished as a
+Client                            turnkey project.
+City of Salinas
+                                  Working with the City’s selected Architect, the Griffin|Swinerton Team
+Contact:
+Donald Reynolds                   will provide the services necessary to move the El Gabilan Library project
+Assistant Public Works Director   from a final schematic design to the design of a fully constructed and
+(831) 758-7241                    equipped building with associated parking and site development.
+donaldr@ci.salinas.ca.us
+
+
+
+
+                                                  13
+County of Orange, Administration Building (Bldg. 16)
+Santa Ana, CA
+
+
+
+
+                                         Griffin|Swinerton is heading the development team for the County of
+Cost                                     Orange’s new administrative office building. The LEED Silver project
+$166M (estimated)
+                                         known as Building 16 is the first phase of a multiphase master plan.
+Size:                                    This phase is comprised of a 250,000 SF, six-story office building over
+250,000 SF                               two levels of subterranean parking. The tenants will be Public Works,
+Start / Completion                       Waste Management, Treasurer/Tax Collector, as well as a One Stop
+2017 / est. 2020                         Shop, providing ‘walk up service’ to all departments for the County’s
+                                         constituents. The project is estimated to be complete in 2020.
+Client
+County of Orange
+                                         The project is bordered by a future OC Street Car transit stop to the
+Contact:                                 south, service and pedestrian paseo to the east, a central courtyard to the
+Scott Mayer, Chief Real Estate Officer
+(714) 834-3046 |                         north and a rejuvenated pedestrian-friendly street to the west. Likewise,
+scott.mayer@ocgov.com                    the project’s elevations change with the solar orientation which allows
+                                         filtered sunlight to enter the east and west facades while the southern
+                                         exposure shields the interiors from the harsh southern sunlight.
+
+
+
+
+                                                         14
+Salinas Police Service Headquarters
+Salinas, CA
+
+
+
+
+Cost:
+$49MM
+
+Size:
+74,000 SF
+
+Start | Completion
+2018 | est. 2020
+
+Client:
+City of Salinas
+
+Contact:
+Donald Reynolds
+Assistant Public Works Director
+(831) 758-7241                    Griffin|Swinerton is a member        Planning and development
+donaldr@ci.salinas.ca.us          of the development team that is      includes a comprehensive
+                                  providing services for the design,   community outreach component
+                                  financing, construction and          to engage residents and
+                                  delivery of this new $49 facility.   businesses.
+
+                                  The new 74,000 square foot           “The reference check is what
+                                  building will replace the City’s     really tilted the scale toward
+                                  existing police department           [selecting] the Griffin|Swinerton
+                                  headquarters, built in 1958. The     team.”
+                                  Police Headquarters will address
+                                  the space needs identified in        —City of Salinas Council Staff
+                                  the City’s 2014 needs assessment     Report (April 18, 2017)
+                                  study for the Police Department.
+
+
+                                                15
+West Hollywood City Hall
+West Hollywood, California
+
+
+
+
+                                     Griffin Structures worked with the City of West Hollywood to redevelop
+Relevancy                            an aging commercial building into a new City Hall and state-of-the-art
+• One of the first public P3
+     projects in California          Emergency Operations Center. The turn-key project was delivered move-
+                                     in ready to serve West Hollywood residents and businesses, through a
+Start Date / Completion Date         Public Private Partnership (P3). This project, completed in 1991, was one
+1990 / 1991
+                                     of the very first municipal P3 projects undertaken in the United States.
+Client:
+City ofWest Hollywood                The comprehensive turn-key project converted a dilapidated 1950s
+Contactt                             office building into a striking new City Hall and Emergency Operations
+Joan English                         Center. The building was stripped down to its structural steel frame to
+Retired Director of Transportation   accommodate a complete interior and exterior reconstruction to meet the
+(310) 413-3302
+                                     City’s needs and specifications. This also provided for the installation of
+Steve Campbell                       technologies to support the Emergency Operations Center.
+Manager of Facilities & Field
+Services
+                                     Delivery of the project was structured around a P3 lease-leaseback
+(323) 848-6850
+ scampbell@weho.org                  agreement with an option to purchase. The agreement provided the City
+                                     with guaranteed “up front” annual occupancy costs, while also offering
+                                     flexibility with the option to purchase feature..
+
+
+
+                                                     16
+                               TAKE THE
+                               SPACE
+CUSTOMIZED PARKING SOLUTIONS
+                               OUT OF
+                               PARKING.
+CASE
+STUDIES
+
+          2
+PUZZLE
+
+         3
+BROADWAY/GRAND PUBLIC GARAGE
+OAKLAND, CA
+438 WEST GRAND AVE., OAKLAND, CA
+
+Building Type: Mixed Use
+Solution: 2-Level Puzzle
+Parking Levels: 2
+Number of Spaces: 30
+Developer: Signature Development Group
+Completed Date: 2015
+      IDORA APARTMENTS
+      OAKLAND, CA
+5239 CLAREMONT AVE.,
+OAKLAND, CA
+
+Building Type: Residential
+Solution: Puzzle with Pit
+Parking Levels: 3
+Number of Spaces: 42
+Developer: Temescal Investors, LLC
+Architect: KTGY Architects
+Contractor: Hawk Developments
+Completion Date: October 2016
+THOMAS BERKLEY
+OAKLAND, CA
+                 528 THOMAS BERKLEY,
+                 OAKLAND, CA
+
+                 Building Type: Residential
+                 Solution: Puzzle
+                 Parking Levels: 2
+                 Number of Spaces: 22
+                 Developer: CRC Development
+                 Completion Date: 2017
+MAXWELL APARTMENTS
+OAKLAND, CA
+                 1801 JEFFERSON ST.,
+                 OAKLAND, CA
+
+                 Building Type: Residential
+                 Solution: 3 Level Puzzle with Pit
+                 Parking Levels: 3
+                 Number of Spaces: 75
+                 Architect: BDE Architecture
+                 Developer: Bay West Development
+                 General Contractor: West Builders
+                 Completion Date: 2017
+STONEFIRE APARTMENTS
+BERKELEY, CA
+                       2010 MILVIA ST.,
+                       BERKELEY, CA
+
+                       Building Type: Mixed Use
+                       Solution: Puzzle
+                       Parking Levels: 3
+                       Number of Spaces: 61
+                       Developer: The Austin Group
+                       Completion Date: 2017
+240 PACIFIC
+SAN FRANCISCO, CA
+240 PACIFIC AVE.,
+SAN FRANCISCO, CA
+
+Building Type: Residential
+Solution: Puzzle
+Parking Levels: 3
+Number of Spaces: 37
+Developer: Grosvenor
+Completion Date: 2017
+THE AUSTIN
+SAN FRANCISCO, CA
+1545 PINE,
+SAN FRANCISCO, CA
+
+Building Type: Residential
+Solution: Puzzle
+Parking Levels: 3
+Number of Spaces: 78
+Developer: Pacific Pine LLC
+Architect: BDE Architects
+Contractor: Swinerton Builders
+Completion Date: 2017
+H3 HOTEL
+HEALDSBURG, CA
+                 HEALDSBURG AVE., HEALDSBURG, CA
+
+                 Building Type: Residential
+                 Solution: Puzzle
+                 Parking Levels: 3
+                 Number of Spaces: 43
+                 Developer: Hotel Healdsburg
+                 Completion Date: Q3 2017
+DOGPATCH
+SAN FRANCISCO, CA
+                    800 INDIANA,
+                    SAN FRANCISCO, CA
+
+                    Building Type: Residential
+                    Solution: Puzzle with pit
+                    Parking Levels: 3
+                    Number of Spaces: 50
+                    Developer: Avalon Bay Opera Warehouse
+                    Architect: Pyatok Architects
+                    Contractor: Avalon Bay
+                    Completion Date: Q3 2017
+AVALON BAY PUBLIC MARKET
+EMERYVILLE, CA
+                    6701 SHELLMOUND ST.,
+                    EMERYVILLE, CA
+
+                    Building Type: Residential
+                    Solution: 2 and 3-Level Puzzle
+                    Parking Levels: 1
+                    Number of Spaces: 155
+                    Developer: Avalon Bay
+                    Architect: TCA Architects
+                    Completion Date: 2018
+ELMWOOD
+LOS ANGELES, CA
+                  4807 ELMWOOD,
+                  LOS ANGELES, CA
+
+                  Building Type: Residential
+                  Solution: 2 Level Puzzle with Tandem
+                  Parking Levels: 2
+                  Number of Spaces: 14
+                  Architect: R&A
+                  Developer: Markwood Enterprises
+                  General Contractor: Pacific West Builders
+                  Completion Date: 2018
+DUNSMUIR
+LOS ANGELES, CA
+                  1233 DUNSMUIR,
+                  LOS ANGELES, CA
+
+                  Building Type: Residential
+                  Solution: 2 Level Puzzle with Tandem
+                  Parking Levels: 2
+                  Number of Spaces: 14
+                  Architect: R&A
+                  Developer: Markwood Enterprises
+                  General Contractor: Pacific West Builders
+                  Completion Date: 2018
+39 A STREET
+SOUTH BOSTON, MA
+                   39 A STREET
+                   SOUTH BOSTON, MA
+
+                   Building Type: Residential
+                   Solution: 2 Level Puzzle
+                   Parking Levels: 2
+                   Number of Spaces: 24
+                   Architect: Tim Johnson
+                   Developer: East Way Development
+                   Completion Date: 2018
+100 A STREET
+SOUTH BOSTON, MA
+               100 A STREET
+               SOUTH BOSTON, MA
+
+               Building Type: Residential
+               Solution: 3 Level Puzzle with Pit
+               Parking Levels: 3
+               Number of Spaces: 12
+               Architect: Sutphin Architects
+               Developer: Oranmore
+               General Contractor: Brenco Construction
+               Completion Date: 2018
+93 W BROADWAY
+SOUTH BOSTON, MA
+                   93 W BROADWAY
+                   SOUTH BOSTON, MA
+
+                   Building Type: Residential
+                   Solution: 3 Level Puzzle Tandem with Pit
+                   Parking Levels: 3
+                   Number of Spaces: 80
+                   Architect: Stefanov Architects
+                   Developer: Oranmore
+                   General Contractor: Brenco Construction
+                   Completion Date: 2018
+EXPRESSIVE LIGHTING
+BROOKLYN, NY
+
+                      245 48TH STREET
+                      BROOKLYN, NY
+
+                      Building Type: Residential
+                      Solution: 3 Level Puzzle
+                      Parking Levels: 3
+                      Number of Spaces: 10
+                      Architect: KPW
+                      Developer: Expressive Lighting
+                      Completion Date: 2018
+1542 KENNEDY
+JERSEY CITY, NJ
+                  1542 KENNEDY BLVD
+                  JERSEY CITY, NJ
+
+                  Building Type: Mixed Use
+                  Solution: 3 Level Puzzle with Pit
+                  Parking Levels: 3
+                  Number of Spaces: 48
+                  Architect: RCA Design
+                  Developer: Myneni Towers LLC
+                  General Contractor: Myneni Inc.
+                  Completion Date: 2017
+STONEGATE BUILDINGS
+BAYONNE, NJ
+                 172 AVENUE F
+                 BAYONNE, NJ
+
+                 Building Type: Mixed Use
+                 Solution: 3 Level Puzzle with Pit
+                 Parking Levels: 3
+                 Number of Spaces: 20
+                 Architect: DAL Design Group
+                 Developer: Stonegate Buildings
+                 Completion Date: 2018
+89 BRIGHTON AVE
+ALLSTON, MA
+                  89 BRIGHTON AVE
+                  ALLSTON, MA
+
+                  Building Type: Residential
+                  Solution: 2 Level Puzzle
+                  Parking Levels: 2
+                  Number of Spaces: 26
+                  Architect: PCA
+                  Developer: Eden Properties
+                  General Contractor: Cranshaw Construction
+                  Completion Date: 2018
+BENTO
+NASHVILLE, TN
+                1267 THIRD AVE S.
+                NASHVILLE, TN
+
+                Building Type: Residential
+                Solution: 5 Level Puzzle
+                Parking Levels: 5
+                Number of Spaces: 83
+                Architect: EOA Architects
+                Developer: Bento Box
+                General Contractor: BL Harbert
+                Completion Date: 2018
+MIDDLETON TOWN CENTER
+MIDDLETON, WI
+                7551 HUBBARD AVE
+                MIDDLETON, WI
+
+                Building Type: Residential
+                Solution: 2 Level Puzzle
+                Parking Levels: 2
+                Number of Spaces: 85
+                Architect: Angus-Young Associates
+                Developer: T. Wall Enterprises
+                General Contractor: Miron Construction
+                Completion Date: 2017
+SOUTH FLORIDA SHOWCASE
+MIAMI, FL
+                  7430 NE 4TH CT
+                  MIAMI, FL
+
+                  Building Type: Residential
+                  Solution: 2 Level Puzzle
+                  Parking Levels: 2
+                  Number of Spaces: 9
+                  Architect: Urbanica
+                  Developer: Amicon Development
+                  Completion Date: 2018
+ALTO POTRERO HILL
+SAN FRANCISCO, CA
+                1301 16TH STREET
+                SAN FRANCISCO, CA
+
+                Building Type: Residential
+                Solution: 2 Level Puzzle
+                Parking Levels: 2
+                Number of Spaces: 48
+                Developer: Wood Partners
+                Completion Date: 2018
+BROADWAY VALDEZ
+OAKLAND, CA
+                  2800 Broadway
+                  Oakland, CA
+
+                  Building Type: Mixed – Use
+                  Solution: 2 Level Puzzle
+                  Parking Levels: 2
+                  Number of Spaces: 120
+                  Developer: Alliance Residential
+                  Completion Date: 2018
+1726 RIDGE AVE
+EVANSTON, IL
+                 1726 RIDGE AVE
+                 EVANSTON, IL
+
+                 Building Type: Mixed – Use
+                 Solution: 2 Level Puzzle
+                 Parking Levels: 2
+                 Number of Spaces: 22
+                 Developer: Paveway
+                 Completion Date: 2018
+684 GRAND STREET
+JERSEY CITY, NJ
+                         684 GRAND STREET
+                         JERSEY CITY, NJ
+
+                         Building Type: Residential
+                         Solution: 3 Level Puzzle with Pit
+                         Parking Levels: 3
+                         Number of Spaces: 57
+                         Architect: RA Design & Consultants
+                         Developer: Myneni Towers
+                         Completion Date: 2018
+
+
+
+
+           MYNENI & SONS LLC
+1532 HARRISON STREET
+SAN FRANCISCO, CA
+                 1532 HARRISON STREET
+                 SAN FRANCISCO, CA
+
+                 Building Type: Residential
+                 Solution: 2 Level Puzzle
+                 Parking Levels: 2
+                 Number of Spaces: 66
+                 Architect: BAR Architects
+                 Developer: Build Inc.
+                 General Contractor: Cannon Constructors
+                 Completion Date: 2018
+221 S. HUNTINGTON AVE
+BOSTON, MA
+                    221 S. HUNTINGTON AVE
+                    BOSTON, MA
+
+                    Building Type: Residential
+                    Solution: 2 Level Puzzle
+                    Parking Levels: 2
+                    Number of Spaces: 19
+                    Architect: PCA
+                    Developer: Samuels & Associates
+                    General Contractor: Cranshaw
+                    Completion Date: 2018
+42111 OSGOOD RD
+FREMONT, CA
+                  42111 OSGOOD RD
+                  FREMONT, CA
+
+                  Building Type: Residential
+                  Solution: 2 Level Puzzle
+                  Parking Levels: 2
+                  Number of Spaces: 136
+                  Developer: Silicon Sage Builders
+                  Completion Date: 2018
+TELEGRAPH ARTS
+OAKLAND, CA
+                 471 26TH STREET
+                 OAKLAND, CA
+
+                 Building Type: Residential
+                 Solution: 3 Level Puzzle
+                 Parking Levels: 3
+                 Number of Spaces: 92
+                 Architect: SB Architects
+                 Developer: Square Foot Ventures
+                 General Contractor: Brown Construction
+                 Completion Date: 2018
+3205 PICO BLVD
+SANTA MONICA, CA
+                   3205 PICO BLVD
+                   SANTA MONICA, CA
+
+                   Building Type: Residential
+                   Solution: 3 Level Puzzle
+                   Parking Levels: 3
+                   Number of Spaces: 14
+                   Architect: Belzberg Architects
+                   Developer: Tyler Development Corp.
+                   Completion Date: 2018
+214 DE LA GUERRA
+SANTA BARBARA, CA
+                    214 DE LA GUERRA
+                    SANTA BARBARA, CA
+
+                    Building Type: Residential
+                    Solution: 3 Level Puzzle
+                    Parking Levels: 3
+                    Number of Spaces: 32
+                    Architect: Cearnal Collective Arch
+                    Developer: Kibo Group
+                    Completion Date: 2018
+ALTA 601
+OAKLAND, CA
+              625 16th STREET
+              OAKLAND, CA
+
+              Building Type: Residential
+              Solution: 3 Level Puzzle with Pit
+              Parking Levels: 3
+              Number of Spaces: 68
+              Architect: SB Architects
+              Developer: Wood Partners
+              General Contractor: Brown Construction
+              Completion Date: 2018
+19th & J
+SACRAMENTO, CA
+                 1827 J STREET
+                 SACRAMENTO, CA
+
+                 Building Type: Residential
+                 Solution: 3 Level Puzzle with Pit
+                 Parking Levels: 3
+                 Number of Spaces: 23
+                 Architect: HRGA Architects
+                 Developer: Mohanna Development
+                 General Contractor: Davis Reed Construction
+                 Completion Date: 2018
+214 MARKET STREET
+BOSTON, MA
+                    214 MARKET STREET
+                    BOSTON, MA
+
+                    Building Type: Residential
+                    Solution: 3 Level Puzzle with Pit
+                    Parking Levels: 3
+                    Number of Spaces: 22
+                    Architect: Embarc Studio
+                    Developer: City Realty Group
+                    Completion Date: 2018
+1433 BUSH STREET
+SAN FRANCISCO, CA
+                    1433 BUSH STREET
+                    SAN FRANCISCO, CA
+
+                    Building Type: Residential
+                    Solution: 4 Level Puzzle with Pit
+                    Parking Levels: 4
+                    Number of Spaces: 15
+                    Architect: RG Architecture
+                    Developer: JG Sullivan Construction
+                    Completion Date: 2018
+CHICAGO SHOWCASE
+CHICAGO, IL
+
+               1718 W. JULIAN
+               CHICAGO, IL
+
+               Building Type: Residential
+               Solution: 2 Level Puzzle
+               Parking Levels: 2
+               Number of Spaces: 5
+               Developer: DCR BUILDERS
+               Completion Date: 2018
+TEMESCAL MUSE
+OAKLAND, CA
+                364 40th STREET
+                OAKLAND, CA
+
+                Building Type: Residential
+                Solution: 2 Level Puzzle
+                Parking Levels: 2
+                Number of Spaces: 7
+                Developer: John Malick & Associates
+                General Contractor: Camello Inc.
+                Completion Date: 2018
+SUMMIT PUBLIC SCHOOLS
+REDWOOD CITY, CA
+                  890 BROADWAY
+                  REDWOOD CITY, CA
+
+                  Building Type: Residential
+                  Solution: 2 Level Puzzle
+                  Parking Levels: 2
+                  Number of Spaces: 15
+                  Architect: Studio Bondy Architecture
+                  Developer: Summit Public Schools
+                  General Contractor: GLR Builders
+                  Completion Date: 2018
+511 E 5TH STREET
+SOUTH BOSTON, MA
+                   511 E 5TH STREET
+                   SOUTH BOSTON, MA
+
+                   Building Type: Residential
+                   Solution: 2 Level Puzzle
+                   Parking Levels: 2
+                   Number of Spaces: 15
+                   Developer: Ahern Construction
+                   Completion Date: 2018
+240 LORTON AVE
+BURLINGAME, CA
+                 240 LORTON AVE
+                 BURLINGAME, CA
+
+                 Building Type: Residential
+                 Solution: 3 Level Puzzle with Pit
+                 Parking Levels: 3
+                 Number of Spaces: 14
+                 Architect: MBH Architects
+                 Developer: Dewey Land Co
+                 General Contractor: OPI Builders
+                 Completion Date: 2018
+GIRARD PLAZA
+LA JOLLA, CA
+               7824 GIRARD PLAZA
+               LA JOLLA, CA
+
+               Building Type: Residential
+               Solution: Premium Stacker
+               Parking Levels: 1
+               Number of Spaces: 4
+               Architect: Alcorn & Benton Architects
+               Developer: Arco Mexico
+               General Contractor: GJR Builders
+               Completion Date: 2018
+JUNIPER LOFTS
+OAKLAND, CA
+                950 63RD STREET
+                OAKLAND, CA
+
+                Building Type: Residential
+                Solution: 2 Level Puzzle
+                Parking Levels: 2
+                Number of Spaces: 19
+                Architect: Baran Studio Architecture
+                Developer: Proforma Construction
+                Completion Date: 2018
+1689 ALICE STREET
+OAKLAND, CA
+                1689 ALICE STREET
+                OAKLAND, CA
+
+                Building Type: Residential
+                Solution: 3 Level Puzzle
+                Parking Levels: 3
+                Number of Spaces: 67
+                Architect: Kotas Pantaleoni Architects
+                Developer: Simeon Properties
+                General Contractor: Barry Swenson Builder, James
+                Shydlowski, J Hawk Construction
+                Completion Date: 2018
+459 8TH STREET
+OAKLAND, CA
+                 459 8TH STREET
+                 OAKLAND, CA
+
+                 Building Type: Residential
+                 Solution: 4 Level Puzzle with Pit
+                 Parking Levels: 4
+                 Number of Spaces: 44
+                 Architect: YHLA Architects
+                 Developer: St. Regis Properties
+                 General Contractor: Hawk Development
+                 Completion Date: 2018
+CASE STUDY: AC TRANSIT PARK AND
+RIDE AT ARDENWOOD, FREMONT
+Team: AC Transit, MTC, CityLift, City of Fremont
+Goal: Increase the Ardenwood Park and Ride by 70 spaces for
+      monthly reserved users
+Design: 4-Level Puzzle Lift with exterior skin
+Funding: Initial proposal was MTC would fund installation; AC
+     Transit monthly parking fee set to break even on operating
+     expense. In discussion with tech companies for private buses
+     use park & ride and help fund
+Est. installation cost (union): $21K per space
+Est. monthly operating cost: $36 per space (servicing, utilities,
+      cap reserve for motors)+ $28 prorated share of 24- hour
+      guard/attendent
+Breakeven: $64 per month ($3.20 per business day)
+Training:
+       90 day initial training period
+       1x month ongoing
+       One on-site attendant cross trained to assist
+       Access technology (e.g. fobs, app) options available
+
+
+                                                                    49
+TOWER
+
+        50
+HIVE PARKING STRUCTURE
+OAKLAND, CA
+                  2335 BROADWAY ST.,
+                  OAKLAND, CA
+
+                  Building Type: Mixed Use
+                  Solution: Fully Automated Tower
+                  Parking Levels: 7
+                  Number of Spaces: 39
+                  Developer: Signature Development Group
+                  Architect: Flynn and Associates
+                  Completion Date: 2017
+STAR TOWER
+LONG ISLAND CITY, NY
+             27-17 42nd RD
+             LONG ISLAND CITY, NY
+
+             Building Type: Residential
+             Solution: Aisle
+             Parking Levels: 5
+             Number of Spaces: 32
+             Developer: Wang
+             Completion Date: 2017
+THE MINT PARKING TOWER
+SAN FRANCISCO, CA
+                 418 JESSIE STREET
+                 SAN FRANCISCO, CA
+
+                 Building Type: Residential
+                 Solution: Tower
+                 Parking Levels: 12
+                 Number of Spaces: 24
+                 Developer: Martin Building Company
+                 Completion Date: 2018
+14 WHITE ST
+NEW YORK, NY
+               19 E 16TH NO. 1
+               NEW YORK, NY
+
+               Building Type: Residential
+               Solution: Tower
+               Parking Levels: 9
+               Number of Spaces: 9
+               Developer: NAVA Architecture & DXA Studio
+               Completion Date: 2018
+AISLE
+
+
+        55
+11701 SANTA MONICA BLVD.
+LOS ANGELES, CA
+                  11701 SANTA MONICA BLVD.,
+                  LOS ANGELES, CA
+
+                  Building Type: Residential
+                  Solution: Underground Aisle System
+                  Parking Levels: 3
+                  Number of Spaces: 88
+                  Architect: R&A
+                  Developer: Markwood Enterprises
+                  General Contractor: Pacific West Builders
+                  Completion Date: 2018
+865 ROGERS AVE
+BROOKLYN, NY
+                 865 ROGERS AVE
+                 BROOKLYN, NY
+
+                 Building Type: Residential
+                 Solution: Aisle System
+                 Parking Levels: 2
+                 Number of Spaces: 18
+                 Developer: 865 Rogers Ave Realty
+                 Completion Date: 2018
+    2335 BROADWAY, SUITE 100
+       OAKLAND, CA 94612
+
+    WWW.CITYLIFTPARKING.COM
+        844.388.0424
+
+LOS ANGELES | MIAMI | CHICAGO | BOSTON
+        REPRESENTATIVE EXPERIENCE OF THE
+           GRIFFIN | SWINERTON TEAM
+             PARKING STRUCTURES
+             FOR MEDICAL CENTERS
+
+
+
+
+v12-B                  30                     GRIFFIN
+                                           SWINERTON
+    COMMUNITY MEMORIAL HOSPITAL PARKING STRUCTURE
+    VENTURA, CA
+
+
+
+
+    CLIENT PROJECT MANAGER                        Swinerton provided full design‐build services on the 571‐stall Community
+    Adam Thunell                                  Memorial Hospital Parking Structure.
+    805.652.5005
+                                                  The 5 ½ ‐level, 184,000‐square‐foot Community Memorial Hospital Parking
+    ARCHITECT                                     Structure serves patients and visitors of the new hospital and existing medical
+    IDG Parkitects, Inc.                          office buildings. A cast‐in‐place concrete long span post tension structure,
+                                                  Swinerton’s Orange County‐based Concrete Group self‐performed all the
+    NUMBER OF PARKING STALLS
+                                                  concrete work on the project. The exterior façade of the structure has a
+    571
+                                                  unique combination of architectural treatments, including: pre‐finished metal
+    DATE COMPLETED                                fins, framed perforated metal mesh, framed glass panels, and a metal panel
+    July 2016                                     system on the elevator tower. The parking structure includes roughly 1,400
+                                                  square feet of retail storefront space on the lower level, creating a community
+    DATE AWARDED
+                                                  space in front of the new hospital and the new adjacent park.
+    Nov 2014
+                                                  Swinerton performed full design‐build services on the Community Memorial
+    CONSTRUCTION COST
+                                                  Hospital Parking Structure project, assisting with the entitlement process,
+    $9,982,065
+                                                  design, and permitting. The parking structure will be submitted as part of the
+    SUBCONSULTANTS                                new hospital tower project under the LEED Certified level. It features many
+    Construction Manager: Stahl Companies         sustainable elements, including: electric vehicle charging stations, excess
+        • Provided project management services;   bike storage, and infrastructure for possible future photovoltaic rooftop
+          established in 2000                     panels. The project has an aggressive schedule, with completion needed
+                                                  before the opening of the new hospital.
+    PROJECT HIGHLIGHTS
+      • Design‐Build
+      • Self‐Perform Concrete
+      • Medical Campus
+      • Retail Space
+      • Sustainable, Green Features
+
+
+v12-B                                                            31                                               GRIFFIN
+                                                                                                               SWINERTON
+    CHILDREN’S HOSPITAL OF ORANGE COUNTY
+    PARKING STRUCTURE & BRIDGE
+    ORANGE, CA
+
+
+
+
+    CLIENT PROJECT MANAGER                    This new CHOC parking structure is connected to the main Children’s
+    John Torres                               Hospital of Orange County by a 500‐foot‐long elevated pedestrian bridge
+    714.532.8553                              crossing a major six‐lane street.
+
+    ARCHITECT                                 Swinerton provided design‐build services for this parking structure that
+    IDG Parkitects, Inc.                      provides 1,662 parking stalls on 9 above grade levels, for the employees of
+                                              Children’s Hospital Orange County. The parking project also includes direct
+    NUMBER OF STALLS
+                                              and secure access to the hospital campus via pedestrian bridge over LaVeta
+    1,662
+                                              Avenue.
+    DATE COMPLETED
+    Aug 2006
+                                              The parking project was developed using the Design‐Build delivery method
+                                              for the client and was completed on time and under budget. The project
+    DATE AWARDED                              is a three‐bay, cast‐in‐place long‐span structure. It is designed to weave
+    2005                                      into the architecture of the medical campus and to reinforce human scale.
+                                              Specific details to enhance security and circulation add to client satisfaction.
+    CONSTRUCTION COST
+                                              The 522,000 square foot parking structure includes a security and service
+    $22,156,000
+                                              office. The structure has integral colored brick spandrels with burnished brick
+    SUBCONSULTANTS                            accents.
+    Architect: IDG Parking Consultants
+        • Founded in 1985; provided parking
+          structure planning, design and
+          architectural services
+
+    PROJECT HIGHLIGHTS
+      • Design‐build
+      • Medical Campus
+
+
+v12-B                                                        32                                                GRIFFIN
+                                                                                                            SWINERTON
+        ST. JUDE MEDICAL CENTER MOB PARKING
+        STRUCTURE
+        FULLERTON, CALIFORNIA
+
+
+
+
+    CLIENT PROJECT MANAGER                  This parking structure is five stories with half of a level below‐grade and a
+    Jim Bostic                              capacity for 389 vehicles.
+    714.347.7667
+                                            Phase II of Swinerton’s work on St. Jude’s Medical Office Building included
+    ARCHITECT                               the demolition of an existing one‐story building and the construction of a new
+    IDG Parkitects, Inc.                    five‐level parking structure and two linear accelerator treatment rooms.
+
+    NUMBER OF PARKING STALLS                The parking structure, which includes one traction elevator, is constructed of
+    389                                     one half levels below grade, one level on grade and four elevated decks.
+    DATE COMPLETED
+                                            Totalling at five stories, the parking structure contains 389 stalls to ensure ease
+    2004
+                                            of parking access for patients and employees.
+
+    DATE AWARDED
+    2002
+
+    CONSTRUCTION COST
+      15 million
+    $ 200
+
+    SUBCONSULTANTS
+    Contech Engineered Solutions
+        • Structure, stormwater solutions
+          management
+
+    PROJECT HIGHLIGHTS
+        • Parking Structure
+        • Self‐perform Concrete
+
+
+
+v12-B                                                      33                                                 GRIFFIN
+                                                                                                           SWINERTON
+        KAISER SAN RAFAEL PARKING STRUCTURE
+        SAN RAFAEL, CALIFORNIA
+
+
+
+
+        PROJECT NAME
+
+        Kaiser Permanente – San Rafael
+        Parking Structure Expansion
+                                         The design and construction of a four level horizontal expansion to an existing
+        CLIENT                           free standing parking garage. A seismic retrofit and code compliance retrofit
+                                         were also done to the existing garage.
+        Kaiser Foundation Hospitals
+
+        DESIGN -BUILDER
+
+        Swinerton Builders - Precon
+
+        SQUARE FOOTAGE
+
+        236,115 sq. ft. total
+
+        132,692 sq. ft. new
+
+        NUMBER OF CARS
+
+        716 car structure
+        421 new spaces
+
+        DATE COMPLETED
+
+        September 2012
+
+        CONSTRUCTION COST
+
+        $10,334,828
+
+
+
+
+v12-B                                                    34                                                     GRIFFIN
+                                                                                                             SWINERTON
+    SUTTER HEALTH ROSEVILLE PARKING STRUCTURE
+    ROSEVILLE, CALIFORNIA
+
+
+
+
+    CLIENT PROJECT MANAGER     This three level parking structure houses 540 parking stalls.
+    David Long
+    916.781.1203               Included in the project was the relocation of the existing hospital helipad to a
+                               new helipad on the parking structure and an oversized elevator capable of
+    ARCHITECT                  gurney travel that extends to the helipad level.
+    Stantec Consulting
+                               Completed as a design‐build project, the structure utilizes a hybrid combination
+    NUMBER OF PARKING STALLS   of precast and cast‐in‐place concrete elements that provides an open feeling to
+    540                        the structure and is also economical.
+    DATE COMPLETED
+    April 2005
+
+    DATE AWARDED
+    Aug 2004
+
+    CONSTRUCTION COST
+    $10.6 million
+
+
+
+
+v12-B                                         35                                                  GRIFFIN
+                                                                                               SWINERTON
+        VA PUGET SOUND HEALTHCARE SYSTEM PHASE 1
+        PARKING STRUCTURE AND MAIN ENTRY DRIVE
+        SEATTLE, WA
+
+
+
+
+    CLIENT PROJECT MANAGER                           The Seattle station was constructed between 1941 and 1951 to accommodate
+    Department of Veteran Affairs                    many of the returning war Veterans from World War II. Today the VA Puget
+                                                     Sound Health Care System serves the health care needs of more than 80,000
+    ARCHITECT
+                                                     Veterans living in the Pacific Northwest. In order to continue to provide
+    Stantec | Design Partnership
+                                                     extraordinary care for our Nation’s heroes, the campus is undergoing an
+    NUMBER OF PARKING STALLS                         unprecedented phase of remodeling and expansion. Many of these changes
+    1,300                                            are long overdue, including the Parking Structure and Main Entry Drive project.
+
+    DATE COMPLETED                                   The project is a design‐bid‐build, four‐story, 1,300‐stall, cast‐in‐place parking
+    March 2016                                       structure with 343,000 square feet above ground and 66,000 square feet
+                                                     underground, plus the main entry drive. Work also includes relocation of
+    DATE AWARDED
+                                                     major underground utility systems, extensive civil grading and retaining wall
+    2015
+                                                     work, and construction of an emergency power duct bank.
+    CONSTRUCTION COST
+                                                     Swinerton formed a joint venture with Absher Construction for this project.
+    $44,374,390
+                                                     The JV self‐performed the concrete scope of work which enabled the team to
+    SUBCONSULTANTS                                   control and manage the project more tightly and ultimately deliver the parking
+    Joint Venture: Absher Construction               structure and main entry drive three months ahead of schedule.
+        • 77 years in the industry; provided self‐
+          perform work including concrete
+
+    PROJECT HIGHLIGHTS
+        • Active Campus
+        • Tight Urban Environment
+        • Self‐Perform Concrete
+        • Phased Construction
+
+
+v12-B                                                               36                                                GRIFFIN
+                                                                                                                   SWINERTON
+v12-B   37      GRIFFIN
+             SWINERTON
+        PVHS PARKING STRUCTURE & PEDESTRIAN
+        WALKWAY
+        FORT COLLINS. CO
+
+
+
+
+    CLIENT PROJECT MANAGER                      Swinerton constructed a new parking structure and three pedestrian walkways
+    Brian Hood                                  for repeat client PVHS.
+
+    ARCHITECT                                   This project consisted of a four‐story, 711 vehicle parking structure and three
+    Davis Partnership                           bridge sections linking the parking structure to a newly construction medical
+                                                office building (also built by Swinerton) and the existing Poudre Valley Hospital.
+    NUMBER OF PARKING STALLS
+    540                                         Building construction consisted of brick façade precast concrete structure on
+                                                drilled concrete piers with double tee deck supports, structural steel bridges with
+    DATE COMPLETED
+    2009
+                                                decorative/architectural grilles and panels, state‐of‐the‐art securing and
+                                                monitoring systems, elevators, and flat TPO roofing.
+    DATE AWARDED
+    2008                                        Site improvements included demolition of surface parking, hard and soft
+                                                landscaping, and transplantation and protection of the majority of existing
+    CONSTRUCTION COST                           site trees.
+    $11.2 million
+
+    SUBCONSULTANTS
+    Stresscon, Gerrard, Pierson’s Concrete,
+    Boulder Steel, Douglass‐Colony Group, Air
+    Comfort, Interstates, Trinity Mechanical
+
+    PROJECT HIGHLIGHTS
+         • Repeat Client
+         • Pedestrian Bridge
+         • Parking Structure
+
+
+
+v12-B                                                          38                                                 GRIFFIN
+                                                                                                               SWINERTON
+        REPRESENTATIVE EXPERIENCE OF THE
+           GRIFFIN | SWINERTON TEAM
+           OTHER PARKING STRUCTURES
+
+
+
+
+v12-B                  39                     GRIFFIN
+                                           SWINERTON
+        8TH & GRAND PARKING STRUCTURE
+        LOS ANGELES, CA
+
+
+
+
+    CLIENT PROJECT MANAGER                     Concrete post‐tension parking structure. The new 100,000‐square‐foot
+    Mike Alarcon                               parking structure stands four stories high with five levels; Levels 2–5 have
+    213.784.3007                               174 total parking stalls and Level 1/ground floor has 19,000 square feet of
+                                               shell retail space.
+    ARCHITECT
+    IDG Parkitects, Inc.                       Set on a complex site, the project sits adjacent to property lines on all sides.
+                                               Busy streets border two sides, an existing building is on one side, while
+    NUMBER OF STALLS
+                                               another active construction site is on the other side. As a result, it took close
+    174
+                                               coordination with all parties to ensure no disruption to others.
+    DATE COMPLETED
+                                               The parking structure has EV stations on every level. Primarily open, it
+    2016
+                                               features decorative screening that provides plenty of natural light. For
+    DATE AWARDED                               sustainability, the structure has a lighting control system equipped with
+    2015                                       daylight sensors. As it gets darker outside, the lighting sensors will gradually
+                                               increase lighting throughout the evening. There is also motion sensors that
+    CONSTRUCTION COST
+                                               recognize vehicles as they pull in, lighting the pathway only when necessary.
+    $8,200,000
+
+    SUBCONSULTANTS
+    Architect: IDG Parking Consultants
+         • Founded in 1985; provided parking
+           structure planning, design and
+         architectural services
+    PROJECT HIGHLIGHTS
+      • Tight Urban Site
+      • Ground‐Level Retail Space
+      • Self‐Performed Concrete
+      • 4,500 CYs of Concrete
+
+
+v12-B                                                         40                                                 GRIFFIN
+                                                                                                              SWINERTON
+        SAN DIEGO INTERNATIONAL AIRPORT TERMINAL 2
+        PARKING PLAZA
+        SAN DIEGO, CA
+
+
+
+
+    CLIENT PROJECT MANAGER                          The new Terminal 2 Parking Plaza will serve as one of the gateways to the
+    Brian Lahr / Ajay Babla                         airport becoming the front door from Harbor Drive, and provide a high‐end
+    619.400.2400                                    user experience for a lot of travelers. The project is customized to reflect
+                                                    the widely appreciated San Diegan culture, and helps to create a unique
+    ARCHITECT
+                                                    travel experience for visitors. A Collaborative Design‐Build process is under
+    Watry Design and Gensler
+                                                    way with the full Design‐Build Team including, Watry Design, Gensler,
+    NUMBER OF STALLS                                and Spurlock, co‐located at the airport with the Airport Authority under
+    2,909                                           the leadership of Swinerton’s Design‐Build Parking Structure Experts. The
+                                                    team participates in regular bi‐weekly meetings, and maintains the Design
+    DATE COMPLETED                                  Decision Logs for transparency, accuracy, and communication with the
+    In progress                                     Owner.
+
+    DATE AWARDED                                    The project site is over 9 acres in size, and the Parking Plaza will be over
+    Sep 2015                                        920,000 sf in total parking structure area, containing over 2,909 parking
+                                                    spaces across three levels. The Parking Plaza project includes off‐site
+    CONSTRUCTION COST
+                                                    improvements consisting of parking lot re‐configurations, utility relocations
+    $98 Million
+                                                    connection into the existing campus, and a Parking Guidance System that
+    SUBCONSULTANTS                                  will direct incoming patrons to an open space and help them find their car
+    Architect: Gensler                              upon return. The project has gone through extensive environmental review
+         • Provided parking and structural design   through the California Coastal Commission and the Design‐Build team is
+           services; founded in 1965                mitigating the environmental concerns through the design. To validate the
+    Design and Structural: Watry Design             extensive programming document, the team met with each stakeholder
+         • Provided parking and structural design   on a regular basis over the course of three months. By examining multiple
+           services; founded in 1975                foundation solutions, the Design Build team was able to save over $2 million
+                                                    in construction costs.
+
+
+
+
+v12-B                                                              41                                               GRIFFIN
+                                                                                                                 SWINERTON
+        UCSD OSLER PARKING STRUCTURE & VISITOR’S CENTER
+        LA JOLLA, CA
+
+
+
+
+    CLIENT PROJECT MANAGER                          UCSD envisioned a new gateway at the entrance to the campus, featuring
+    Mark Rowland                                    a parking structure and a reimagined visitor’s center. However, they were
+    858.822.0725                                    looking for a design that went far beyond the number of stalls, structural
+                                                    efficiency and gross square footage associated with a parking structure to
+    ARCHITECT
+                                                    enrich the campus experience. The Swinerton/Watry Design/Gensler team’s
+    Watry Design Inc. & Gensler
+                                                    design build solution was selected to deliver the University’s vision.
+    NUMBER OF PARKING STALLS
+                                                    The design not only enhances the route to the School of Medicine, but also
+    1,303
+                                                    provides a platform to enhance connectivity to the surrounding community,
+    DATE COMPLETED                                  buildings and campus. Lobby “portals” announce visitor’s arrival into
+    In Progress                                     the structure and the campus through glass‐backed elevator towers and
+                                                    projecting canopies while a new pedestrian plaza provides a welcoming
+    DATE AWARDED
+                                                    porch. A reimagined Visitor Center provides an all‐inclusive transportation
+    May 2016
+                                                    hub and information center.
+    CONSTRUCTION COST
+                                                    The architectural design establishes connections to the campus and enhance
+    $32,165,000
+                                                    the visitors experience. The Western and Southern facades dissolve the bulk
+    SUBCONSULTANTS                                  of the building into the Eucalyptus grove along Gilman Drive through the use
+    Design and Structural: Watry Design             of a multilayered facade system that captures and transforms the shadows
+         • Provided parking and structural design   of the adjacent trees onto a modulated, curving concrete mass. Over that,
+           services; founded in 1975                a panel system comprised of angled, perforated metal planks provides an
+                                                    additional level of abstraction, physically screening the structure and casting
+    PROJECT HIGHLIGHTS
+                                                    varied shadows onto the concrete. The Northern and Eastern faces of the
+      • Parking Structure
+                                                    building present a refined and more formal and orderly character to respond
+      • Self‐performed Concrete
+                                                    to the discrete characteristics of the School of Medicine. Generous light wells
+      • Tight Site on Occupied Campus
+      • Goals of the project include Parksmart      at the perimeter and center of the structure emulate the canyon landscape
+        Silver equivalent sustainable best prac‐    south of the site and bring light and air into the center of the building.
+        tices.
+
+
+v12-B                                                             42                                                GRIFFIN
+                                                                                                                 SWINERTON
+        THE CITY OF SACRAMENTO MEMORIAL PARKING
+        GARAGE
+        SACRAMENTO, CA
+
+
+
+
+    CLIENT PROJECT MANAGER                          This 10‐story, 1,085‐stall parking garage includes 20,000 square feet of
+    Kirk Thompson                                   restaurant and office/retail space on the ground floor.
+    916.264.8431
+                                                    The design includes long‐span post‐tension, a cast‐in‐place structure with
+    ARCHITECT
+                                                    architectural precast panels and brick veneer.
+    Gordon H. Chang & Partners, Inc
+
+    NUMBER OF PARKING STALLS                        The stair towers at each end of the building are accentuated with buttressed
+    1,085                                           forms. A rotunda at the corner indicates the pedestrian access and acts as a
+                                                    transition from the large, vertical scale of the parking garage to the residential
+    DATE COMPLETED
+                                                    scale of the adjacent neighborhood and its nearby performing arts center.
+    2013
+
+    DATE AWARDED
+    2011
+
+    CONSTRUCTION COST
+    $21 million
+
+    SUBCONSULTANTS
+    Architect: Harbison‐Mahony‐Higgins Builders,
+    Inc., a wholly‐owned subsidiary of Swinerton.
+         •   Provided parking structure planning,
+             design and architectural services
+
+    PROJECT HIGHLIGHTS
+         •   Parking Structure
+         •   Pre‐cast Panels and Brick Veneer
+
+
+v12-B                                                              43                                                GRIFFIN
+                                                                                                                  SWINERTON
+        JOHN WAYNE AIRPORT TERMINAL C PARKING
+        STRUCTURE
+        SANTA ANA, CALIFORNIA
+
+        CLIENT PROJECT MANAGER
+        Larry Serafini
+        949.252.5171
+
+        ARCHITECT
+        Walker Parking Consultants
+
+        NUMBER OF PARKING STALLS
+        2,018
+
+        DATE COMPLETED
+        Dec 2010
+
+        DATE AWARDED
+        2008
+
+        CONSTRUCTION COST
+        $36.5 million
+
+        SUBCONSULTANTS
+        Design Architect: ROSSETTI
+
+           • Delivered architectural design expertise;   New parking structure to accomodate 2,000 cars with four passenger
+               48 years of experience                    elevators. This parking structure will be the parking structure to accomodate
+        Structural Engineer: Integrated Design           the additional traffic from the new terminal.
+        Services (IDS)
+                                                         It is completely clad in Precast Concrete panels. This new struc‐ture will be one
+           • Over 50 years of experience;                of the first parking structures built in California utilizing a Buckling Restrained
+               provided design of terminal structure,    Brace (BRB) structural system.
+               mechanical and electrical systems,
+               seismic upgrades, renovation, and value   The new Parking Structure C is a post‐tensioned concrete structure housing
+               engineering services                      2,018 parking spaces and is located at the south end of the John Wayne
+                                                         Airport in the heart of Orange County, California. The 725,000‐square‐
+        MEP Engineer: Syska Hennessy Group
+                                                         foot structure is clad in precast concrete panels, matching the other parking
+           • Founded in 1928; Syska provided full‐       structures at the airport and uses a diagonal parking, double helix circulation
+               service MEP services.                     layout. A bridge forms the pedestrian link between the parking structure and
+        Landscape Architect: Lynn Capouya                Terminal C. Four passenger elevators in CMU elevator shafts adjacent to
+        Landscape Architects                             the terminal link and accommodate vertical pedestrian circulation. The main
+                                                         vehicular entrance to the parking structure connects to an elevated roadway
+           • Provided landscape architecture
+                                                         via a concrete bridge; a second entrance ties into a lower road. Express
+               expertise; 38 years in the industry
+                                                         ramping is utilized for internal vehicular vertical circulation.
+        PROJECT HIGHLIGHTS
+           • Tight site on an occupied campus
+           • Completed in virtual design &
+           • construction software
+           • Self performed concrete
+           • 4 elevator shafts
+           • Pedestrian bridge
+
+v12-B                                                                  44                                                 GRIFFIN
+                                                                                                                       SWINERTON
+        JPL WEST ARROYO PARKING STRUCTURE
+        PASADENA, CA
+
+
+
+
+    CLIENT PROJECT MANAGER
+    Randy Wager
+    818.354.7259
+
+    ARCHITECT
+    IDG Parkitects
+
+    NUMBER OF STALLS
+    1,436
+
+    DATE COMPLETED
+    2014
+                                                   The project consists of a 5‐story, cast‐in‐place and post‐tensioned concrete
+    DATE AWARDED                                   parking structure, both on and above grade. The 1,436‐stall structure
+    2012                                           provided JPL with a net 1,211 new parking stalls. The Class A structure
+                                                   has a Level of Service (LOS) A due to convenient vehicular access and exit
+    CONSTRUCTION COST
+                                                   design, parking geometrics that include wide drive aisles and all standard
+    $18,911,000
+                                                   stalls, increased floor to floor heights for accessibility access throughout,
+    SUBCONSULTANTS                                 ramps that slope to a maximum of 5%, way finding provided with signage
+    Structural Engineer: Jessen‐Wright             for pedestrian travel and vehicular flow, pedestrian stair and elevator nodes
+         • Founded in 1996; provided structural    located at the appropriate locations for user convenience and reduced travel
+           design expertise                        distance, natural light on all sides as well as accessible stalls provided at the
+    Civil Engineer: Land Design Consultants        ground level and directly adjacent to elevator nodes on other levels.
+         • Over 100 years of experience;
+                                                   Scope also included significant ancillary roadway work, including widening
+           provided land planning, civil
+                                                   of approximately 1,000 feet of private road. Improvements to surrounding
+           engineering, and surveying expertise
+                                                   hardscape were made as well as the demolition of existing buildings and the
+    Traffic Consultants: LSA Associates
+                                                   City of Pasadena‐owned East Arroyo parking lot.
+         • 46 years of experience; provided
+           land use, transportation and mobility   To reduce the energy consumption of the structure, the design incorporated
+           consulting                              time clock and photocell overrides for the lighting systems to reduce energy
+    PROJECT HIGHLIGHTS
+                                                   consumption by using natural light. The design also provided for future
+      • New Construction                           Photovoltaic roof system pre‐designed for net zero operation costs.
+      • Design‐Build
+      • Self‐Perform Concrete
+
+
+
+
+v12-B                                                             45                                                 GRIFFIN
+                                                                                                                  SWINERTON
+        OLD TOWN NEWHALL PARKING STRUCTURE
+        SANTA CLARITA, CA
+
+
+
+
+    CLIENT PROJECT MANAGER                          The parking structure is part of a larger development consisting of both a
+    Hoon Hahn                                       mixed‐use residential project and a new theatre as a part of the district’s
+    661.259.2489
+                                                    revitalization plan.
+    ARCHITECT
+                                                    Swinertons is self‐performing all of the structural concrete on the new seven‐
+    Watry Design, Inc.
+                                                    level parking structure, with one level below‐grade and six levels above‐grade.
+    NUMBER OF PARKING STALLS                        Totaling roughly 152,000 square feet, the structure will hold
+    376
+                                                    376 vehicles. It will feature extensive architecture on the exterior, which will
+    DATE COMPLETED                                  consist of precast stone bases, storefront mullions, fabric and metal awnings,
+    In progress                                     steel‐stud framed elements with integral‐colored plaster, architectural foam
+
+    DATE AWARDED                                    cornices, and decorative fin elements. This will allow it to seamlessly blend
+    July 2016                                       into the Old Town Newhall neighborhood and the adjacent mixed‐use
+                                                    developments, creating an upscale impression on residents and guests. The
+    SQUARE FOOTAGE
+                                                    structure will also feature a gated entry for resident’s convenience and safety.
+    152,000
+                                                    Additionally, the structure is being designed with energy efficiency standards
+    CONSTRUCTION COST                               in mind that will equate to a LEED Silver Certification level.
+    $14,184,856
+
+    SUBCONSULTANTS
+    Design and Structural: Watry Design
+         • Provided parking and structural design
+           services; founded in 1975
+
+    PROJECT HIGHLIGHTS
+         • Design‐Build
+         • Public Property
+         • Historic Neighborhood
+
+
+v12-B                                                              46                                                   GRIFFIN
+                                                                                                                     SWINERTON
+        VIEJAS HOTEL AND PARKING STRUCTURE
+        ALPINE, CALIFORNIA
+
+
+
+
+    CLIENT                                      Swinerton provided design‐build construction services for this 150‐key, five‐
+    Viejas Enterprises                          story, three‐star finish hotel casino, and associated parking structure.
+
+    ARCHITECT                                   This project construction included the hotel, lobby area, swimming pool and
+    Hotel ‐ JCJ Architecture                    spa amenities, an expansion into the buffet seating area to coordinate with
+    Parking ‐ Stricker Cato Murphy Architects   a new casino entry/porte cochere, site utility relocations, 4‐story parking
+                                                structure, 2‐pedestrian bridges, and 2 elevator towers.
+    SQUARE FOOTAGE
+    Hotel ‐ 96,436                              The parking structure accommodates 850 cars with two pedestrian bridges
+    Parking Structure ‐ 264,000                 connecting to the hotel and casino. The bridges consist of a full conditioned
+                                                steel truss structure 13’ wide with carpeting and stone flooring. The two
+    CONSTRUCTION COST
+                                                elevator towers housing three elevators consisted of a mix of stucco and
+    $56,600,000
+                                                stone veneer skin where the elevators fronts are stainless steel.
+    DATE COMPLETED
+    2013                                        Specific challenges included a fast‐tracked schedule and budget constraints,
+                                                as well as work being completed in an operating casino.
+    PROJECT HIGHLIGHTS
+      • Design‐Build
+      • Self‐Perform Concrete
+      • Utility Relocations
+      • Parking Structure
+      • Pedestrian Bridges
+
+    REFERENCE
+    Jim Wild
+    Viejas Enterprises
+    619.312.5810
+    jwild@viejas.com
+
+
+v12-B                                                          47                                               GRIFFIN
+                                                                                                             SWINERTON
+    CACHE CREEK CASINO RESORT, NORTH PARKING
+    BROOKS, CALIFORNIA
+
+
+
+
+    CLIENT                          This four‐story, 2,000‐car parking garage uses a structural system of precast
+    Rumsey Band of Wintun Indians   moment frame columns with poured‐in‐place, post‐tensioned slabs and
+                                    beams.
+    ARCHITECT
+    HNA/Pacific                     The height for each level is designed to accommodate handicapped vans.
+                                    Separate levels for valet parking and gated parking sections accommodate
+    SQUARE FOOTAGE
+                                    the casino’s special clients.
+    647,335
+                                    Designed to complement the adjoining casino, the parking structure features
+    CONSTRUCTION COST
+                                    pedestrian bridges at each level which connect to the casino’s elevator
+    $37,000,000
+                                    tower. Patrons are then delivered directly onto the casino floor, providing
+    DATE COMPLETED                  them a positive entry experience.
+    2010
+
+    PROJECT HIGHLIGHTS
+      • Design‐Build
+      • Parking Structure
+
+
+
+
+v12-B                                              48                                                GRIFFIN
+                                                                                                  SWINERTON
+  IRVINE METROLINK TRANSPORTATION
+  PARKING STRUCTURE
+  IRVINE, CALIFORNIA
+
+
+
+
+    CLIENT PROJECT MANAGER                    The Irvine Transportation Center Parking Structure, located in the Spectrum area
+    Manuel Gomez, PE, Public Works Director   of Irvine, is a three‐story structure providing 1,500 parking spaces on four levels
+    (949) 724‐7509
+                                              encompassing 490,000 square feet. The $26.8 million project was funded by the
+                                              OCTA, Caltrans, and the Federal Transit Administration.
+
+    SQUARE FOOTAGE                            It is currently served by Amtrak and Metrolink passenger rail services, as well as
+    490,000                                   being a hub for express, local and rail‐feeder bus services operated by the Orange
+    STALLS                                    County Transportation Authority (OCTA). The parking facility brought much needed
+    1,500                                     relief to South Orange County, where 675,000 passengers come and go each year ‐
+                                              making it the busiest of any station in the county.
+    CONSTRUCTION COST
+    $26,800,000                               Griffin Structures served as Construction Manager for this project which was
+                                              designed, built within budget, and completed five weeks ahead of schedule. The
+                                              project received an award from the American Public Works Association as well as a
+                                              CalTrans Excellence in Transportation award.
+
+
+
+
+v12-B                                                           49                                                GRIFFIN
+                                                                                                               SWINERTON
+  ORANGE METROLINK TRANSPORTATION
+  CENTER & PARKING STRUCTURE
+  ORANGE, CALIFORNIA
+
+
+
+
+    CLIENT PROJECT MANAGER            Griffin Structures has been selected as Project Manager to provide preconstruction
+    Ms. Lora Cross, Project Manager   and construction management services for the new Orange Transportation Center
+    (714) 560‐5788
+                                      and Parking Structure. The project consists of two, multi‐level parking structures
+    STALLS                            of approximately 900 combined spaces and Transit Oriented Development in the
+    375                               heart of the City’s historic Old Town. The facility is anticipated to include mixed‐use
+                                      development consisting of both retail and residential uses. The structure arises from
+                                      the 2005 OCTA authorization of Metrolink system expansion, including commuter
+                                      rail service at the Orange Transportation Center (OTC). Current capacity is 375 stalls
+                                      and the projected requirement is 900 stalls. This future demand requires an upgrade
+                                      to a multi‐level parking structure, including significant below‐grade construction.
+
+
+
+
+v12-B                                                   50                                                   GRIFFIN
+                                                                                                          SWINERTON
+  CITY OF TUSTIN / OCTA TUSTIN METROLINK
+  PARKING STRUCTURE
+  TUSTIN, CALIFORNIA
+
+
+
+
+    CLIENT PROJECT MANAGER                  Griffin Structures, Inc. provided construction management for the 247,600‐square‐
+    Mr. Doug Stack, Public Works Director   foot, 825 stall, five‐level Metrolink Parking Structure that features a unique,
+    (714) 573‐3150
+                                            segregated drive aisle, which expedites entering and exiting the site, as well as
+    SQUARE FEET                             a distinct “kiss & ride” area; ample bus dock section; and designated pedestrian
+    247,600                                 paths. The on‐grade parking on the backside of the structure provides valuable
+                                            parking stalls while at the same time preventing the necessity and cost of relocating
+    STALLS
+    825                                     utilities. Additionally, on‐grade parking is located next to the track, which doubles
+                                            as a fire lane. To provide way finding for transit riders accessing the station from
+                                            Jamboree Road, the site includes a second tower, which also provides a grounding
+                                            sense of symmetry.
+
+                                            Embracing sustainability, the design incorporates LED lighting, drought resistant
+                                            landscaping and a solar option that provides enough energy to power the
+                                            structure’s lighting and elevators. Each of these measures also substantially reduces
+                                            maintenance costs. The design team also evaluated cost offsetting measures, such
+                                            as outdoor advertising space, leasing coffee and snack kiosks and providing a
+                                            location for a cell phone tower.
+
+                                            This project is also the recipient of the 2011 American Concrete Institute Award.
+
+
+
+
+v12-B                                                         51                                                  GRIFFIN
+                                                                                                               SWINERTON
+  BREA SUPERBLOCK 1 PARKING STRUCTURE
+  IRVINE, CALIFORNIA
+
+
+
+
+    CLIENT PROJECT MANAGER         Currently under construction at the corner of Birch Street and South Orange
+    Steve Kooyman, City Engineer   Avenue, the new, cast‐in‐place concrete, post‐tension structure will feature
+    (714) 990‐7657
+                                   476 stalls on three and a half levels. The east façade of the parking structure is
+    STALLS                         designed to create a reduced presence towards the senior housing along South
+    476                            Orange Avenue. The ground level will house various support areas such as bicycle
+                                   parking, trash compactor, wash area, storage room, an office, electrical room,
+    CONSTRUCTION COST
+    $8,900,000                     and future photovoltaic room. Additional components of the project include LED
+                                   lighting, elevators, signage, landscaping, 15 electrical vehicle parking stalls on the
+                                   fourth level, and a speed ramp. The $8.9 million structure is scheduled to open in
+                                   January 2018 to serve Brea’s downtown entertainment district. Griffin Structures
+                                   is providing construction management services for this new design‐build parking
+                                   structure.
+
+
+
+
+v12-B                                                52                                                   GRIFFIN
+                                                                                                       SWINERTON
+  FULLERTON TRANSPORTATION CENTER
+  PARKING STRUCTURE
+  FULLERTON, CALIFORNIA
+
+
+
+
+    CLIENT PROJECT MANAGER                          Griffin Structures served as the Construction Manager for the expansion of the
+    Mr. Donald Hoppe, PE, Director of Engineering   Fullerton Transportation Center Parking Facility project. The multi‐level, 813‐stall
+    (714) 738‐6864
+                                                    facility adds much needed capacity to the heavily used Metrolink/Amtrak station.
+    STALLS                                          The project, located at the southwest corner of Harbor Boulevard and Santa Fe
+    813                                             Avenue addresses the a parking shortage and provides additional spaces to serve
+                                                    the growing parking demand at Fullerton Station.
+
+                                                    The project also includes a video surveillance system; ticket kiosks; car‐counting
+                                                    systems; bio‐filtration and photo voltaic systems; installation of a new traffic signal
+                                                    at the intersection of Harbor Boulevard and Santa Fe Avenue and pedestrian
+                                                    crosswalk on Harbor Boulevard; undergrounding of existing overhead utilities
+                                                    along the project’s frontage on Santa Fe; and on‐ and off‐site grading, landscaping,
+                                                    signage, lighting, and street improvements. The project was honored with an award
+                                                    from the Southern California Chapter of the American Public Works Association.
+
+
+
+
+v12-B                                                                 53                                                   GRIFFIN
+                                                                                                                        SWINERTON
+  WESTMINSTER POLICE DEPARTMENT PARKING
+  STRUCTURE
+  WESTMINSTER, CALIFORNIA
+
+
+
+
+    CLIENT PROJECT MANAGER           Griffin Structures served as Program and Construction Manager for the Westminster
+    Chief Kevin Baker, Westminster   Police Department Parking Structure project. The new 590 stall Parking Structure
+    Police Department
+                                     facility provides parking to the Westminster Police Department and the City for
+    (714) 548‐3200
+                                     community parking. Additionally, this parking structure serves as support for a
+    STALLS                           410KW photo‐voltaic (PV) system installed on it’s top level, which provides enough
+    632                              power to support the parking structure and nearly all of the Police Department
+                                     Headquarters electric needs. This installation helped the Police Department
+                                     Headquarters reduce its carbon footprint and achieve a LEED Platinum rating.
+
+
+
+
+v12-B                                                 54                                                GRIFFIN
+                                                                                                     SWINERTON
+  WATSONVILLE CIVIC CENTER PARKING
+  STRUCTURE
+  WATSONVILLE, CALIFORNIA
+
+
+
+
+    CLIENT PROJECT MANAGER                 The Watsonville Civic Plaza Parking Structure is a 500 stall parking facility with access
+    Carlos Palacios, former City Manager   from various corresponding levels of the adjacent City Courthouse, Library, and City
+    of Watsonville, Deputy County
+                                           Hall building. The entire $48 million complex is being delivered by Griffin Structures
+    Administrator, Santa Cruz County
+                                           as an Integrated Project Delivery. The project was financed by a combination of
+    (831) 454‐3402
+                                           EDA grants, City general funds, County Court capital allocation of fee revenue, and
+    STALLS                                 Redevelopment Bonds.
+    500
+
+
+
+
+v12-B                                                        55                                                     GRIFFIN
+                                                                                                                 SWINERTON
+  LAGUNA BEACH COMMUNITY / SENIOR CENTR &
+  SUBTERRANEAN PARKING
+  LAGUNA BEACH, CALIFORNIA
+
+
+
+
+    CLIENT PROJECT MANAGER                   This $12 million project began with detailed programming and planning for the
+    Mr. Ken Frank, former City Manager       Laguna Beach Senior Center under contract to the Laguna Beach Seniors, Inc., a
+    (949) 497‐1815
+                                             private not‐for‐profit corporation. The project evolved into turn‐key program
+    STALLS                                   management for the Laguna Beach Senior Center, the City of Laguna Beach
+    71                                       Community Center, and an associated underground common parking garage.
+
+    CONSTRUCTION COST                        The entire project sits above a 71‐space garage, which includes handicap spaces as
+    $12,000,000 including community center   well as room for small buses to enter and discharge passengers next to a wheelchair‐
+                                             accessible elevator. This lower lobby area also can be reached via a walkway from
+                                             the street.
+
+                                             This project is the recipient of a Gold Nugget Award of Merit and an APWA Project
+                                             of the Year award.
+
+
+
+
+v12-B                                                         56                                                  GRIFFIN
+                                                                                                               SWINERTON
+  GRIFFIN TOWERS
+  SANTA ANA, CALIFORNIA
+
+
+
+
+   CLIENT PROJECT MANAGER   This project is a Class `A’ office property comprised of twin 12‐story towers
+   Name                     connected by a three‐story glass atrium pavilion located near the intersection of
+   Phone Number
+                            the 405 and 55 freeways with direct proximity to John Wayne Airport. The project
+   STALLS                   also includes ancillary retail space and an 1,800 space six‐level parking structure.
+   1,800                    Total square footage is approximately 550,000 square feet
+
+
+
+
+v12-B                                        57                                                  GRIFFIN
+                                                                                              SWINERTON
+  CITY OF WEST HOLLYWOOD KINGS ROAD
+  PARKING STRUCTURE
+  WEST HOLLYWOOD, CALIFORNIA
+
+
+
+
+    CLIENT PROJECT MANAGER     This mixed‐use project consists of a 250‐space above‐grade parking structure with
+    Name                       5,000 g.s.f. ground floor retail fronting on Santa Monica Boulevard in the City of
+    Phone Number
+                               West Hollywood. This project was subject of considerable public scrutiny. In addition
+    STALLS                     to managing the planning, design, budget, and schedule, Griffin Structures, Inc.,
+    250                        instituted a stakeholders participatory program with the Community at Large to
+                               ensure project acceptance. The parking structure was conventionally and publicly
+                               bid, and the low awarded bid was within two percent (2%) of Griffin Structure’s
+                               project budget estimate.
+
+
+
+
+v12-B                                            58                                                  GRIFFIN
+                                                                                                  SWINERTON
+ RELEVANT PARKING PROJECTS - SMITH GROUP
+        CACHE CREEK CASINO RESORT, NORTH PARKING
+        BROOKS, CALIFORNIA
+
+
+
+
+        CLIENT                          This four‐story, 2,000‐car parking garage uses a structural system of precast
+        Rumsey Band of Wintun Indians   moment frame columns with poured‐in‐place, post‐tensioned slabs and
+                                        beams.
+        ARCHITECT
+        HNA/Pacific                     The height for each level is designed to accommodate handicapped vans.
+                                        Separate levels for valet parking and gated parking sections accommodate
+        SQUARE FOOTAGE
+                                        the casino’s special clients.
+        647,335
+                                        Designed to complement the adjoining casino, the parking structure features
+        CONSTRUCTION COST
+                                        pedestrian bridges at each level which connect to the casino’s elevator
+        $37,000,000
+                                        tower. Patrons are then delivered directly onto the casino floor, providing
+        DATE COMPLETED                  them a positive entry experience.
+        2010
+
+        PROJECT HIGHLIGHTS
+          • Design‐Build
+          • Parking Structure
+
+
+
+
+v12-B                                                59                                                  GRIFFIN
+                                                                                                      SWINERTON
+

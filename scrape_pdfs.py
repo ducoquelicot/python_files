@@ -62,6 +62,3 @@ def pdf_converter(pdf_path):
 
 if __name__ == '__main__':
     main()
-
-
-    

@@ -1,4 +1,5 @@
 {
     "python.pythonPath": "/home/fabienne/anaconda3/bin/python",
-    "code-runner.runInTerminal": true
+    "code-runner.runInTerminal": true,
+    "python.dataScience.jupyterServerURI": "http://localhost:8888/?token=f0671024af0e358f80a59d7231d492be7fbd1a42a0fea995"
 }

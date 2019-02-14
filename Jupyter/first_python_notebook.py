@@ -61,6 +61,24 @@ merged.amount.sum()
 merged.groupby('committee_position').amount.sum()
 
 #%%
-merged[merged.committee_position == 'OPPOSE'].sort_values("amount", ascending = False)
+opposed = merged[merged.committee_position == 'OPPOSE'].sort_values("amount", ascending = False)
+
+#%%
+support = merged[merged.committee_position == 'SUPPORT'].sort_values("amount", ascending = False)
+
+#%%
+support.amount.sum() / merged.amount.sum()
+
+#%%
+support.sort_values("amount", ascending = False).head()
+
+#%%
+opposed.sort_values("amount", ascending = False).head()
+
+#%%
+merged.groupby(["contributor_firstname", "contributor_lastname"]).amount.sum().reset_index().sort_values("amount", ascending = False)
+
+#%%
+opposed.sort_values("amount", ascending = False).head()
 
 #%%

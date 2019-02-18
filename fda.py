@@ -13,8 +13,6 @@ for row in relevant_soup:
     urllib.request.urlretrieve(row['href'], os.path.expanduser('~/Desktop/Python/Files/' +filename))
     time.sleep(2)
 
-recalls = glob.glob(os.path.expanduser('~/Desktop/Python/Files/*.htm'))
-
 # for recall in recalls:
 #     filename = os.path.basename(recall)[:-4]
 #     soup = BeautifulSoup(open(recall), 'html.parser')

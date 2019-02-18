@@ -20,7 +20,7 @@ def save_files(links):
         row['href'] = 'https://www.fda.gov' + row['href']
         urllib.request.urlretrieve(row['href'], os.path.expanduser('~/Desktop/Python/Files/' +filename))
         time.sleep(2)
-        print('File successfully saved.')
+        print('File ' +filename +' successfully saved.')
 
 if __name__ == '__main__':
     main()

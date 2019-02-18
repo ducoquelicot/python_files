@@ -1,22 +1,22 @@
 {
     "doc": {
         "info": {
-            "calaisRequestID": "ecbdd6c7-3daa-f8c6-168f-f9545aa6494d",
+            "calaisRequestID": "928f31dc-2c16-9ba0-168f-fcb035b5797a",
             "id": "http://id.opencalais.com/dnEDpLMvm5m8r3H7-MVyOA",
             "ontology": "http://mdaas-virtual-onecalais.int.thomsonreuters.com/owlschema/12.4/onecalais.owl.allmetadata.xml",
             "docId": "http://d.opencalais.com/dochash-1/13d80997-6b00-3805-b711-13d14fc9a4b2",
             "document": "['Smiths Medical is recalling the sterile saline and sterile water products for inhalation due to the potential exposure to infectious agents (bacillus infantis and staphylococcus epidermidis) because of damage to the containers used to package the finished products. Use of these products in patients could result in infection and may require treatment with antibiotics. Serious or untreated infections could result in patient death.']",
             "docTitle": "",
-            "docDate": "2019-02-18 07:49:59.590"
+            "docDate": "2019-02-18 08:48:41.497"
         },
         "meta": {
             "contentType": "text/raw",
             "processingVer": "AllMetadata",
             "serverVersion": "OneCalais_12.4-RELEASE:44",
             "stagsVer": "OneCalais_12.4-RELEASE-b1-2019-01-13_19:10:19",
-            "submissionDate": "2019-02-18 07:49:59.338",
+            "submissionDate": "2019-02-18 08:48:41.307",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|3Q1M99ewqAVuEquvIK2mO7Pbon0=|bLqMz0aCLtFEemWumoDz46OLzWBBGWd4MvKKKEPMQ/Ea4mlmqV78aw==",
+            "signature": "digestalg-1|sHq+onu4MWHZ7KvCdJ+5fd2snVc=|BlX1/Aduai1kscLXSCDSCAxO5oJeuY9bRKgSwSMH2nPqsOTfgVatzQ==",
             "language": "English"
         }
     },
@@ -144,7 +144,7 @@
             "DIY-Categorization-news_discovery-TRCS-strtgy___STRTGY-News:20181226124912:20181226124912",
             "DIY-Categorization-news_discovery-TRCS-arti___ARTI-News:20181221144725:20181221144725",
             "DIY-Categorization-research-TRCS-target_price_increase_rsch___AATPIN-Research:20181019144530:20181019144530",
-            "Deals Index:201902180623:201902180623",
+            "Deals Index:201902180828:201902180828",
             "DIY-Categorization-fnr-TRCS-risk_exonerated___EXNRT-News:20180816152710:20180816152710",
             "DIY-Categorization-news_discovery-TRCS-trnspt___TRNSPT-News:20181109113853:20181109113853",
             "DIY-Categorization-news_discovery-TRCS-bru___BRU-News:20181206082606:20181206082606",
@@ -301,7 +301,7 @@
             "DIY-Categorization-news_discovery-TRCS-mmt___MMT-News:20181221151050:20181221151050",
             "DIY-Categorization-news_discovery-TRCS-iaea___IAEA-News:20190205145903:20190205145903",
             "DIY-Categorization-news_discovery-TRCS-smed___SMED-News:20181116102853:20181116102853",
-            "People Index:201902180443:201902180443",
+            "People Index:201902180748:201902180748",
             "DIY-Categorization-fnr-TRCS-risk_transportation_crime___TCRIM-News:20180717143922:20180717143922",
             "DIY-Categorization-news_discovery-TRCS-sen___SEN-News:20181218060606:20181218060606",
             "DIY-Categorization-risk-TRCS-cybercriminal_activitiy007___HACK2-News:20181126144420:20181126144420",
@@ -397,7 +397,7 @@
             "DIY-Categorization-fnr-TRCS-change_of_ceo_ram_rch___CEO1-Research:20180403103028:20180403103028",
             "DIY-Categorization-fnr-TRCS-insurg___M_NX-News:20180801124439:20180801124439",
             "DIY-Categorization-fnr-TRCS-aid___AID-News:20180713152341:20180713152341",
-            "index-sluglines:201902180708:201902180708",
+            "index-sluglines:201902180834:201902180834",
             "DIY-Categorization-fnr-TRCS-hrgt_recll:20170522120000:20170522120000",
             "DIY-Categorization-fnr-TRCS-fraud1___FRAUD1-News:20180608135213:20180608135213",
             "index-company-oa3:201902180243:201902180243",
@@ -467,7 +467,7 @@
             "DIY-Categorization-news_discovery-TRCS-flm2___FLM-News:20190104150654:20190104150654",
             "DIY-Categorization-news_discovery-TRCS-bri___BRI-News:20181004060629:20181004060629",
             "DIY-Categorization-news_discovery-TRCS-jud___JUD-News:20181109134149:20181109134149",
-            "config-cse:944:944",
+            "config-cse:952:952",
             "DIY-Categorization-fnr-TRCS-hiring_rsh_nithish1___NEWJBS-Research:20180613082728:20180613082728",
             "DIY-Categorization-fnr-TRCS-workers_pay_sai_rsh_2___WPAY-Research:20180731115839:20180731115839",
             "DIY-Categorization-news_discovery-TRCS-olef___OLEF-News:20190107151638:20190107151638",
@@ -597,7 +597,7 @@
             "DIY-Categorization-news_discovery-TRCS-def___DEF-News:20181214130044:20181214130044",
             "DIY-Categorization-news_discovery-TRCS-scrim___SCRIM-News:20181228143829:20181228143829",
             "SocialTags Index:201902152018:201902152018",
-            "BlackList:944:944",
+            "BlackList:952:952",
             "DIY-Categorization-tms-TRCS-publish_dummy___C_3U-News:20190217151324:20190217151324",
             "DIY-Categorization-fnr-TRCS-mgs___MGS-News:20180529091421:20180529091421",
             "DIY-Categorization-fnr-TRCS-rlft___RLFT-News:20180802124812:20180802124812",

@@ -1,22 +1,22 @@
 {
     "doc": {
         "info": {
-            "calaisRequestID": "440abefd-47c3-35ee-168f-f9541ee7e0e6",
+            "calaisRequestID": "c6b4f4e8-2c09-db49-168f-fcaec3313d9f",
             "id": "http://id.opencalais.com/Zm6JM0L*EcE5dNgfLoljDg",
             "ontology": "http://mdaas-virtual-onecalais.int.thomsonreuters.com/owlschema/12.4/onecalais.owl.allmetadata.xml",
             "docId": "http://d.opencalais.com/dochash-1/d8cff475-c899-3a31-9ef3-3ebc5e10ea30",
             "document": "['Edwards Lifesciences is recalling 131F7, 131F7J, 131F7P, 131VF7P, 151F7 Swan-Ganz Thermodilution Catheters manufactured December 26, 2017, to April 19, 2018 due, to incorrect assembly and reversal of the catheter tubes (lumens). If the lumens are reversed the clinician may note inaccurate pulmonary artery and central venous pressure values and waveforms. This may result in unintended treatment, which may result in adverse health consequences.']",
             "docTitle": "",
-            "docDate": "2019-02-18 07:49:58.676"
+            "docDate": "2019-02-18 08:48:35.651"
         },
         "meta": {
             "contentType": "text/raw",
             "processingVer": "AllMetadata",
             "serverVersion": "OneCalais_12.4-RELEASE:44",
             "stagsVer": "OneCalais_12.4-RELEASE-b1-2019-01-13_19:10:19",
-            "submissionDate": "2019-02-18 07:49:58.382",
+            "submissionDate": "2019-02-18 08:48:35.379",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|+GYc2YzFWreVGkVaRuwiP+jZjiU=|U6sX8z6bEhn9AJ7g4iIb3VAC4cANbGinqtYPFhbiF51fxGd7T6kQyg==",
+            "signature": "digestalg-1|pvCeoR/TJoIhJW4iU1l8UdpacLw=|iVLDXQOx1tW4QzYnnN7TYnocxcV9UO/oBXL/D5oExR1Nd4a4/8g0vA==",
             "language": "English"
         }
     },
@@ -295,7 +295,7 @@
             "DIY-Categorization-news_discovery-TRCS-mmt___MMT-News:20181221151050:20181221151050",
             "DIY-Categorization-news_discovery-TRCS-iaea___IAEA-News:20190205145903:20190205145903",
             "DIY-Categorization-news_discovery-TRCS-smed___SMED-News:20181116102853:20181116102853",
-            "People Index:201902180443:201902180443",
+            "People Index:201902180748:201902180748",
             "DIY-Categorization-fnr-TRCS-risk_transportation_crime___TCRIM-News:20180717143922:20180717143922",
             "DIY-Categorization-news_discovery-TRCS-sen___SEN-News:20181218060606:20181218060606",
             "DIY-Categorization-risk-TRCS-cybercriminal_activitiy007___HACK2-News:20181126144420:20181126144420",
@@ -391,7 +391,7 @@
             "DIY-Categorization-fnr-TRCS-change_of_ceo_ram_rch___CEO1-Research:20180403103028:20180403103028",
             "DIY-Categorization-fnr-TRCS-insurg___M_NX-News:20180801124439:20180801124439",
             "DIY-Categorization-fnr-TRCS-aid___AID-News:20180713152341:20180713152341",
-            "index-sluglines:201902180733:201902180733",
+            "index-sluglines:201902180813:201902180813",
             "DIY-Categorization-fnr-TRCS-hrgt_recll:20170522120000:20170522120000",
             "DIY-Categorization-fnr-TRCS-fraud1___FRAUD1-News:20180608135213:20180608135213",
             "index-company-oa3:201902180243:201902180243",
@@ -461,7 +461,7 @@
             "DIY-Categorization-news_discovery-TRCS-flm2___FLM-News:20190104150654:20190104150654",
             "DIY-Categorization-news_discovery-TRCS-bri___BRI-News:20181004060629:20181004060629",
             "DIY-Categorization-news_discovery-TRCS-jud___JUD-News:20181109134149:20181109134149",
-            "config-cse:952:952",
+            "config-cse:944:944",
             "DIY-Categorization-fnr-TRCS-hiring_rsh_nithish1___NEWJBS-Research:20180613082728:20180613082728",
             "DIY-Categorization-fnr-TRCS-workers_pay_sai_rsh_2___WPAY-Research:20180731115839:20180731115839",
             "DIY-Categorization-news_discovery-TRCS-olef___OLEF-News:20190107151638:20190107151638",
@@ -591,7 +591,7 @@
             "DIY-Categorization-news_discovery-TRCS-def___DEF-News:20181214130044:20181214130044",
             "DIY-Categorization-news_discovery-TRCS-scrim___SCRIM-News:20181228143829:20181228143829",
             "SocialTags Index:201902152018:201902152018",
-            "BlackList:952:952",
+            "BlackList:944:944",
             "DIY-Categorization-tms-TRCS-publish_dummy___C_3U-News:20190217151324:20190217151324",
             "DIY-Categorization-fnr-TRCS-mgs___MGS-News:20180529091421:20180529091421",
             "DIY-Categorization-fnr-TRCS-rlft___RLFT-News:20180802124812:20180802124812",

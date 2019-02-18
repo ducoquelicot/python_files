@@ -1,22 +1,22 @@
 {
     "doc": {
         "info": {
-            "calaisRequestID": "e33fa6b1-3ed0-68d1-68ff-90831655fd97",
+            "calaisRequestID": "790250fd-d136-6477-168f-f95492913d9f",
             "id": "http://id.opencalais.com/h9Ph8*Ri3m*Pc*V3fHiTcw",
             "ontology": "http://mdaas-virtual-onecalais.int.thomsonreuters.com/owlschema/12.4/onecalais.owl.allmetadata.xml",
             "docId": "http://d.opencalais.com/dochash-1/be19234e-0f29-357e-b8a5-c7623dd00a4a",
             "document": "[' Draegar Medical is recalling its disposable VentStar and ID Breathing Circuits and Anesthesia Sets due to a risk of the devices being incorrectly assembled, resulting in a short-circuit in the breathing hose. If the breathing hose is short circuited, the patient will not receive the expected breathing support (ventilation). Lack of breathing support may result in irreversible patient harm, up to and including severe oxygen-loss (hypoxia) and death.']",
             "docTitle": "",
-            "docDate": "2019-02-18 07:44:47.611"
+            "docDate": "2019-02-18 07:50:00.525"
         },
         "meta": {
             "contentType": "text/raw",
             "processingVer": "AllMetadata",
             "serverVersion": "OneCalais_12.4-RELEASE:44",
             "stagsVer": "OneCalais_12.4-RELEASE-b1-2019-01-13_19:10:19",
-            "submissionDate": "2019-02-18 07:44:47.382",
+            "submissionDate": "2019-02-18 07:50:00.233",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|/pMVtOV+PRgG/6gYK+gN5hjepIg=|hvDydfzv5mu4okUmWVIF63YJgQIKWYpBmpKzhJna8v9odIJveXHiAQ==",
+            "signature": "digestalg-1|N2qYXuMO4nQTIdke+Zxfw5FB+6w=|hUdP1DVTrq8X7usEgDnD8dlC2LhD5LnPx0O1szzPvltu+CQwMxrOCg==",
             "language": "English"
         }
     },
@@ -162,7 +162,7 @@
             "DIY-Categorization-news_discovery-TRCS-strtgy___STRTGY-News:20181226124912:20181226124912",
             "DIY-Categorization-news_discovery-TRCS-arti___ARTI-News:20181221144725:20181221144725",
             "DIY-Categorization-research-TRCS-target_price_increase_rsch___AATPIN-Research:20181019144530:20181019144530",
-            "Deals Index:201902180728:201902180728",
+            "Deals Index:201902180623:201902180623",
             "DIY-Categorization-fnr-TRCS-risk_exonerated___EXNRT-News:20180816152710:20180816152710",
             "DIY-Categorization-news_discovery-TRCS-trnspt___TRNSPT-News:20181109113853:20181109113853",
             "DIY-Categorization-news_discovery-TRCS-bru___BRU-News:20181206082606:20181206082606",
@@ -415,7 +415,7 @@
             "DIY-Categorization-fnr-TRCS-change_of_ceo_ram_rch___CEO1-Research:20180403103028:20180403103028",
             "DIY-Categorization-fnr-TRCS-insurg___M_NX-News:20180801124439:20180801124439",
             "DIY-Categorization-fnr-TRCS-aid___AID-News:20180713152341:20180713152341",
-            "index-sluglines:201902180733:201902180733",
+            "index-sluglines:201902180708:201902180708",
             "DIY-Categorization-fnr-TRCS-hrgt_recll:20170522120000:20170522120000",
             "DIY-Categorization-fnr-TRCS-fraud1___FRAUD1-News:20180608135213:20180608135213",
             "index-company-oa3:201902180243:201902180243",

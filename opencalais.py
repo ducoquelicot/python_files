@@ -26,7 +26,7 @@ def main():
         output = os.path.expanduser('~/Desktop/Python/Files/' +filename +'.json')
         with open(output, 'w') as out:
             if response.status_code == 200:
-                print('Extraction successful. Writing response to {}'.format(output[-13:]))
+                print('Extraction successful. Writing response to {}'.format(output[-14:]))
                 json.dump(response.json(), out, indent=4)
 
 if __name__ == '__main__':

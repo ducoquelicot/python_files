@@ -3,6 +3,10 @@ import glob, os, requests, time, urllib.request
 
 def main():
     fda = 'https://www.fda.gov/MedicalDevices/Safety/ListofRecalls/ucm629347.htm'
+    try:
+        os.makedirs(os.path.expanduser('~/Desktop/Python/Files'))
+    except FileExistsError:
+        print('This folder already exists.')
     output = scrape(fda)
     save_files(output)
 

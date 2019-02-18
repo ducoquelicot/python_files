@@ -39,3 +39,9 @@ for row in links:
     print(row['uri'])
 
 '/home/fabienne/Desktop/Python/PDF/pdfs_2019_37.pdf'
+
+# for recall in recalls:
+#     filename = os.path.basename(recall)[:-4]
+#     soup = BeautifulSoup(open(recall), 'html.parser')
+#     with open(os.path.expanduser('~/Desktop/Python/Files/' +filename +'_soup.html'), 'w') as file:
+#         file.write(str(soup))

@@ -1,10 +1,7 @@
 import fda, opencalais, os, report
 
 def main():
-    try:
-        os.makedirs(os.path.expanduser('~/Desktop/Python/Files'))
-    except FileExistsError:
-        print('This folder already exists.')
+    os.makedirs(os.path.expanduser('~/Desktop/Python/Files'), exist_ok=True)
     fda.main()
     opencalais.main()
     report.main()

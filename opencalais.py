@@ -7,10 +7,7 @@ user = os.environ['OPENCALAIS_API_USER']
 key = os.environ['OPENCALAIS_API_KEY']
 
 def main():
-    try:
-        os.makedirs(os.path.expanduser('~/Desktop/Python/Files'))
-    except FileExistsError:
-        print('This folder already exists.')
+    os.makedirs(os.path.expanduser('~/Desktop/Python/Files'), exist_ok=True)
     for recall in recalls:
         filename = os.path.basename(recall)[:-4]
         soup = BeautifulSoup(open(recall), 'html.parser')

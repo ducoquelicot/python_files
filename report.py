@@ -4,10 +4,7 @@ reasons = glob.glob(os.path.expanduser('~/Desktop/Python/Files/*.json'))
 socialtags = []
 
 def main():
-    try:
-        os.makedirs(os.path.expanduser('~/Desktop/Python/Files'))
-    except FileExistsError:
-        print('This folder already exists.')
+    os.makedirs(os.path.expanduser('~/Desktop/Python/Files'), exist_ok=True)
     for item in reasons:
         filename = os.path.basename(item)
         with open(item) as json_data:

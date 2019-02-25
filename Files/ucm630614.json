@@ -1,22 +1,22 @@
 {
     "doc": {
         "info": {
-            "calaisRequestID": "894c2f78-fcd1-7141-1692-6aaaa9b19ec5",
+            "calaisRequestID": "225b5e42-84ab-ebf9-1692-6e3a28919ec5",
             "id": "http://id.opencalais.com/dnEDpLMvm5m8r3H7-MVyOA",
             "ontology": "http://mdaas-virtual-onecalais.int.thomsonreuters.com/owlschema/12.4/onecalais.owl.allmetadata.xml",
             "docId": "http://d.opencalais.com/dochash-1/13d80997-6b00-3805-b711-13d14fc9a4b2",
             "document": "['Smiths Medical is recalling the sterile saline and sterile water products for inhalation due to the potential exposure to infectious agents (bacillus infantis and staphylococcus epidermidis) because of damage to the containers used to package the finished products. Use of these products in patients could result in infection and may require treatment with antibiotics. Serious or untreated infections could result in patient death.']",
             "docTitle": "",
-            "docDate": "2019-02-25 21:58:33.098"
+            "docDate": "2019-02-25 23:00:46.602"
         },
         "meta": {
             "contentType": "text/raw",
             "processingVer": "AllMetadata",
             "serverVersion": "OneCalais_12.4-RELEASE:44",
             "stagsVer": "OneCalais_12.4-RELEASE-b1-2019-01-13_19:10:19",
-            "submissionDate": "2019-02-25 21:58:32.859",
+            "submissionDate": "2019-02-25 23:00:46.345",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|g14z4dGxE/YZu7B9Uptn8LxgZVo=|gp/3yy7nzOaZhhlEZ4XQn8TG44V8mN6JOo49T+pLJtsUSQejwqaguQ==",
+            "signature": "digestalg-1|B4o+XCMSX8wZwKpQLMf4j9n+OPU=|CimZG1jOhV/IWPF7DVXKLifmRy9HnNdFs+NMitpcYqtYH/WNmIbteA==",
             "language": "English"
         }
     },

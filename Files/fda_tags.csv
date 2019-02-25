@@ -22,13 +22,12 @@ ucm630774.json,Edwards Lifesciences
 ucm630774.json,Pulmonary artery
 ucm630774.json,Central venous pressure
 ucm630774.json,Lumen
-ucm629799.json,Medicine
 ucm629799.json,Medical specialties
+ucm629799.json,Medicine
 ucm629799.json,Chemistry
 ucm629799.json,Oxygen
+ucm629799.json,Aviation medicine
 ucm629799.json,Diving medicine
-ucm629799.json,Respiratory therapy
-ucm629799.json,Industrial gases
 ucm629799.json,Hypoxia
 ucm629799.json,Pulmonology
 ucm629799.json,Anesthesia
@@ -36,14 +35,15 @@ ucm629799.json,Oxygen mask
 ucm629799.json,Central sleep apnea
 ucm630325.json,Medicine
 ucm630325.json,Health
+ucm630325.json,Clinical medicine
 ucm630325.json,Dosage forms
 ucm630325.json,Intravenous therapy
 ucm630325.json,Dose
 ucm630325.json,Infusion pump
 ucm630284.json,RTT
 ucm630284.json,Branches of biology
-ucm630284.json,Medicine
 ucm630284.json,Medical specialties
+ucm630284.json,Medicine
 ucm630284.json,Warfarin
 ucm630284.json,Atrial fibrillation
 ucm630284.json,Thrombus

@@ -11,7 +11,7 @@ def main():
     for recall in recalls:
         filename = os.path.basename(recall)[:-4]
         soup = BeautifulSoup(open(recall), 'html.parser')
-        reason = (soup.find_all(string=re.compile("is recalling")))
+        reason = soup.find_all(string=re.compile("is recalling"))
         
         header = {
             'X-AG-Access-Token' : key,

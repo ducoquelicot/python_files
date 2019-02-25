@@ -1,22 +1,22 @@
 {
     "doc": {
         "info": {
-            "calaisRequestID": "b4c6837b-5f78-14d9-1692-6aa7b1013d9f",
+            "calaisRequestID": "5ae18c20-2f84-9ef2-1692-6e374d751569",
             "id": "http://id.opencalais.com/ha36diTy19hxb1X-53lWCA",
             "ontology": "http://mdaas-virtual-onecalais.int.thomsonreuters.com/owlschema/12.4/onecalais.owl.allmetadata.xml",
             "docId": "http://d.opencalais.com/dochash-1/b3441766-d7a6-3766-8f7f-2415af6bc980",
             "document": "['Terrific Care, LLC. / Medex Supply is recalling the Roche Diagnostics CoaguChek XS PT Test Strips due to inaccurate INR test results, when compared to laboratory results. The test strips may provide results that are higher than the actual INR. Because of incorrect INR results, some patients may be prescribed an insufficient warfarin dose or instructed to interrupt warfarin use, which may increase the risk for dangerous blood clots. Incorrect INR results are of particular concern for individuals at an increased risk of blood clots including those with mechanical heart valves, atrial fibrillation (irregular heartbeat) who are at an elevated risk of stroke, or those who had a recent blood clot.']",
             "docTitle": "",
-            "docDate": "2019-02-25 21:58:20.970"
+            "docDate": "2019-02-25 23:00:34.853"
         },
         "meta": {
             "contentType": "text/raw",
             "processingVer": "AllMetadata",
             "serverVersion": "OneCalais_12.4-RELEASE:44",
             "stagsVer": "OneCalais_12.4-RELEASE-b1-2019-01-13_19:10:19",
-            "submissionDate": "2019-02-25 21:58:20.688",
+            "submissionDate": "2019-02-25 23:00:34.647",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|CF8mhAEvz1HAKirCN89joNEiGLY=|lVjvyS/Wex9QHOvvKwj5FtLjD+Mi7ytILQuAyd9tyGx5h7a6HiqpFQ==",
+            "signature": "digestalg-1|cnV3WLxlK3JzKGZKa8QxlMgQ3lk=|Iblgp458RdF29f134nOz5hBMohBY9Z5rxm/MbSsSuw0MIyp/PCSz/Q==",
             "language": "English"
         }
     },
@@ -144,7 +144,7 @@
             "DIY-Categorization-news_discovery-TRCS-strtgy___STRTGY-News:20181226124912:20181226124912",
             "DIY-Categorization-news_discovery-TRCS-arti___ARTI-News:20181221144725:20181221144725",
             "DIY-Categorization-research-TRCS-target_price_increase_rsch___AATPIN-Research:20181019144530:20181019144530",
-            "Deals Index:201902252115:201902252115",
+            "Deals Index:201902252220:201902252220",
             "DIY-Categorization-fnr-TRCS-risk_exonerated___EXNRT-News:20180816152710:20180816152710",
             "DIY-Categorization-news_discovery-TRCS-trnspt___TRNSPT-News:20181109113853:20181109113853",
             "DIY-Categorization-news_discovery-TRCS-bru___BRU-News:20181206082606:20181206082606",
@@ -303,7 +303,7 @@
             "DIY-Categorization-news_discovery-TRCS-mmt___MMT-News:20181221151050:20181221151050",
             "DIY-Categorization-news_discovery-TRCS-iaea___IAEA-News:20190205145903:20190205145903",
             "DIY-Categorization-news_discovery-TRCS-smed___SMED-News:20181116102853:20181116102853",
-            "People Index:201902251901:201902251901",
+            "People Index:201902252205:201902252205",
             "DIY-Categorization-fnr-TRCS-risk_transportation_crime___TCRIM-News:20180717143922:20180717143922",
             "DIY-Categorization-news_discovery-TRCS-sen___SEN-News:20181218060606:20181218060606",
             "DIY-Categorization-risk-TRCS-cybercriminal_activitiy007___HACK2-News:20181126144420:20181126144420",
@@ -400,7 +400,7 @@
             "DIY-Categorization-fnr-TRCS-change_of_ceo_ram_rch___CEO1-Research:20180403103028:20180403103028",
             "DIY-Categorization-fnr-TRCS-insurg___M_NX-News:20180801124439:20180801124439",
             "DIY-Categorization-fnr-TRCS-aid___AID-News:20180713152341:20180713152341",
-            "index-sluglines:201902252130:201902252130",
+            "index-sluglines:201902252230:201902252230",
             "DIY-Categorization-fnr-TRCS-hrgt_recll:20170522120000:20170522120000",
             "DIY-Categorization-fnr-TRCS-fraud1___FRAUD1-News:20180608135213:20180608135213",
             "index-company-oa3:201902251505:201902251505",

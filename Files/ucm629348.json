@@ -1,22 +1,22 @@
 {
     "doc": {
         "info": {
-            "calaisRequestID": "46e09382-eb63-06d3-1692-6aad8447e0e6",
+            "calaisRequestID": "2fba0453-4940-16e3-1692-6e3d0007e0e6",
             "id": "http://id.opencalais.com/ESA*Kla0A7stsi5mEVo4AA",
             "ontology": "http://mdaas-virtual-onecalais.int.thomsonreuters.com/owlschema/12.4/onecalais.owl.allmetadata.xml",
             "docId": "http://d.opencalais.com/dochash-1/58e859b1-60b5-38b3-a743-6cba6ad7e7eb",
             "document": "[' Medtronic is recalling the Synergy Cranial Software and StealthStation S7 Cranial Software used with the StealthStation Surgical Navigation System due to reports of incorrect information displaying during biopsy procedures that could result in serious or life-threatening patient harm. ']",
             "docTitle": "",
-            "docDate": "2019-02-25 21:58:44.872"
+            "docDate": "2019-02-25 23:00:58.234"
         },
         "meta": {
             "contentType": "text/raw",
             "processingVer": "AllMetadata",
             "serverVersion": "OneCalais_12.4-RELEASE:44",
             "stagsVer": "OneCalais_12.4-RELEASE-b1-2019-01-13_19:10:19",
-            "submissionDate": "2019-02-25 21:58:44.548",
+            "submissionDate": "2019-02-25 23:00:57.984",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|CkBrrDE/N2U649VJDEzH59WhIws=|DeFS99dwbJjE8J+rJsMMPZYRPeN64C/DFWLuHkus6pIaQj/7Wc72qg==",
+            "signature": "digestalg-1|pBg0OfWMeZP5elWyvuYVZ0Es+5o=|gugNcRDU+E+pC4rG1ARjKnREYWWQ284HBEopFu09LuD8CovoqLxXMQ==",
             "language": "English"
         }
     },
@@ -102,7 +102,7 @@
             "DIY-Categorization-news_discovery-TRCS-strtgy___STRTGY-News:20181226124912:20181226124912",
             "DIY-Categorization-news_discovery-TRCS-arti___ARTI-News:20181221144725:20181221144725",
             "DIY-Categorization-research-TRCS-target_price_increase_rsch___AATPIN-Research:20181019144530:20181019144530",
-            "Deals Index:201902252115:201902252115",
+            "Deals Index:201902252220:201902252220",
             "DIY-Categorization-fnr-TRCS-risk_exonerated___EXNRT-News:20180816152710:20180816152710",
             "DIY-Categorization-news_discovery-TRCS-trnspt___TRNSPT-News:20181109113853:20181109113853",
             "DIY-Categorization-news_discovery-TRCS-bru___BRU-News:20181206082606:20181206082606",
@@ -261,7 +261,7 @@
             "DIY-Categorization-news_discovery-TRCS-mmt___MMT-News:20181221151050:20181221151050",
             "DIY-Categorization-news_discovery-TRCS-iaea___IAEA-News:20190205145903:20190205145903",
             "DIY-Categorization-news_discovery-TRCS-smed___SMED-News:20181116102853:20181116102853",
-            "People Index:201902251901:201902251901",
+            "People Index:201902252205:201902252205",
             "DIY-Categorization-fnr-TRCS-risk_transportation_crime___TCRIM-News:20180717143922:20180717143922",
             "DIY-Categorization-news_discovery-TRCS-sen___SEN-News:20181218060606:20181218060606",
             "DIY-Categorization-risk-TRCS-cybercriminal_activitiy007___HACK2-News:20181126144420:20181126144420",
@@ -358,7 +358,7 @@
             "DIY-Categorization-fnr-TRCS-change_of_ceo_ram_rch___CEO1-Research:20180403103028:20180403103028",
             "DIY-Categorization-fnr-TRCS-insurg___M_NX-News:20180801124439:20180801124439",
             "DIY-Categorization-fnr-TRCS-aid___AID-News:20180713152341:20180713152341",
-            "index-sluglines:201902252130:201902252130",
+            "index-sluglines:201902252250:201902252250",
             "DIY-Categorization-fnr-TRCS-hrgt_recll:20170522120000:20170522120000",
             "DIY-Categorization-fnr-TRCS-fraud1___FRAUD1-News:20180608135213:20180608135213",
             "index-company-oa3:201902251505:201902251505",

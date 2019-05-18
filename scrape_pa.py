@@ -21,25 +21,27 @@ def scrape(html_link):
 def get_links(links, years):
     # filter for Agenda and packet only, append to list and download pdf
     agendas = []
-    for row in range(len(links)):
-        if links[row].getText()== 'Agenda and Packet':
-            if fnmatch.fnmatch(links[row]['href'], '*://www.cityofpaloalto.org/*'):
-                agendas.append([links[row]['href']])
+    for row in links:
+        if row.getText()== 'Agenda and Packet':
+            if fnmatch.fnmatch(row['href'], '*://www.cityofpaloalto.org/*'):
+                agendas.append(row['href'])
                 time.sleep(2)
-                urllib.request.urlretrieve(links[row]['href'], os.path.expanduser('~/Desktop/Python/PDF/pdfs_' +str(years) + '_' +str(row) + '.pdf'))
-                time.sleep(5)
+                # urllib.request.urlretrieve(row['href'], os.path.expanduser('~/Desktop/Python/PDF/pdfs_' +str(years) + '_' +str(row) + '.pdf'))
+                # time.sleep(5)
             else:
-                links[row]['href'] = 'https://www.cityofpaloalto.org' + links[row]['href']
-                agendas.append([links[row]['href']])
+                row['href'] = 'https://www.cityofpaloalto.org' + row['href']
+                agendas.append(row['href'])
                 time.sleep(2)
-                urllib.request.urlretrieve(links[row]['href'], os.path.expanduser('~/Desktop/Python/PDF/pdfs_' +str(years) + '_' +str(row) + '.pdf'))
-                time.sleep(5)
+                # urllib.request.urlretrieve(links[row]['href'], os.path.expanduser('~/Desktop/Python/PDF/pdfs_' +str(years) + '_' +str(row) + '.pdf'))
+                # time.sleep(5)
 
     # Write list into .csv file
-    with open(os.path.expanduser('~/Desktop/Python/Files/agendas_' +str(years) + '.csv'), 'w') as agenda:
-        writer = csv.writer(agenda)
-        writer.writerow(["Agenda and Packet"])
-        writer.writerows(agendas)
+    # with open(os.path.expanduser('~/Desktop/Python/Files/agendas_' +str(years) + '.csv'), 'w') as agenda:
+    #     writer = csv.writer(agenda)
+    #     writer.writerow(["Agenda and Packet"])
+    #     writer.writerows(agendas)
+
+    print(agendas)
 
 if __name__ == '__main__':
     main()

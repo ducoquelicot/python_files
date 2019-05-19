@@ -74,9 +74,6 @@ country_group = terrorism[['gname', 'country_txt']]
 country_group.groupby('gname')['country_txt'].agg(pd.Series.mode)
 
 #%%
-country_group.groupby('gname').head()
-
-#%%
 # We can merge the two to see the combined result.
 cg = country_group.groupby('gname')['country_txt'].agg(pd.Series.mode).to_frame()
 
@@ -153,3 +150,13 @@ belgium_attacks = terrorism[['country_txt', 'city', 'iyear', 'imonth', 'iday', '
 belgium_attacks[belgium_attacks['country_txt'] == 'Belgium'].sort_values('nkill', ascending=False).reset_index().head(10)
 
 #%%
+# Another question: in which regions were the most recent attacks (between 2007 and 2017) committed? 
+# In the media, it feels like many recent attacks were committed. 
+recent_attacks = terrorism[['iyear', 'region_txt']]
+
+#%%
+recent_attacks.region_txt.isna().sum()
+
+#%%
+# What we can see here is that there has indeed been a shift in recent years, but not to Western Europe but from South Asia to the Middle East and North Africa.
+recent_attacks.groupby('iyear')['region_txt'].agg(pd.Series.mode).to_frame().sort_values('iyear', ascending=False).head(10)

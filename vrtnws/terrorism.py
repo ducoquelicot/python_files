@@ -88,6 +88,7 @@ merged = pd.merge(cg, df, on='gname')
 
 #%%
 # Now, we can see where these terrorist organizations attack most frequently. 
+# Note that 'count' here does not mean that the organizations attacked this many times in these countries.
 merged.sort_values('count', ascending=False).head(10)
 
 #%%

@@ -19,7 +19,7 @@ terrorism.groupby(by='eventid').filter(lambda x: len(x)>1)
 # First question: what were the ten deadliest terrorist attacks between 1970 and 2017?
 # In order to know this we need the date, the number of deaths, and the location so that we know where it happened.
 # We may also want the terrorist group. 
-terrorism[['nkill', 'iyear', 'imonth', 'iday', 'country_txt', 'gname']].sort_values('nkill', ascending=False).reset_index().head(10)
+terrorism[['nkill', 'iyear', 'imonth', 'iday', 'country_txt', 'city', 'gname']].sort_values('nkill', ascending=False).reset_index().head(10)
 
 #%%
 # Second question. Which years had the most casualties and how does this develop over time?
@@ -139,4 +139,16 @@ dataframe.sort_values('no_attacks', ascending=False).head(10)
 #%%
 # We can now revisit our first question and look at the top ten deadliest attacks more broadly:
 # what was the target type? Where did the primary victims come from? 
-terrorism[['nkill', 'iyear', 'imonth', 'iday', 'country_txt', 'gname', 'targtype1_txt', 'natlty1_txt']].sort_values('nkill', ascending=False).reset_index().head(10)
+terrorism[['nkill', 'iyear', 'imonth', 'iday', 'country_txt', 'city' ,'gname', 'targtype1_txt', 'natlty1_txt']].sort_values('nkill', ascending=False).reset_index().head(10)
+
+#%%
+# Let's zoom in more closely on Belgium. What were the most deadly terrorist attacks in Belgium and
+# when were they committed, and by which group?
+belgium_attacks = terrorism[['country_txt', 'city', 'iyear', 'imonth', 'iday', 'nkill', 'gname']]
+
+#%%
+# Here we can see that the deadliest terrorist attacks in Belgium were committed very recently, in 2016. They were also
+# committed by a terrorist group in the top ten of most 'active' terrorist groups: ISIL. 
+belgium_attacks[belgium_attacks['country_txt'] == 'Belgium'].sort_values('nkill', ascending=False).reset_index().head(10)
+
+#%%

@@ -45,3 +45,54 @@ In het tweede bestand halen we, wederom met BeautifulSoup, de tekst uit de pagin
 Vervolgens is het een kwestie van de boel sorteren en netjes maken. Eerst halen we de partij uit de tekst met een regex en zetten deze in een aparte lijst. Sorteren doen we met ```Counter```, en vervolgens maken we alles netjes door het in strings om te zetten en de [] eraf te strippen. Dit alles printen we uiteindelijk netjes.
 
 Om te zorgen dat je allebei de scripts achter elkaar kunt runnen heb ik de ```run_pipeline.py``` gemaakt. 
+
+## Opdracht 2: data-analyse
+```
+Corresponding files:
+terrorism_data.ipynb
+(external) vrtnws_story
+(external) vrtnws_pivot
+```
+
+Het eerste wat opvalt is dat de dataset geen bron heeft, wat het lastig maakt de kwaliteit van de data te verifieren. Daarnaast is er geen data dictionary aanwezig, wat het lastig maakt de betekenis van verschillende column headers te ontcijferen.
+
+Desondanks kunnen we zeker wel wat analyse doen. Allereerst openen we het bestand in Excel, om een overview te krijgen van de datatypes en of bepaalde zaken meteen opvallen. Na het bekijken en filteren van de data in Excel kunnen we een aantal vragen opschrijven die we in Python Pandas kunnen beantwoorden.
+
+Een paar voorbeeldvragen:
+- Welke landen kregen de meeste aanslagen te verduren tussen 1970 en 2017?
+- Wat waren de tien aanslagen met de meeste slachtoffers?
+- In welke landen opereren de terreurgroepen het meest?
+- Hoeveel dodelijke slachtoffers waren er per jaar en hoe ontwikkelt zich dat?
+- Welk type aanslag komt het vaakst voor?
+- Wie is het vaakst doelwit van een aanslag?
+- Wat waren de dodelijkste aanslagen in Belgie?
+
+(Zie ```terrorism_data.ipynb``` voor een uitgebreide stap voor stap uitleg bij de gestelde vragen en gedane handelingen)
+
+Nu we een overzicht hebben van de vragen die we hebben beantwoord, kunnen we verder werken in Tableau (zie: https://public.tableau.com/profile/fabienne.meijer#!/vizhome/vrtnws_story/deaths_overtime, schakel tussen de twee tabbladen om de twee visualisaties te zien) om visualisaties te maken die bij het verhaal zouden passen.
+
+- Viz 1: lijngrafiek van het aantal slachtoffers per jaar
+Deze grafiek is handig omdat duidelijk te zien is hoe het aantal slachtoffers per jaar zich ontwikkelt door de jaren heen.
+
+- Viz 2: kaart met ingekleurd voor aantal aanslagen, gecombineerd met bar chart
+Deze kaart laat in een (1) oogopslag zien in welke landen de meeste aanslagen worden gepleegd. Als je klikt op een land, zie je in de tabel eronder in een bar hoeveel aanslagen er gepleegd zijn. 
+
+Als laatste de pivottabel. Deze had ik in pandas kunnen maken, maar Excel is hier gewoon ontzettend handig voor. Dus heb ik in een Excel werkblad een draaitabel gemaakt waar je per terroristische groep het aantal dodelijke slachtoffers per jaar kunt zien. Elke rij eindigt met het totaal aantal slachtoffers per groep, elke kolom eindigt met het totaal aantal slachtoffers voor dat jaar.
+
+Om het stuk te schrijven kunnen we nu alle gevonden waarden makkelijk combineren om tot de conclusie te komen dat het vrij opmerkelijk is dat ISIL, een groep die nog maar 'relatief kort' actief is, een enorme hoeveelheid aanslagen heeft geclaimd en daarmee ook een heleboel slachtoffers. 
+
+Om het verhaal in perspectief te plaatsen, vind ik het belangrijk om te melden dat hoewel er veel aandacht is voor de aanslagen in het Westen, we niet moeten vergeten dat met name het Midden-Oosten de laatste paar jaar onevenredig getroffen wordt door aanslagen, die bovendien nog eens veel dodelijker zijn dan aanslagen vroeger.
+
+## Opdracht 5: Belgische YT-verhalen
+Dimitri Tokmetzis schrijft in een artikel op de Correspondent over verschillende gebruiksmogelijkheden die er zijn voor de code die ze geschreven hebben. Je kan bijvoorbeeld een gebruikersgemeenschap onderzoek of een landenanalyse doen.
+
+Uit de code op GitHub blijkt dat je bijvoorbeeld makkelijk het land kan vinden waar het kanaal mee geassocieerd is. Dat betekent dat je met de code van DC met een paar kleine aanpassingen een verzameling moet kunnen maken van Belgische kanalen en die verder kan analyseren op bijvoorbeeld extreme onderwerpen en bekende extreemrechtse gebruikers.
+
+Een andere optie is een lijst op te vragen van de meest populaire video's in de Vlaamse of Franstalige regio te zoeken en deze met elkaar te vergelijken. Dit is extra interessant als wordt gekeken naar een lijst van de meest populaire video's met extreme topics. 
+
+Verder uitzoeken: na het vinden van video's in Belgie en deze verder uitpluizen voor extreme video's is het wellicht een goed idee om ook naar de comments onder deze video's te kijken, aangezien deze waarschijnlijk van Belgen zijn. De accounts achter deze comments zijn mogelijk ook interessant.
+
+## Opdracht 6: Een verhaal voor de VRT
+Een interessant verhaal dat ik zou willen onderzoeken is de impact van het gebrek aan diversiteit in het Europese parlement op de beleidsvoering en de wetten die gemaakt worden. Een speciale hoofdrol kan hier natuurlijk spelen voor de Belgische nationale politici die actief zijn op het Europese toneel en welke veranderingen er mogelijk op handen zijn na de Europese verkiezingen.
+
+Data speelt hierbij natuurlijk een belangrijke rol in het analyseren ten eerste van de diversiteit van het parlement: een mogelijk interessante vergelijking is bijvoorbeeld om de diversiteit van nationale parlementen te vergelijken met de afspiegeling op Europees niveau. Daarnaast kan data verzameld worden over het soort vragen en moties die worden ingediend door Europarlementariers die behoren tot een minderheidsgroep, en of zij inhoudelijk verschillen van de vragen en moties van parlementariers uit meerderheidsgroepen. 

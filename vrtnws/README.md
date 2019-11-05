@@ -7,7 +7,6 @@ parliament_scrapers.py
 parliament.questions.py
 run_pipeline.py
 /scraped_urls
-
 ```
 
 Antwoorden:
